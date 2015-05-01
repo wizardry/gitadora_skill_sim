@@ -1,0 +1,38 @@
+@charset "utf-8";
+@import "reset";
+@import "mixin";
+@import "vars";
+@import "layouts";
+@import "buttons";
+@import "tables";
+@import "form";
+
+body{
+	min-width:map-get($default,contentWidth);
+	line-height:map-get($default,line-height);
+	font-size:map-get($default,font-size);
+	color:map-get($default,color);
+	font-family:map-get($default,font-family);
+	position: relative;
+}
+
+%clearfix{
+	@include clearfix();
+}
+
+
+
+/*grid base*/
+.gridSysWrap{}
+
+/*typography/headline*/
+.sectionHeadline{}
+.chapterHeadline{}
+.partHeadline{}
+
+.documentHeadline{}
+.formHeadline{}
+
+.read{}
+.copy{}
+
