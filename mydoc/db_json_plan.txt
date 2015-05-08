@@ -1,0 +1,67 @@
+マスタデータ（変更されないもの）
+
+トランザクションデータ（変更されるもの）
+
+ユーザーデータ
+
+DBを１つしかもてないのでテーブル量産でバージョンアップ対応出来るようにする。
+テーブル名_シリーズ名
+
+users_xx(userのログイン情報)
+	id PRIMARY_KEY
+	username VARCHAR 50
+	password VARCHAR 255
+	group INT(使わないけどデフォルトである)
+	email VARCHAR255
+	last_login VARCHAR 25
+	login_hash VARCHAR 255
+	profile_fields TEXT
+	created_at INT11
+	ユニーク：email
+
+musics_xx
+	id PRIMARY_KEY(users.idとイコール)
+	skill INT
+	TEXT(曲情報)
+	type:VARCHAR (25)				HOT or OLD
+	created_at INT11
+	last_update　VARCHAR 25
+
+userinfo_xx
+	id PRIMARY_KEY(users.idとイコール)
+	pref VARCHAR(50)
+	home TEXT
+	URL VARCHAR
+
+JSON----
+
+musics_old.json
+	musics{
+		id 1
+		title hogehoge
+		part BSC-D,
+		lv 10.00
+		,
+		id 2
+		title hogehoge
+		part ADV-D,
+		lv 15.00
+	}
+
+
+musics_hot.json
+	musics{
+		id 1
+		title hogehoge
+		part BSC-D,
+		lv 10.00
+		,
+		id 2
+		title hogehoge
+		part ADV-D,
+		lv 15.00
+	}
+
+
+
+
