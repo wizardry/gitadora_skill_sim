@@ -1,1 +1,29 @@
 h1 helloWorld
+
+.registBlock
+	- echo Form::open();
+	- echo Form::hidden(Config::get('security.csrf_token_key'), Security::fetch_token());
+	table
+		tr
+			th ユーザー名
+			td
+				- echo Form::input('username',Input::post('username'),array('required'=>'required','type'=>'text',));
+				sup 英数字8文字以内
+		tr
+			th パスワード
+			td
+				- echo Form::input('password',Input::post('password'),array('required'=>'required','type'=>'text',));
+				sup 英数字15文字以内
+		tr
+			th パスワード（確認）
+			td
+				- echo Form::input('password',Input::post('password'),array('required'=>'required','type'=>'text',));
+				sup 英数字15文字以内
+		tr
+			th メールアドレス
+			td
+				- echo Form::input('email',Input::post('email'),array('required'=>'required','type'=>'text',));
+	.buttonWrap
+		label(for="registSubmit").btnBase.submitButton 送信
+			- echo Form::submit('submit_btn', '送信',array('id'=>'registSubmit'));
+	- echo Form::close();

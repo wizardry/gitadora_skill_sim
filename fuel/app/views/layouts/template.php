@@ -2,7 +2,8 @@
 <html lang="ja">
   <head>
     <meta charset="UTF-8">
-    <title>GITADORA SKILL SIMULATOR</title>
+    <title><?php echo $title; ?>| GITADORA SKILL SIMULATOR
+    </title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -15,15 +16,14 @@
     <meta property="og:site_name" content="">
     <meta property="fb:app_id" content="">
     <meta property="og:description" content="">
-    <link rel="canonical" href="">
-    <link rel="stylesheet" href="/css/default.css">
-    <script src="/js/lib/underscore-min.js"></script>
-    <script src="/js/lib/underscore-min.map"></script>
-    <script src="/js/lib/jquery.min.js"></script>
-    <script src="/js/lib/jquery.min.map"></script>
-    <script src="/js/lib/jquery.cookie.js"></script>
-    <script src="/js/lib/backbone.js"></script>
-    <script src="/js/view/common.js"></script>
+    <link rel="canonical" href=""><?php echo Asset::css('default.css'); ?><?php echo Asset::js('lib/underscore-min.js'); ?><?php echo Asset::js('lib/underscore-min.map'); ?><?php echo Asset::js('lib/jquery.min.js'); ?><?php echo Asset::js('lib/jquery.min.map'); ?><?php echo Asset::js('lib/jquery.cookie.js'); ?><?php echo Asset::js('lib/backbone.js'); ?><?php echo Asset::js('view/common.js'); ?>
   </head>
-  <body><?php $content;?></body>
+  <body>
+    <div class="headerOuter"><?php echo $header; ?>
+    </div>
+    <div class="contentOuter"><?php echo $content; ?>
+    </div>
+    <div class="footerOuter"><?php echo $footer; ?>
+    </div>
+  </body>
 </html>
