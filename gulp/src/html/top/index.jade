@@ -1,29 +1,66 @@
-h1 helloWorld
+.contentWrap.indexPage
 
-.registBlock
-	- echo Form::open();
-	- echo Form::hidden(Config::get('security.csrf_token_key'), Security::fetch_token());
-	table
-		tr
-			th ユーザー名
-			td
-				- echo Form::input('username',Input::post('username'),array('required'=>'required','type'=>'text',));
-				sup 英数字8文字以内
-		tr
-			th パスワード
-			td
-				- echo Form::input('password',Input::post('password'),array('required'=>'required','type'=>'text',));
-				sup 英数字15文字以内
-		tr
-			th パスワード（確認）
-			td
-				- echo Form::input('password',Input::post('password'),array('required'=>'required','type'=>'text',));
-				sup 英数字15文字以内
-		tr
-			th メールアドレス
-			td
-				- echo Form::input('email',Input::post('email'),array('required'=>'required','type'=>'text',));
-	.buttonWrap
-		label(for="registSubmit").btnBase.submitButton 送信
-			- echo Form::submit('submit_btn', '送信',array('id'=>'registSubmit'));
-	- echo Form::close();
+	.sectionBlock.loginFormBlock
+		.loginBlock
+			.loginBlockInner
+				- echo Form::open();
+					dl.formFrame
+						dt ユーザーID
+						dd
+							- echo Form::input('userid',Input::post('userid'),array('required'=>'required','type'=>'text',));
+					dl.formFrame
+						dt パスワード
+						dd
+							- echo Form::input('password',Input::post('password'),array('required'=>'required','type'=>'password',));
+					.buttonWrap
+						label.submitBase.default(for="loginSubmit")
+							- echo Form::submit('submit_btn', 'ログイン',array('id'=>'loginSubmit'));
+				- echo Form::close();
+		.registBlock
+			.registBlockInner
+				p
+					a(href="newregist/").linkButtonBase.newRegist 新規登録
+	.sectionBlock.toSearchBlock
+		p
+			a(href="search/").linkButtonBase.toSearch 検索 
+
+
+
+
+
+
+.testWrap
+	h1 helloWorld
+	-Debug::$js_toggle_open = true;
+	- Debug::dump($query);
+	- Debug::dump($res1);
+	//- - Debug::dump($resTestText);
+	.registBlock
+		//- - echo Form::open('/connecttest');
+		//- - echo Form::open();
+		form(method="POST")
+			- echo Form::hidden(Config::get('security.csrf_token_key'), Security::fetch_token());
+			table
+				tr
+					th ユーザー名
+					td
+						- echo Form::input('username',Input::post('username'),array('required'=>'required','type'=>'text',));
+						sup 英数字8文字以内
+				tr
+					th パスワード
+					td
+						- echo Form::input('password',Input::post('password'),array('required'=>'required','type'=>'text',));
+						sup 英数字15文字以内
+				tr
+					th パスワード（確認）
+					td
+						- echo Form::input('password',Input::post('password'),array('required'=>'required','type'=>'text',));
+						sup 英数字15文字以内
+				tr
+					th メールアドレス
+					td
+						- echo Form::input('email',Input::post('email'),array('required'=>'required','type'=>'text',));
+			.buttonWrap
+				label(for="registSubmit").btnBase.submitButton 送信
+					- echo Form::submit('submit_btn', '送信',array('id'=>'registSubmit'));
+			//- - echo Form::close();

@@ -13,7 +13,33 @@
 // a{}等と指定してもそれが最終的にaタグとは限らない。
 // span,labelなどに置き変わることも考慮する。
 .submitBase{
-	&.primary{}
+	position: relative;
+	cursor: pointer;
+	padding:8px 16px;
+	@include animAdd(all);
+	font-size: 14px;
+	padding:8px 16px;
+	display: block;
+	min-width:240px;
+	max-width:380px;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 4px;
+	box-shadow:0px 0px 5px -1px #333;
+	font-weight: bold;
+	+ input[type=button],+ input[type=submit],
+	input[type=button],input[type=submit],{
+		opacity:0;
+		position: absolute;
+		left: -100%;
+	}
+	&.primary{
+		background:#0064cd;
+		color:#fff;
+		&:hover{
+			background:lighten(#0064cd,5%);
+		}
+	}
 	&.secondary{}
 	&.terthiry{}
 	&.success{}
@@ -39,6 +65,17 @@
 	&.default{}
 }
 .linkButtonBase{
+	@include animAdd(all);
+	font-size: 14px;
+	padding:8px 16px;
+	display: block;
+	min-width:240px;
+	max-width:380px;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 4px;
+	box-shadow:0px 0px 5px -1px #333;
+	font-weight: bold;
 	&.primary{}
 	&.secondary{}
 	&.terthiry{}
@@ -50,7 +87,22 @@
 	&.inverse{}
 	&.info{}
 	&.default{}
-}
+	&.newRegist{
+		background:#f37318;
+		color:#fff;
+		&:hover{
+			background:lighten(#f37318,5%);
+		}
+	}
+	&.toSearch{
+		margin:0 auto;
+		background:#5f5f5f;
+		color:#fff;
+		&:hover{
+			background: lighten(#5f5f5f,5%);
+		}
+	}
+}	
 
 // hint
 // ボタン数の増減は考慮出来ているか

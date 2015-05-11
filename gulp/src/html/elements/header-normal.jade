@@ -1,3 +1,11 @@
 header
 	.headerWrap
-		h1 GITADORA スキルシミュレーター α
+		.logoWrap
+			h1 GITADORA スキルシミュレーター α
+			p このページはGITADORAのスキルを管理するスキルシミュレーターです。
+		- if(Auth::get_screen_name()){
+			.loginInfo 
+				-echo 'ユーザー名';
+		- }
+
+

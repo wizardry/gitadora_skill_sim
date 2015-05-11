@@ -35,4 +35,57 @@ body{
 
 .read{}
 .copy{}
+.sectionBlock{
+	@extend %clearfix;
+}
 
+.headerOuter{
+	width:100%;
+	background:#212121;
+	color:#ccc;
+}
+.headerWrap{
+	@extend %clearfix;
+	padding:8px 16px;
+	margin:0 auto;
+	max-width:map-get($default,maxWidth);
+	.logoWrap{
+		float: left;
+		h1{
+			font-size: 26px;
+			font-weight: bold;
+			display: inline-block;
+		}
+		p{
+			display: inline-block;
+		}
+	}
+	.loginInfo{
+		float: right;
+		width: 250px;
+		background:#333;
+	}
+}
+.contentOuter{
+	background:#f1f1f1;
+}
+.contentWrap{
+	margin:0 auto;
+	padding:16px;
+	max-width:map-get($default,maxWidth);
+}
+.indexPage{
+	.loginBlock,.registBlock{
+		padding:8px 16px;
+		float: left;
+	}
+	.loginBlockInner,.registBlockInner{
+	}
+	.registBlock{
+	}
+}
+.registPage{
+	.submitBase{
+		margin:0 auto;
+	}
+}

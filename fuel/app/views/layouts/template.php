@@ -2,7 +2,7 @@
 <html lang="ja">
   <head>
     <meta charset="UTF-8">
-    <title><?php echo $title; ?>| GITADORA SKILL SIMULATOR
+    <title><?php echo $title; ?>　| GITADORA SKILL SIMULATOR
     </title>
     <meta name="keywords" content="">
     <meta name="description" content="">
