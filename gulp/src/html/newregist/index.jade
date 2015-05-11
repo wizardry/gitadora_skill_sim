@@ -1,0 +1,21 @@
+.contentWrap.registPage
+	.sectionBlock
+		- echo Form::open();
+		- echo Form::hidden(Config::get('security.csrf_token_key'), Security::fetch_token());
+		dl.formFrame
+			dt メールアドレス
+			dd
+				- echo Form::input('email',Input::post('email'),array('required'=>'required','type'=>'text',));
+		dl.formFrame
+			dt パスワード
+			dd
+				- echo Form::input('password',Input::post('password'),array('required'=>'required','type'=>'text',));
+		dl.formFrame
+			dt 表示ネーム
+			dd
+				- echo Form::input('username',Input::post('username'),array('required'=>'required','type'=>'text',));
+		.buttonWrap
+			label.submitBase.primary(for="registSubmit") 仮登録
+				- echo Form::submit('submit_btn', '仮登録',array('id'=>'registSubmit'));
+
+		- echo Form::close();
