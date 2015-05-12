@@ -1,0 +1,2042 @@
+[
+	"musics",{
+		"id":1,
+		"title":"Mr. Darling",
+		"part":"BSC-D",
+		"lv":"1.80"
+	},{
+		"id":2,
+		"title":"Mr. Darling",
+		"part":"ADV-D",
+		"lv":"3.30"
+	},{
+		"id":3,
+		"title":"Mr. Darling",
+		"part":"EXT-D",
+		"lv":"4.80"
+	},{
+		"id":4,
+		"title":"Mr. Darling",
+		"part":"MAS-D",
+		"lv":"6.00"
+	},{
+		"id":5,
+		"title":"Mr. Darling",
+		"part":"BSC-G",
+		"lv":"1.10"
+	},{
+		"id":6,
+		"title":"Mr. Darling",
+		"part":"ADV-G",
+		"lv":"2.35"
+	},{
+		"id":7,
+		"title":"Mr. Darling",
+		"part":"EXT-G",
+		"lv":"4.70"
+	},{
+		"id":8,
+		"title":"Mr. Darling",
+		"part":"MAS-G",
+		"lv":"6.65"
+	},{
+		"id":9,
+		"title":"Mr. Darling",
+		"part":"BSC-B",
+		"lv":"1.30"
+	},{
+		"id":10,
+		"title":"Mr. Darling",
+		"part":"ADV-B",
+		"lv":"2.50"
+	},{
+		"id":11,
+		"title":"Mr. Darling",
+		"part":"EXT-B",
+		"lv":"5.00"
+	},{
+		"id":12,
+		"title":"Mr. Darling",
+		"part":"MAS-B",
+		"lv":"6.60"
+	},{
+		"id":13,
+		"title":"STAND PROUD",
+		"part":"BSC-D",
+		"lv":"2.50"
+	},{
+		"id":14,
+		"title":"STAND PROUD",
+		"part":"ADV-D",
+		"lv":"4.90"
+	},{
+		"id":15,
+		"title":"STAND PROUD",
+		"part":"EXT-D",
+		"lv":"6.50"
+	},{
+		"id":16,
+		"title":"STAND PROUD",
+		"part":"MAS-D",
+		"lv":"7.70"
+	},{
+		"id":17,
+		"title":"STAND PROUD",
+		"part":"BSC-G",
+		"lv":"2.40"
+	},{
+		"id":18,
+		"title":"STAND PROUD",
+		"part":"ADV-G",
+		"lv":"4.80"
+	},{
+		"id":19,
+		"title":"STAND PROUD",
+		"part":"EXT-G",
+		"lv":"7.25"
+	},{
+		"id":20,
+		"title":"STAND PROUD",
+		"part":"MAS-G",
+		"lv":"8.10"
+	},{
+		"id":21,
+		"title":"STAND PROUD",
+		"part":"BSC-B",
+		"lv":"2.55"
+	},{
+		"id":22,
+		"title":"STAND PROUD",
+		"part":"ADV-B",
+		"lv":"4.50"
+	},{
+		"id":23,
+		"title":"STAND PROUD",
+		"part":"EXT-B",
+		"lv":"6.40"
+	},{
+		"id":24,
+		"title":"STAND PROUD",
+		"part":"MAS-B",
+		"lv":"7.20"
+	},{
+		"id":25,
+		"title":"青い月",
+		"part":"BSC-D",
+		"lv":"2.30"
+	},{
+		"id":26,
+		"title":"青い月",
+		"part":"ADV-D",
+		"lv":"4.70"
+	},{
+		"id":27,
+		"title":"青い月",
+		"part":"EXT-D",
+		"lv":"5.80"
+	},{
+		"id":28,
+		"title":"青い月",
+		"part":"MAS-D",
+		"lv":"7.05"
+	},{
+		"id":29,
+		"title":"青い月",
+		"part":"BSC-G",
+		"lv":"2.15"
+	},{
+		"id":30,
+		"title":"青い月",
+		"part":"ADV-G",
+		"lv":"4.20"
+	},{
+		"id":31,
+		"title":"青い月",
+		"part":"EXT-G",
+		"lv":"5.70"
+	},{
+		"id":32,
+		"title":"青い月",
+		"part":"MAS-G",
+		"lv":"6.45"
+	},{
+		"id":33,
+		"title":"青い月",
+		"part":"BSC-B",
+		"lv":"2.35"
+	},{
+		"id":34,
+		"title":"青い月",
+		"part":"ADV-B",
+		"lv":"3.70"
+	},{
+		"id":35,
+		"title":"青い月",
+		"part":"EXT-B",
+		"lv":"5.80"
+	},{
+		"id":36,
+		"title":"青い月",
+		"part":"MAS-B",
+		"lv":"6.75"
+	},{
+		"id":37,
+		"title":"有頂天ビバーチェ",
+		"part":"BSC-D",
+		"lv":"3.15"
+	},{
+		"id":38,
+		"title":"有頂天ビバーチェ",
+		"part":"ADV-D",
+		"lv":"5.95"
+	},{
+		"id":39,
+		"title":"有頂天ビバーチェ",
+		"part":"EXT-D",
+		"lv":"7.40"
+	},{
+		"id":40,
+		"title":"有頂天ビバーチェ",
+		"part":"MAS-D",
+		"lv":"8.25"
+	},{
+		"id":41,
+		"title":"有頂天ビバーチェ",
+		"part":"BSC-G",
+		"lv":"3.40"
+	},{
+		"id":42,
+		"title":"有頂天ビバーチェ",
+		"part":"ADV-G",
+		"lv":"5.75"
+	},{
+		"id":43,
+		"title":"有頂天ビバーチェ",
+		"part":"EXT-G",
+		"lv":"7.80"
+	},{
+		"id":44,
+		"title":"有頂天ビバーチェ",
+		"part":"MAS-G",
+		"lv":"8.40"
+	},{
+		"id":45,
+		"title":"有頂天ビバーチェ",
+		"part":"BSC-B",
+		"lv":"2.50"
+	},{
+		"id":46,
+		"title":"有頂天ビバーチェ",
+		"part":"ADV-B",
+		"lv":"4.45"
+	},{
+		"id":47,
+		"title":"有頂天ビバーチェ",
+		"part":"EXT-B",
+		"lv":"5.50"
+	},{
+		"id":48,
+		"title":"有頂天ビバーチェ",
+		"part":"MAS-B",
+		"lv":"7.40"
+	},{
+		"id":49,
+		"title":"天国ミュージック",
+		"part":"BSC-D",
+		"lv":"2.60"
+	},{
+		"id":50,
+		"title":"天国ミュージック",
+		"part":"ADV-D",
+		"lv":"4.75"
+	},{
+		"id":51,
+		"title":"天国ミュージック",
+		"part":"EXT-D",
+		"lv":"6.10"
+	},{
+		"id":52,
+		"title":"天国ミュージック",
+		"part":"MAS-D",
+		"lv":"7.90"
+	},{
+		"id":53,
+		"title":"天国ミュージック",
+		"part":"BSC-G",
+		"lv":"2.60"
+	},{
+		"id":54,
+		"title":"天国ミュージック",
+		"part":"ADV-G",
+		"lv":"4.80"
+	},{
+		"id":55,
+		"title":"天国ミュージック",
+		"part":"EXT-G",
+		"lv":"6.00"
+	},{
+		"id":56,
+		"title":"天国ミュージック",
+		"part":"MAS-G",
+		"lv":"7.40"
+	},{
+		"id":57,
+		"title":"天国ミュージック",
+		"part":"BSC-B",
+		"lv":"2.65"
+	},{
+		"id":58,
+		"title":"天国ミュージック",
+		"part":"ADV-B",
+		"lv":"4.40"
+	},{
+		"id":59,
+		"title":"天国ミュージック",
+		"part":"EXT-B",
+		"lv":"5.40"
+	},{
+		"id":60,
+		"title":"天国ミュージック",
+		"part":"MAS-B",
+		"lv":"6.40"
+	},{
+		"id":61,
+		"title":"箱庭の世界",
+		"part":"BSC-D",
+		"lv":"1.60"
+	},{
+		"id":62,
+		"title":"箱庭の世界",
+		"part":"ADV-D",
+		"lv":"3.00"
+	},{
+		"id":63,
+		"title":"箱庭の世界",
+		"part":"EXT-D",
+		"lv":"4.70"
+	},{
+		"id":64,
+		"title":"箱庭の世界",
+		"part":"MAS-D",
+		"lv":"6.30"
+	},{
+		"id":65,
+		"title":"箱庭の世界",
+		"part":"BSC-G",
+		"lv":"2.20"
+	},{
+		"id":66,
+		"title":"箱庭の世界",
+		"part":"ADV-G",
+		"lv":"3.90"
+	},{
+		"id":67,
+		"title":"箱庭の世界",
+		"part":"EXT-G",
+		"lv":"4.80"
+	},{
+		"id":68,
+		"title":"箱庭の世界",
+		"part":"MAS-G",
+		"lv":"6.20"
+	},{
+		"id":69,
+		"title":"箱庭の世界",
+		"part":"BSC-B",
+		"lv":"2.25"
+	},{
+		"id":70,
+		"title":"箱庭の世界",
+		"part":"ADV-B",
+		"lv":"4.10"
+	},{
+		"id":71,
+		"title":"箱庭の世界",
+		"part":"EXT-B",
+		"lv":"5.20"
+	},{
+		"id":72,
+		"title":"箱庭の世界",
+		"part":"MAS-B",
+		"lv":"6.20"
+	},{
+		"id":73,
+		"title":"メギツネ",
+		"part":"BSC-D",
+		"lv":"3.00"
+	},{
+		"id":74,
+		"title":"メギツネ",
+		"part":"ADV-D",
+		"lv":"5.50"
+	},{
+		"id":75,
+		"title":"メギツネ",
+		"part":"EXT-D",
+		"lv":"6.80"
+	},{
+		"id":76,
+		"title":"メギツネ",
+		"part":"MAS-D",
+		"lv":"7.80"
+	},{
+		"id":77,
+		"title":"メギツネ",
+		"part":"BSC-G",
+		"lv":"2.00"
+	},{
+		"id":78,
+		"title":"メギツネ",
+		"part":"ADV-G",
+		"lv":"4.90"
+	},{
+		"id":79,
+		"title":"メギツネ",
+		"part":"EXT-G",
+		"lv":"7.50"
+	},{
+		"id":80,
+		"title":"メギツネ",
+		"part":"MAS-G",
+		"lv":"8.25"
+	},{
+		"id":81,
+		"title":"メギツネ",
+		"part":"BSC-B",
+		"lv":"2.10"
+	},{
+		"id":82,
+		"title":"メギツネ",
+		"part":"ADV-B",
+		"lv":"4.65"
+	},{
+		"id":83,
+		"title":"メギツネ",
+		"part":"EXT-B",
+		"lv":"6.70"
+	},{
+		"id":84,
+		"title":"メギツネ",
+		"part":"MAS-B",
+		"lv":"7.30"
+	},{
+		"id":85,
+		"title":"DEMON SLAYER",
+		"part":"BSC-D",
+		"lv":"3.50"
+	},{
+		"id":86,
+		"title":"DEMON SLAYER",
+		"part":"ADV-D",
+		"lv":"5.50"
+	},{
+		"id":87,
+		"title":"DEMON SLAYER",
+		"part":"EXT-D",
+		"lv":"6.95"
+	},{
+		"id":88,
+		"title":"DEMON SLAYER",
+		"part":"MAS-D",
+		"lv":"8.20"
+	},{
+		"id":89,
+		"title":"DEMON SLAYER",
+		"part":"BSC-G",
+		"lv":"2.70"
+	},{
+		"id":90,
+		"title":"DEMON SLAYER",
+		"part":"ADV-G",
+		"lv":"5.50"
+	},{
+		"id":91,
+		"title":"DEMON SLAYER",
+		"part":"EXT-G",
+		"lv":"7.75"
+	},{
+		"id":92,
+		"title":"DEMON SLAYER",
+		"part":"MAS-G",
+		"lv":"9.20"
+	},{
+		"id":93,
+		"title":"DEMON SLAYER",
+		"part":"BSC-B",
+		"lv":"3.10"
+	},{
+		"id":94,
+		"title":"DEMON SLAYER",
+		"part":"ADV-B",
+		"lv":"5.40"
+	},{
+		"id":95,
+		"title":"DEMON SLAYER",
+		"part":"EXT-B",
+		"lv":"6.90"
+	},{
+		"id":96,
+		"title":"DEMON SLAYER",
+		"part":"MAS-B",
+		"lv":"7.80"
+	},{
+		"id":97,
+		"title":"FAIRY TALE",
+		"part":"BSC-D",
+		"lv":"3.20"
+	},{
+		"id":98,
+		"title":"FAIRY TALE",
+		"part":"ADV-D",
+		"lv":"5.75"
+	},{
+		"id":99,
+		"title":"FAIRY TALE",
+		"part":"EXT-D",
+		"lv":"7.30"
+	},{
+		"id":100,
+		"title":"FAIRY TALE",
+		"part":"MAS-D",
+		"lv":"8.30"
+	},{
+		"id":101,
+		"title":"FAIRY TALE",
+		"part":"BSC-G",
+		"lv":"2.90"
+	},{
+		"id":102,
+		"title":"FAIRY TALE",
+		"part":"ADV-G",
+		"lv":"5.10"
+	},{
+		"id":103,
+		"title":"FAIRY TALE",
+		"part":"EXT-G",
+		"lv":"7.20"
+	},{
+		"id":104,
+		"title":"FAIRY TALE",
+		"part":"MAS-G",
+		"lv":"7.85"
+	},{
+		"id":105,
+		"title":"FAIRY TALE",
+		"part":"BSC-B",
+		"lv":"2.40"
+	},{
+		"id":106,
+		"title":"FAIRY TALE",
+		"part":"ADV-B",
+		"lv":"4.70"
+	},{
+		"id":107,
+		"title":"FAIRY TALE",
+		"part":"EXT-B",
+		"lv":"6.30"
+	},{
+		"id":108,
+		"title":"FAIRY TALE",
+		"part":"MAS-B",
+		"lv":"6.90"
+	},{
+		"id":109,
+		"title":"Party People",
+		"part":"BSC-D",
+		"lv":"2.70"
+	},{
+		"id":110,
+		"title":"Party People",
+		"part":"ADV-D",
+		"lv":"5.40"
+	},{
+		"id":111,
+		"title":"Party People",
+		"part":"EXT-D",
+		"lv":"7.05"
+	},{
+		"id":112,
+		"title":"Party People",
+		"part":"MAS-D",
+		"lv":"8.45"
+	},{
+		"id":113,
+		"title":"Party People",
+		"part":"BSC-G",
+		"lv":"2.70"
+	},{
+		"id":114,
+		"title":"Party People",
+		"part":"ADV-G",
+		"lv":"5.00"
+	},{
+		"id":115,
+		"title":"Party People",
+		"part":"EXT-G",
+		"lv":"7.00"
+	},{
+		"id":116,
+		"title":"Party People",
+		"part":"MAS-G",
+		"lv":"7.65"
+	},{
+		"id":117,
+		"title":"Party People",
+		"part":"BSC-B",
+		"lv":"2.40"
+	},{
+		"id":118,
+		"title":"Party People",
+		"part":"ADV-B",
+		"lv":"4.10"
+	},{
+		"id":119,
+		"title":"Party People",
+		"part":"EXT-B",
+		"lv":"6.00"
+	},{
+		"id":120,
+		"title":"Party People",
+		"part":"MAS-B",
+		"lv":"6.60"
+	},{
+		"id":121,
+		"title":"Street For Student",
+		"part":"BSC-D",
+		"lv":"2.80"
+	},{
+		"id":122,
+		"title":"Street For Student",
+		"part":"ADV-D",
+		"lv":"5.00"
+	},{
+		"id":123,
+		"title":"Street For Student",
+		"part":"EXT-D",
+		"lv":"7.35"
+	},{
+		"id":124,
+		"title":"Street For Student",
+		"part":"MAS-D",
+		"lv":"8.50"
+	},{
+		"id":125,
+		"title":"Street For Student",
+		"part":"BSC-G",
+		"lv":"3.00"
+	},{
+		"id":126,
+		"title":"Street For Student",
+		"part":"ADV-G",
+		"lv":"5.55"
+	},{
+		"id":127,
+		"title":"Street For Student",
+		"part":"EXT-G",
+		"lv":"7.35"
+	},{
+		"id":128,
+		"title":"Street For Student",
+		"part":"MAS-G",
+		"lv":"8.20"
+	},{
+		"id":129,
+		"title":"Street For Student",
+		"part":"BSC-B",
+		"lv":"3.35"
+	},{
+		"id":130,
+		"title":"Street For Student",
+		"part":"ADV-B",
+		"lv":"5.40"
+	},{
+		"id":131,
+		"title":"Street For Student",
+		"part":"EXT-B",
+		"lv":"7.00"
+	},{
+		"id":132,
+		"title":"Street For Student",
+		"part":"MAS-B",
+		"lv":"8.05"
+	},{
+		"id":133,
+		"title":"恋のミラクルレシピ",
+		"part":"BSC-D",
+		"lv":"2.40"
+	},{
+		"id":134,
+		"title":"恋のミラクルレシピ",
+		"part":"ADV-D",
+		"lv":"5.35"
+	},{
+		"id":135,
+		"title":"恋のミラクルレシピ",
+		"part":"EXT-D",
+		"lv":"6.85"
+	},{
+		"id":136,
+		"title":"恋のミラクルレシピ",
+		"part":"MAS-D",
+		"lv":"7.90"
+	},{
+		"id":137,
+		"title":"恋のミラクルレシピ",
+		"part":"BSC-G",
+		"lv":"2.50"
+	},{
+		"id":138,
+		"title":"恋のミラクルレシピ",
+		"part":"ADV-G",
+		"lv":"4.80"
+	},{
+		"id":139,
+		"title":"恋のミラクルレシピ",
+		"part":"EXT-G",
+		"lv":"6.65"
+	},{
+		"id":140,
+		"title":"恋のミラクルレシピ",
+		"part":"MAS-G",
+		"lv":"7.55"
+	},{
+		"id":141,
+		"title":"恋のミラクルレシピ",
+		"part":"BSC-B",
+		"lv":"2.30"
+	},{
+		"id":142,
+		"title":"恋のミラクルレシピ",
+		"part":"ADV-B",
+		"lv":"4.00"
+	},{
+		"id":143,
+		"title":"恋のミラクルレシピ",
+		"part":"EXT-B",
+		"lv":"5.90"
+	},{
+		"id":144,
+		"title":"恋のミラクルレシピ",
+		"part":"MAS-B",
+		"lv":"6.80"
+	},{
+		"id":145,
+		"title":"ブラックホール",
+		"part":"BSC-D",
+		"lv":"2.65"
+	},{
+		"id":146,
+		"title":"ブラックホール",
+		"part":"ADV-D",
+		"lv":"4.80"
+	},{
+		"id":147,
+		"title":"ブラックホール",
+		"part":"EXT-D",
+		"lv":"7.20"
+	},{
+		"id":148,
+		"title":"ブラックホール",
+		"part":"MAS-D",
+		"lv":"8.00"
+	},{
+		"id":149,
+		"title":"ブラックホール",
+		"part":"BSC-G",
+		"lv":"3.00"
+	},{
+		"id":150,
+		"title":"ブラックホール",
+		"part":"ADV-G",
+		"lv":"5.25"
+	},{
+		"id":151,
+		"title":"ブラックホール",
+		"part":"EXT-G",
+		"lv":"7.00"
+	},{
+		"id":152,
+		"title":"ブラックホール",
+		"part":"MAS-G",
+		"lv":"7.70"
+	},{
+		"id":153,
+		"title":"ブラックホール",
+		"part":"BSC-B",
+		"lv":"2.95"
+	},{
+		"id":154,
+		"title":"ブラックホール",
+		"part":"ADV-B",
+		"lv":"4.80"
+	},{
+		"id":155,
+		"title":"ブラックホール",
+		"part":"EXT-B",
+		"lv":"5.70"
+	},{
+		"id":156,
+		"title":"ブラックホール",
+		"part":"MAS-B",
+		"lv":"6.30"
+	},{
+		"id":157,
+		"title":"めた・メタ?ひまわり*パンチ",
+		"part":"BSC-D",
+		"lv":"2.70"
+	},{
+		"id":158,
+		"title":"めた・メタ?ひまわり*パンチ",
+		"part":"ADV-D",
+		"lv":"5.15"
+	},{
+		"id":159,
+		"title":"めた・メタ?ひまわり*パンチ",
+		"part":"EXT-D",
+		"lv":"6.40"
+	},{
+		"id":160,
+		"title":"めた・メタ?ひまわり*パンチ",
+		"part":"MAS-D",
+		"lv":"7.55"
+	},{
+		"id":161,
+		"title":"めた・メタ?ひまわり*パンチ",
+		"part":"BSC-G",
+		"lv":"2.70"
+	},{
+		"id":162,
+		"title":"めた・メタ?ひまわり*パンチ",
+		"part":"ADV-G",
+		"lv":"4.45"
+	},{
+		"id":163,
+		"title":"めた・メタ?ひまわり*パンチ",
+		"part":"EXT-G",
+		"lv":"6.15"
+	},{
+		"id":164,
+		"title":"めた・メタ?ひまわり*パンチ",
+		"part":"MAS-G",
+		"lv":"7.40"
+	},{
+		"id":165,
+		"title":"めた・メタ?ひまわり*パンチ",
+		"part":"BSC-B",
+		"lv":"2.75"
+	},{
+		"id":166,
+		"title":"めた・メタ?ひまわり*パンチ",
+		"part":"ADV-B",
+		"lv":"4.50"
+	},{
+		"id":167,
+		"title":"めた・メタ?ひまわり*パンチ",
+		"part":"EXT-B",
+		"lv":"5.80"
+	},{
+		"id":168,
+		"title":"めた・メタ?ひまわり*パンチ",
+		"part":"MAS-B",
+		"lv":"6.65"
+	},{
+		"id":169,
+		"title":"夕星の芒野と消ゆ",
+		"part":"BSC-D",
+		"lv":"2.50"
+	},{
+		"id":170,
+		"title":"夕星の芒野と消ゆ",
+		"part":"ADV-D",
+		"lv":"4.50"
+	},{
+		"id":171,
+		"title":"夕星の芒野と消ゆ",
+		"part":"EXT-D",
+		"lv":"6.30"
+	},{
+		"id":172,
+		"title":"夕星の芒野と消ゆ",
+		"part":"MAS-D",
+		"lv":"7.25"
+	},{
+		"id":173,
+		"title":"夕星の芒野と消ゆ",
+		"part":"BSC-G",
+		"lv":"3.10"
+	},{
+		"id":174,
+		"title":"夕星の芒野と消ゆ",
+		"part":"ADV-G",
+		"lv":"5.35"
+	},{
+		"id":175,
+		"title":"夕星の芒野と消ゆ",
+		"part":"EXT-G",
+		"lv":"6.90"
+	},{
+		"id":176,
+		"title":"夕星の芒野と消ゆ",
+		"part":"MAS-G",
+		"lv":"8.20"
+	},{
+		"id":177,
+		"title":"夕星の芒野と消ゆ",
+		"part":"BSC-B",
+		"lv":"3.30"
+	},{
+		"id":178,
+		"title":"夕星の芒野と消ゆ",
+		"part":"ADV-B",
+		"lv":"5.70"
+	},{
+		"id":179,
+		"title":"夕星の芒野と消ゆ",
+		"part":"EXT-B",
+		"lv":"6.70"
+	},{
+		"id":180,
+		"title":"夕星の芒野と消ゆ",
+		"part":"MAS-B",
+		"lv":"7.80"
+	},{
+		"id":181,
+		"title":"ララバイ哀愁",
+		"part":"BSC-D",
+		"lv":"2.40"
+	},{
+		"id":182,
+		"title":"ララバイ哀愁",
+		"part":"ADV-D",
+		"lv":"3.50"
+	},{
+		"id":183,
+		"title":"ララバイ哀愁",
+		"part":"EXT-D",
+		"lv":"5.70"
+	},{
+		"id":184,
+		"title":"ララバイ哀愁",
+		"part":"MAS-D",
+		"lv":"6.45"
+	},{
+		"id":185,
+		"title":"ララバイ哀愁",
+		"part":"BSC-G",
+		"lv":"2.60"
+	},{
+		"id":186,
+		"title":"ララバイ哀愁",
+		"part":"ADV-G",
+		"lv":"3.70"
+	},{
+		"id":187,
+		"title":"ララバイ哀愁",
+		"part":"EXT-G",
+		"lv":"5.70"
+	},{
+		"id":188,
+		"title":"ララバイ哀愁",
+		"part":"MAS-G",
+		"lv":"7.45"
+	},{
+		"id":189,
+		"title":"ララバイ哀愁",
+		"part":"BSC-B",
+		"lv":"2.30"
+	},{
+		"id":190,
+		"title":"ララバイ哀愁",
+		"part":"ADV-B",
+		"lv":"3.40"
+	},{
+		"id":191,
+		"title":"ララバイ哀愁",
+		"part":"EXT-B",
+		"lv":"5.65"
+	},{
+		"id":192,
+		"title":"ララバイ哀愁",
+		"part":"MAS-B",
+		"lv":"7.50"
+	},{
+		"id":193,
+		"title":"Russian Caravan Rhapsody",
+		"part":"BSC-D",
+		"lv":"2.40"
+	},{
+		"id":194,
+		"title":"Russian Caravan Rhapsody",
+		"part":"ADV-D",
+		"lv":"4.90"
+	},{
+		"id":195,
+		"title":"Russian Caravan Rhapsody",
+		"part":"EXT-D",
+		"lv":"7.40"
+	},{
+		"id":196,
+		"title":"Russian Caravan Rhapsody",
+		"part":"MAS-D",
+		"lv":"8.50"
+	},{
+		"id":197,
+		"title":"Russian Caravan Rhapsody",
+		"part":"BSC-G",
+		"lv":"2.40"
+	},{
+		"id":198,
+		"title":"Russian Caravan Rhapsody",
+		"part":"ADV-G",
+		"lv":"5.10"
+	},{
+		"id":199,
+		"title":"Russian Caravan Rhapsody",
+		"part":"EXT-G",
+		"lv":"7.15"
+	},{
+		"id":200,
+		"title":"Russian Caravan Rhapsody",
+		"part":"MAS-G",
+		"lv":"8.00"
+	},{
+		"id":201,
+		"title":"Russian Caravan Rhapsody",
+		"part":"BSC-B",
+		"lv":"2.70"
+	},{
+		"id":202,
+		"title":"Russian Caravan Rhapsody",
+		"part":"ADV-B",
+		"lv":"5.25"
+	},{
+		"id":203,
+		"title":"Russian Caravan Rhapsody",
+		"part":"EXT-B",
+		"lv":"6.55"
+	},{
+		"id":204,
+		"title":"Russian Caravan Rhapsody",
+		"part":"MAS-B",
+		"lv":"7.75"
+	},{
+		"id":205,
+		"title":"Silver star",
+		"part":"BSC-D",
+		"lv":"3.20"
+	},{
+		"id":206,
+		"title":"Silver star",
+		"part":"ADV-D",
+		"lv":"5.90"
+	},{
+		"id":207,
+		"title":"Silver star",
+		"part":"EXT-D",
+		"lv":"7.20"
+	},{
+		"id":208,
+		"title":"Silver star",
+		"part":"MAS-D",
+		"lv":"8.30"
+	},{
+		"id":209,
+		"title":"Silver star",
+		"part":"BSC-G",
+		"lv":"3.25"
+	},{
+		"id":210,
+		"title":"Silver star",
+		"part":"ADV-G",
+		"lv":"5.50"
+	},{
+		"id":211,
+		"title":"Silver star",
+		"part":"EXT-G",
+		"lv":"7.45"
+	},{
+		"id":212,
+		"title":"Silver star",
+		"part":"MAS-G",
+		"lv":"8.55"
+	},{
+		"id":213,
+		"title":"Silver star",
+		"part":"BSC-B",
+		"lv":"3.10"
+	},{
+		"id":214,
+		"title":"Silver star",
+		"part":"ADV-B",
+		"lv":"5.40"
+	},{
+		"id":215,
+		"title":"Silver star",
+		"part":"EXT-B",
+		"lv":"7.60"
+	},{
+		"id":216,
+		"title":"Silver star",
+		"part":"MAS-B",
+		"lv":"8.65"
+	},{
+		"id":217,
+		"title":"EVIL OGRE",
+		"part":"BSC-D",
+		"lv":"3.30"
+	},{
+		"id":218,
+		"title":"EVIL OGRE",
+		"part":"ADV-D",
+		"lv":"5.25"
+	},{
+		"id":219,
+		"title":"EVIL OGRE",
+		"part":"EXT-D",
+		"lv":"7.65"
+	},{
+		"id":220,
+		"title":"EVIL OGRE",
+		"part":"MAS-D",
+		"lv":"8.50"
+	},{
+		"id":221,
+		"title":"EVIL OGRE",
+		"part":"BSC-G",
+		"lv":"3.00"
+	},{
+		"id":222,
+		"title":"EVIL OGRE",
+		"part":"ADV-G",
+		"lv":"5.60"
+	},{
+		"id":223,
+		"title":"EVIL OGRE",
+		"part":"EXT-G",
+		"lv":"7.10"
+	},{
+		"id":224,
+		"title":"EVIL OGRE",
+		"part":"MAS-G",
+		"lv":"8.60"
+	},{
+		"id":225,
+		"title":"EVIL OGRE",
+		"part":"BSC-B",
+		"lv":"3.20"
+	},{
+		"id":226,
+		"title":"EVIL OGRE",
+		"part":"ADV-B",
+		"lv":"5.20"
+	},{
+		"id":227,
+		"title":"EVIL OGRE",
+		"part":"EXT-B",
+		"lv":"6.95"
+	},{
+		"id":228,
+		"title":"EVIL OGRE",
+		"part":"MAS-B",
+		"lv":"8.40"
+	},{
+		"id":229,
+		"title":"サヨナラ・ヘヴン -GITADOROCK ver.-",
+		"part":"BSC-D",
+		"lv":"3.10"
+	},{
+		"id":230,
+		"title":"サヨナラ・ヘヴン -GITADOROCK ver.-",
+		"part":"ADV-D",
+		"lv":"5.20"
+	},{
+		"id":231,
+		"title":"サヨナラ・ヘヴン -GITADOROCK ver.-",
+		"part":"EXT-D",
+		"lv":"7.60"
+	},{
+		"id":232,
+		"title":"サヨナラ・ヘヴン -GITADOROCK ver.-",
+		"part":"MAS-D",
+		"lv":"8.85"
+	},{
+		"id":233,
+		"title":"サヨナラ・ヘヴン -GITADOROCK ver.-",
+		"part":"BSC-G",
+		"lv":"3.30"
+	},{
+		"id":234,
+		"title":"サヨナラ・ヘヴン -GITADOROCK ver.-",
+		"part":"ADV-G",
+		"lv":"5.30"
+	},{
+		"id":235,
+		"title":"サヨナラ・ヘヴン -GITADOROCK ver.-",
+		"part":"EXT-G",
+		"lv":"7.45"
+	},{
+		"id":236,
+		"title":"サヨナラ・ヘヴン -GITADOROCK ver.-",
+		"part":"MAS-G",
+		"lv":"9.45"
+	},{
+		"id":237,
+		"title":"サヨナラ・ヘヴン -GITADOROCK ver.-",
+		"part":"BSC-B",
+		"lv":"2.90"
+	},{
+		"id":238,
+		"title":"サヨナラ・ヘヴン -GITADOROCK ver.-",
+		"part":"ADV-B",
+		"lv":"5.35"
+	},{
+		"id":239,
+		"title":"サヨナラ・ヘヴン -GITADOROCK ver.-",
+		"part":"EXT-B",
+		"lv":"6.90"
+	},{
+		"id":240,
+		"title":"サヨナラ・ヘヴン -GITADOROCK ver.-",
+		"part":"MAS-B",
+		"lv":"7.75"
+	},{
+		"id":241,
+		"title":"GORI GORI",
+		"part":"BSC-D",
+		"lv":"3.30"
+	},{
+		"id":242,
+		"title":"GORI GORI",
+		"part":"ADV-D",
+		"lv":"5.60"
+	},{
+		"id":243,
+		"title":"GORI GORI",
+		"part":"EXT-D",
+		"lv":"6.70"
+	},{
+		"id":244,
+		"title":"GORI GORI",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":245,
+		"title":"GORI GORI",
+		"part":"BSC-G",
+		"lv":"2.80"
+	},{
+		"id":246,
+		"title":"GORI GORI",
+		"part":"ADV-G",
+		"lv":"5.30"
+	},{
+		"id":247,
+		"title":"GORI GORI",
+		"part":"EXT-G",
+		"lv":"7.50"
+	},{
+		"id":248,
+		"title":"GORI GORI",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":249,
+		"title":"GORI GORI",
+		"part":"BSC-B",
+		"lv":"2.90"
+	},{
+		"id":250,
+		"title":"GORI GORI",
+		"part":"ADV-B",
+		"lv":"5.40"
+	},{
+		"id":251,
+		"title":"GORI GORI",
+		"part":"EXT-B",
+		"lv":"8.15"
+	},{
+		"id":252,
+		"title":"GORI GORI",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":253,
+		"title":"MASCARADA",
+		"part":"BSC-D",
+		"lv":"2.70"
+	},{
+		"id":254,
+		"title":"MASCARADA",
+		"part":"ADV-D",
+		"lv":"5.80"
+	},{
+		"id":255,
+		"title":"MASCARADA",
+		"part":"EXT-D",
+		"lv":"7.80"
+	},{
+		"id":256,
+		"title":"MASCARADA",
+		"part":"MAS-D",
+		"lv":"9.00"
+	},{
+		"id":257,
+		"title":"MASCARADA",
+		"part":"BSC-G",
+		"lv":"2.90"
+	},{
+		"id":258,
+		"title":"MASCARADA",
+		"part":"ADV-G",
+		"lv":"5.70"
+	},{
+		"id":259,
+		"title":"MASCARADA",
+		"part":"EXT-G",
+		"lv":"7.35"
+	},{
+		"id":260,
+		"title":"MASCARADA",
+		"part":"MAS-G",
+		"lv":"7.90"
+	},{
+		"id":261,
+		"title":"MASCARADA",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":262,
+		"title":"MASCARADA",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":263,
+		"title":"MASCARADA",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":264,
+		"title":"MASCARADA",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":265,
+		"title":"NAKED SCREAM",
+		"part":"BSC-D",
+		"lv":"3.55"
+	},{
+		"id":266,
+		"title":"NAKED SCREAM",
+		"part":"ADV-D",
+		"lv":"5.80"
+	},{
+		"id":267,
+		"title":"NAKED SCREAM",
+		"part":"EXT-D",
+		"lv":"7.90"
+	},{
+		"id":268,
+		"title":"NAKED SCREAM",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":269,
+		"title":"NAKED SCREAM",
+		"part":"BSC-G",
+		"lv":"3.10"
+	},{
+		"id":270,
+		"title":"NAKED SCREAM",
+		"part":"ADV-G",
+		"lv":"5.45"
+	},{
+		"id":271,
+		"title":"NAKED SCREAM",
+		"part":"EXT-G",
+		"lv":"6.90"
+	},{
+		"id":272,
+		"title":"NAKED SCREAM",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":273,
+		"title":"NAKED SCREAM",
+		"part":"BSC-B",
+		"lv":"3.20"
+	},{
+		"id":274,
+		"title":"NAKED SCREAM",
+		"part":"ADV-B",
+		"lv":"5.40"
+	},{
+		"id":275,
+		"title":"NAKED SCREAM",
+		"part":"EXT-B",
+		"lv":"7.15"
+	},{
+		"id":276,
+		"title":"NAKED SCREAM",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":277,
+		"title":"乙女繚乱 舞い咲き誇れ",
+		"part":"BSC-D",
+		"lv":"3.50"
+	},{
+		"id":278,
+		"title":"乙女繚乱 舞い咲き誇れ",
+		"part":"ADV-D",
+		"lv":"5.50"
+	},{
+		"id":279,
+		"title":"乙女繚乱 舞い咲き誇れ",
+		"part":"EXT-D",
+		"lv":"7.60"
+	},{
+		"id":280,
+		"title":"乙女繚乱 舞い咲き誇れ",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":281,
+		"title":"乙女繚乱 舞い咲き誇れ",
+		"part":"BSC-G",
+		"lv":"2.80"
+	},{
+		"id":282,
+		"title":"乙女繚乱 舞い咲き誇れ",
+		"part":"ADV-G",
+		"lv":"5.40"
+	},{
+		"id":283,
+		"title":"乙女繚乱 舞い咲き誇れ",
+		"part":"EXT-G",
+		"lv":"7.25"
+	},{
+		"id":284,
+		"title":"乙女繚乱 舞い咲き誇れ",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":285,
+		"title":"乙女繚乱 舞い咲き誇れ",
+		"part":"BSC-B",
+		"lv":"3.20"
+	},{
+		"id":286,
+		"title":"乙女繚乱 舞い咲き誇れ",
+		"part":"ADV-B",
+		"lv":"5.55"
+	},{
+		"id":287,
+		"title":"乙女繚乱 舞い咲き誇れ",
+		"part":"EXT-B",
+		"lv":"6.80"
+	},{
+		"id":288,
+		"title":"乙女繚乱 舞い咲き誇れ",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":289,
+		"title":"凱歌の奏",
+		"part":"BSC-D",
+		"lv":"2.90"
+	},{
+		"id":290,
+		"title":"凱歌の奏",
+		"part":"ADV-D",
+		"lv":"5.30"
+	},{
+		"id":291,
+		"title":"凱歌の奏",
+		"part":"EXT-D",
+		"lv":"8.35"
+	},{
+		"id":292,
+		"title":"凱歌の奏",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":293,
+		"title":"凱歌の奏",
+		"part":"BSC-G",
+		"lv":"3.30"
+	},{
+		"id":294,
+		"title":"凱歌の奏",
+		"part":"ADV-G",
+		"lv":"5.30"
+	},{
+		"id":295,
+		"title":"凱歌の奏",
+		"part":"EXT-G",
+		"lv":"7.60"
+	},{
+		"id":296,
+		"title":"凱歌の奏",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":297,
+		"title":"凱歌の奏",
+		"part":"BSC-B",
+		"lv":"3.45"
+	},{
+		"id":298,
+		"title":"凱歌の奏",
+		"part":"ADV-B",
+		"lv":"5.50"
+	},{
+		"id":299,
+		"title":"凱歌の奏",
+		"part":"EXT-B",
+		"lv":"6.65"
+	},{
+		"id":300,
+		"title":"凱歌の奏",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":301,
+		"title":"九尾狐夜行",
+		"part":"BSC-D",
+		"lv":"3.70"
+	},{
+		"id":302,
+		"title":"九尾狐夜行",
+		"part":"ADV-D",
+		"lv":"5.75"
+	},{
+		"id":303,
+		"title":"九尾狐夜行",
+		"part":"EXT-D",
+		"lv":"7.60"
+	},{
+		"id":304,
+		"title":"九尾狐夜行",
+		"part":"MAS-D",
+		"lv":"8.60"
+	},{
+		"id":305,
+		"title":"九尾狐夜行",
+		"part":"BSC-G",
+		"lv":"3.40"
+	},{
+		"id":306,
+		"title":"九尾狐夜行",
+		"part":"ADV-G",
+		"lv":"5.60"
+	},{
+		"id":307,
+		"title":"九尾狐夜行",
+		"part":"EXT-G",
+		"lv":"7.55"
+	},{
+		"id":308,
+		"title":"九尾狐夜行",
+		"part":"MAS-G",
+		"lv":"8.50"
+	},{
+		"id":309,
+		"title":"九尾狐夜行",
+		"part":"BSC-B",
+		"lv":"3.50"
+	},{
+		"id":310,
+		"title":"九尾狐夜行",
+		"part":"ADV-B",
+		"lv":"5.50"
+	},{
+		"id":311,
+		"title":"九尾狐夜行",
+		"part":"EXT-B",
+		"lv":"7.40"
+	},{
+		"id":312,
+		"title":"九尾狐夜行",
+		"part":"MAS-B",
+		"lv":"8.20"
+	},{
+		"id":313,
+		"title":"めた・メタ?ひまわり*パンチ -デモテープVer.-",
+		"part":"BSC-D",
+		"lv":"2.60"
+	},{
+		"id":314,
+		"title":"めた・メタ?ひまわり*パンチ -デモテープVer.-",
+		"part":"ADV-D",
+		"lv":"4.80"
+	},{
+		"id":315,
+		"title":"めた・メタ?ひまわり*パンチ -デモテープVer.-",
+		"part":"EXT-D",
+		"lv":"6.50"
+	},{
+		"id":316,
+		"title":"めた・メタ?ひまわり*パンチ -デモテープVer.-",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":317,
+		"title":"めた・メタ?ひまわり*パンチ -デモテープVer.-",
+		"part":"BSC-G",
+		"lv":"2.75"
+	},{
+		"id":318,
+		"title":"めた・メタ?ひまわり*パンチ -デモテープVer.-",
+		"part":"ADV-G",
+		"lv":"5.30"
+	},{
+		"id":319,
+		"title":"めた・メタ?ひまわり*パンチ -デモテープVer.-",
+		"part":"EXT-G",
+		"lv":"6.70"
+	},{
+		"id":320,
+		"title":"めた・メタ?ひまわり*パンチ -デモテープVer.-",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":321,
+		"title":"めた・メタ?ひまわり*パンチ -デモテープVer.-",
+		"part":"BSC-B",
+		"lv":"2.80"
+	},{
+		"id":322,
+		"title":"めた・メタ?ひまわり*パンチ -デモテープVer.-",
+		"part":"ADV-B",
+		"lv":"4.90"
+	},{
+		"id":323,
+		"title":"めた・メタ?ひまわり*パンチ -デモテープVer.-",
+		"part":"EXT-B",
+		"lv":"6.60"
+	},{
+		"id":324,
+		"title":"めた・メタ?ひまわり*パンチ -デモテープVer.-",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":325,
+		"title":"滅亡天使 † にこきゅっぴん",
+		"part":"BSC-D",
+		"lv":"2.90"
+	},{
+		"id":326,
+		"title":"滅亡天使 † にこきゅっぴん",
+		"part":"ADV-D",
+		"lv":"5.75"
+	},{
+		"id":327,
+		"title":"滅亡天使 † にこきゅっぴん",
+		"part":"EXT-D",
+		"lv":"8.20"
+	},{
+		"id":328,
+		"title":"滅亡天使 † にこきゅっぴん",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":329,
+		"title":"滅亡天使 † にこきゅっぴん",
+		"part":"BSC-G",
+		"lv":"3.10"
+	},{
+		"id":330,
+		"title":"滅亡天使 † にこきゅっぴん",
+		"part":"ADV-G",
+		"lv":"5.40"
+	},{
+		"id":331,
+		"title":"滅亡天使 † にこきゅっぴん",
+		"part":"EXT-G",
+		"lv":"7.30"
+	},{
+		"id":332,
+		"title":"滅亡天使 † にこきゅっぴん",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":333,
+		"title":"滅亡天使 † にこきゅっぴん",
+		"part":"BSC-B",
+		"lv":"3.00"
+	},{
+		"id":334,
+		"title":"滅亡天使 † にこきゅっぴん",
+		"part":"ADV-B",
+		"lv":"5.30"
+	},{
+		"id":335,
+		"title":"滅亡天使 † にこきゅっぴん",
+		"part":"EXT-B",
+		"lv":"7.60"
+	},{
+		"id":336,
+		"title":"滅亡天使 † にこきゅっぴん",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":337,
+		"title":"CHIMERA",
+		"part":"BSC-D",
+		"lv":"3.00"
+	},{
+		"id":338,
+		"title":"CHIMERA",
+		"part":"ADV-D",
+		"lv":"4.90"
+	},{
+		"id":339,
+		"title":"CHIMERA",
+		"part":"EXT-D",
+		"lv":"6.55"
+	},{
+		"id":340,
+		"title":"CHIMERA",
+		"part":"MAS-D",
+		"lv":"7.90"
+	},{
+		"id":341,
+		"title":"CHIMERA",
+		"part":"BSC-G",
+		"lv":"3.20"
+	},{
+		"id":342,
+		"title":"CHIMERA",
+		"part":"ADV-G",
+		"lv":"5.50"
+	},{
+		"id":343,
+		"title":"CHIMERA",
+		"part":"EXT-G",
+		"lv":"7.60"
+	},{
+		"id":344,
+		"title":"CHIMERA",
+		"part":"MAS-G",
+		"lv":"8.60"
+	},{
+		"id":345,
+		"title":"CHIMERA",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":346,
+		"title":"CHIMERA",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":347,
+		"title":"CHIMERA",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":348,
+		"title":"CHIMERA",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":349,
+		"title":"SUZY AND THE TIME MACHINE",
+		"part":"BSC-D",
+		"lv":"3.40"
+	},{
+		"id":350,
+		"title":"SUZY AND THE TIME MACHINE",
+		"part":"ADV-D",
+		"lv":"5.40"
+	},{
+		"id":351,
+		"title":"SUZY AND THE TIME MACHINE",
+		"part":"EXT-D",
+		"lv":"7.60"
+	},{
+		"id":352,
+		"title":"SUZY AND THE TIME MACHINE",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":353,
+		"title":"SUZY AND THE TIME MACHINE",
+		"part":"BSC-G",
+		"lv":"3.30"
+	},{
+		"id":354,
+		"title":"SUZY AND THE TIME MACHINE",
+		"part":"ADV-G",
+		"lv":"5.80"
+	},{
+		"id":355,
+		"title":"SUZY AND THE TIME MACHINE",
+		"part":"EXT-G",
+		"lv":"7.50"
+	},{
+		"id":356,
+		"title":"SUZY AND THE TIME MACHINE",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":357,
+		"title":"SUZY AND THE TIME MACHINE",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":358,
+		"title":"SUZY AND THE TIME MACHINE",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":359,
+		"title":"SUZY AND THE TIME MACHINE",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":360,
+		"title":"SUZY AND THE TIME MACHINE",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":361,
+		"title":"Plastic Umbrella",
+		"part":"BSC-D",
+		"lv":"3.30"
+	},{
+		"id":362,
+		"title":"Plastic Umbrella",
+		"part":"ADV-D",
+		"lv":"5.60"
+	},{
+		"id":363,
+		"title":"Plastic Umbrella",
+		"part":"EXT-D",
+		"lv":"6.90"
+	},{
+		"id":364,
+		"title":"Plastic Umbrella",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":365,
+		"title":"Plastic Umbrella",
+		"part":"BSC-G",
+		"lv":"3.20"
+	},{
+		"id":366,
+		"title":"Plastic Umbrella",
+		"part":"ADV-G",
+		"lv":"5.50"
+	},{
+		"id":367,
+		"title":"Plastic Umbrella",
+		"part":"EXT-G",
+		"lv":"7.15"
+	},{
+		"id":368,
+		"title":"Plastic Umbrella",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":369,
+		"title":"Plastic Umbrella",
+		"part":"BSC-B",
+		"lv":"3.25"
+	},{
+		"id":370,
+		"title":"Plastic Umbrella",
+		"part":"ADV-B",
+		"lv":"5.40"
+	},{
+		"id":371,
+		"title":"Plastic Umbrella",
+		"part":"EXT-B",
+		"lv":"7.00"
+	},{
+		"id":372,
+		"title":"Plastic Umbrella",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":373,
+		"title":"妄想学園ino-koi組",
+		"part":"BSC-D",
+		"lv":"3.70"
+	},{
+		"id":374,
+		"title":"妄想学園ino-koi組",
+		"part":"ADV-D",
+		"lv":"5.60"
+	},{
+		"id":375,
+		"title":"妄想学園ino-koi組",
+		"part":"EXT-D",
+		"lv":"7.00"
+	},{
+		"id":376,
+		"title":"妄想学園ino-koi組",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":377,
+		"title":"妄想学園ino-koi組",
+		"part":"BSC-G",
+		"lv":"3.30"
+	},{
+		"id":378,
+		"title":"妄想学園ino-koi組",
+		"part":"ADV-G",
+		"lv":"5.60"
+	},{
+		"id":379,
+		"title":"妄想学園ino-koi組",
+		"part":"EXT-G",
+		"lv":"7.30"
+	},{
+		"id":380,
+		"title":"妄想学園ino-koi組",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":381,
+		"title":"妄想学園ino-koi組",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":382,
+		"title":"妄想学園ino-koi組",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":383,
+		"title":"妄想学園ino-koi組",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":384,
+		"title":"妄想学園ino-koi組",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":385,
+		"title":"The ULTIMATES　-Brightness-",
+		"part":"BSC-D",
+		"lv":"3.30"
+	},{
+		"id":386,
+		"title":"The ULTIMATES　-Brightness-",
+		"part":"ADV-D",
+		"lv":"5.50"
+	},{
+		"id":387,
+		"title":"The ULTIMATES　-Brightness-",
+		"part":"EXT-D",
+		"lv":"7.40"
+	},{
+		"id":388,
+		"title":"The ULTIMATES　-Brightness-",
+		"part":"MAS-D",
+		"lv":"8.40"
+	},{
+		"id":389,
+		"title":"The ULTIMATES　-Brightness-",
+		"part":"BSC-G",
+		"lv":"3.45"
+	},{
+		"id":390,
+		"title":"The ULTIMATES　-Brightness-",
+		"part":"ADV-G",
+		"lv":"6.00"
+	},{
+		"id":391,
+		"title":"The ULTIMATES　-Brightness-",
+		"part":"EXT-G",
+		"lv":"8.00"
+	},{
+		"id":392,
+		"title":"The ULTIMATES　-Brightness-",
+		"part":"MAS-G",
+		"lv":"9.45"
+	},{
+		"id":393,
+		"title":"The ULTIMATES　-Brightness-",
+		"part":"BSC-B",
+		"lv":"3.00"
+	},{
+		"id":394,
+		"title":"The ULTIMATES　-Brightness-",
+		"part":"ADV-B",
+		"lv":"5.60"
+	},{
+		"id":395,
+		"title":"The ULTIMATES　-Brightness-",
+		"part":"EXT-B",
+		"lv":"7.10"
+	},{
+		"id":396,
+		"title":"The ULTIMATES　-Brightness-",
+		"part":"MAS-B",
+		"lv":"8.15"
+	},{
+		"id":397,
+		"title":"MODEL DD ULTIMATES",
+		"part":"BSC-D",
+		"lv":"4.50"
+	},{
+		"id":398,
+		"title":"MODEL DD ULTIMATES",
+		"part":"ADV-D",
+		"lv":"6.85"
+	},{
+		"id":399,
+		"title":"MODEL DD ULTIMATES",
+		"part":"EXT-D",
+		"lv":"8.95"
+	},{
+		"id":400,
+		"title":"MODEL DD ULTIMATES",
+		"part":"MAS-D",
+		"lv":"9.95"
+	},{
+		"id":401,
+		"title":"MODEL DD ULTIMATES",
+		"part":"BSC-G",
+		"lv":"4.20"
+	},{
+		"id":402,
+		"title":"MODEL DD ULTIMATES",
+		"part":"ADV-G",
+		"lv":"6.40"
+	},{
+		"id":403,
+		"title":"MODEL DD ULTIMATES",
+		"part":"EXT-G",
+		"lv":"8.90"
+	},{
+		"id":404,
+		"title":"MODEL DD ULTIMATES",
+		"part":"MAS-G",
+		"lv":"9.99"
+	},{
+		"id":405,
+		"title":"MODEL DD ULTIMATES",
+		"part":"BSC-B",
+		"lv":"3.80"
+	},{
+		"id":406,
+		"title":"MODEL DD ULTIMATES",
+		"part":"ADV-B",
+		"lv":"5.80"
+	},{
+		"id":407,
+		"title":"MODEL DD ULTIMATES",
+		"part":"EXT-B",
+		"lv":"7.80"
+	},{
+		"id":408,
+		"title":"MODEL DD ULTIMATES",
+		"part":"MAS-B",
+		"lv":"9.50"}
+]

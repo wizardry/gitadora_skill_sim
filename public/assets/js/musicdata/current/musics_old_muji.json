@@ -1,0 +1,8163 @@
+[
+	"musics",{
+		"id":1,
+		"title":"Cutie pie",
+		"part":"BSC-D",
+		"lv":"2.70"
+	},{
+		"id":2,
+		"title":"Cutie pie",
+		"part":"ADV-D",
+		"lv":"3.90"
+	},{
+		"id":3,
+		"title":"Cutie pie",
+		"part":"EXT-D",
+		"lv":"4.70"
+	},{
+		"id":4,
+		"title":"Cutie pie",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":5,
+		"title":"Cutie pie",
+		"part":"BSC-G",
+		"lv":"2.15"
+	},{
+		"id":6,
+		"title":"Cutie pie",
+		"part":"ADV-G",
+		"lv":"3.10"
+	},{
+		"id":7,
+		"title":"Cutie pie",
+		"part":"EXT-G",
+		"lv":"4.20"
+	},{
+		"id":8,
+		"title":"Cutie pie",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":9,
+		"title":"Cutie pie",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":10,
+		"title":"Cutie pie",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":11,
+		"title":"Cutie pie",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":12,
+		"title":"Cutie pie",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":13,
+		"title":"FIRE(DM:V)",
+		"part":"BSC-D",
+		"lv":"2.65"
+	},{
+		"id":14,
+		"title":"FIRE(DM:V)",
+		"part":"ADV-D",
+		"lv":"4.85"
+	},{
+		"id":15,
+		"title":"FIRE(DM:V)",
+		"part":"EXT-D",
+		"lv":"6.05"
+	},{
+		"id":16,
+		"title":"FIRE(DM:V)",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":17,
+		"title":"FIRE(DM:V)",
+		"part":"BSC-G",
+		"lv":"2.80"
+	},{
+		"id":18,
+		"title":"FIRE(DM:V)",
+		"part":"ADV-G",
+		"lv":"4.70"
+	},{
+		"id":19,
+		"title":"FIRE(DM:V)",
+		"part":"EXT-G",
+		"lv":"6.90"
+	},{
+		"id":20,
+		"title":"FIRE(DM:V)",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":21,
+		"title":"FIRE(DM:V)",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":22,
+		"title":"FIRE(DM:V)",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":23,
+		"title":"FIRE(DM:V)",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":24,
+		"title":"FIRE(DM:V)",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":25,
+		"title":"Happy man",
+		"part":"BSC-D",
+		"lv":"4.55"
+	},{
+		"id":26,
+		"title":"Happy man",
+		"part":"ADV-D",
+		"lv":"5.70"
+	},{
+		"id":27,
+		"title":"Happy man",
+		"part":"EXT-D",
+		"lv":"6.85"
+	},{
+		"id":28,
+		"title":"Happy man",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":29,
+		"title":"Happy man",
+		"part":"BSC-G",
+		"lv":"3.25"
+	},{
+		"id":30,
+		"title":"Happy man",
+		"part":"ADV-G",
+		"lv":"4.20"
+	},{
+		"id":31,
+		"title":"Happy man",
+		"part":"EXT-G",
+		"lv":"5.00"
+	},{
+		"id":32,
+		"title":"Happy man",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":33,
+		"title":"Happy man",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":34,
+		"title":"Happy man",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":35,
+		"title":"Happy man",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":36,
+		"title":"Happy man",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":37,
+		"title":"Hypnotica",
+		"part":"BSC-D",
+		"lv":"2.45"
+	},{
+		"id":38,
+		"title":"Hypnotica",
+		"part":"ADV-D",
+		"lv":"4.15"
+	},{
+		"id":39,
+		"title":"Hypnotica",
+		"part":"EXT-D",
+		"lv":"5.80"
+	},{
+		"id":40,
+		"title":"Hypnotica",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":41,
+		"title":"Hypnotica",
+		"part":"BSC-G",
+		"lv":"4.65"
+	},{
+		"id":42,
+		"title":"Hypnotica",
+		"part":"ADV-G",
+		"lv":"5.70"
+	},{
+		"id":43,
+		"title":"Hypnotica",
+		"part":"EXT-G",
+		"lv":"6.75"
+	},{
+		"id":44,
+		"title":"Hypnotica",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":45,
+		"title":"Hypnotica",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":46,
+		"title":"Hypnotica",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":47,
+		"title":"Hypnotica",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":48,
+		"title":"Hypnotica",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":49,
+		"title":"LUCKY? STAFF(DM:V)",
+		"part":"BSC-D",
+		"lv":"3.55"
+	},{
+		"id":50,
+		"title":"LUCKY? STAFF(DM:V)",
+		"part":"ADV-D",
+		"lv":"5.70"
+	},{
+		"id":51,
+		"title":"LUCKY? STAFF(DM:V)",
+		"part":"EXT-D",
+		"lv":"7.95"
+	},{
+		"id":52,
+		"title":"LUCKY? STAFF(DM:V)",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":53,
+		"title":"LUCKY? STAFF(DM:V)",
+		"part":"BSC-G",
+		"lv":"3.85"
+	},{
+		"id":54,
+		"title":"LUCKY? STAFF(DM:V)",
+		"part":"ADV-G",
+		"lv":"6.20"
+	},{
+		"id":55,
+		"title":"LUCKY? STAFF(DM:V)",
+		"part":"EXT-G",
+		"lv":"7.40"
+	},{
+		"id":56,
+		"title":"LUCKY? STAFF(DM:V)",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":57,
+		"title":"LUCKY? STAFF(DM:V)",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":58,
+		"title":"LUCKY? STAFF(DM:V)",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":59,
+		"title":"LUCKY? STAFF(DM:V)",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":60,
+		"title":"LUCKY? STAFF(DM:V)",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":61,
+		"title":"Across the nightmare",
+		"part":"BSC-D",
+		"lv":"2.80"
+	},{
+		"id":62,
+		"title":"Across the nightmare",
+		"part":"ADV-D",
+		"lv":"4.65"
+	},{
+		"id":63,
+		"title":"Across the nightmare",
+		"part":"EXT-D",
+		"lv":"6.25"
+	},{
+		"id":64,
+		"title":"Across the nightmare",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":65,
+		"title":"Across the nightmare",
+		"part":"BSC-G",
+		"lv":"4.10"
+	},{
+		"id":66,
+		"title":"Across the nightmare",
+		"part":"ADV-G",
+		"lv":"4.70"
+	},{
+		"id":67,
+		"title":"Across the nightmare",
+		"part":"EXT-G",
+		"lv":"5.60"
+	},{
+		"id":68,
+		"title":"Across the nightmare",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":69,
+		"title":"Across the nightmare",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":70,
+		"title":"Across the nightmare",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":71,
+		"title":"Across the nightmare",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":72,
+		"title":"Across the nightmare",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":73,
+		"title":"Depend on me",
+		"part":"BSC-D",
+		"lv":"1.95"
+	},{
+		"id":74,
+		"title":"Depend on me",
+		"part":"ADV-D",
+		"lv":"4.35"
+	},{
+		"id":75,
+		"title":"Depend on me",
+		"part":"EXT-D",
+		"lv":"5.50"
+	},{
+		"id":76,
+		"title":"Depend on me",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":77,
+		"title":"Depend on me",
+		"part":"BSC-G",
+		"lv":"-"
+	},{
+		"id":78,
+		"title":"Depend on me",
+		"part":"ADV-G",
+		"lv":"-"
+	},{
+		"id":79,
+		"title":"Depend on me",
+		"part":"EXT-G",
+		"lv":"-"
+	},{
+		"id":80,
+		"title":"Depend on me",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":81,
+		"title":"Depend on me",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":82,
+		"title":"Depend on me",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":83,
+		"title":"Depend on me",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":84,
+		"title":"Depend on me",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":85,
+		"title":"Heaven is a '57 metallic gray",
+		"part":"BSC-D",
+		"lv":"3.65"
+	},{
+		"id":86,
+		"title":"Heaven is a '57 metallic gray",
+		"part":"ADV-D",
+		"lv":"5.05"
+	},{
+		"id":87,
+		"title":"Heaven is a '57 metallic gray",
+		"part":"EXT-D",
+		"lv":"6.40"
+	},{
+		"id":88,
+		"title":"Heaven is a '57 metallic gray",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":89,
+		"title":"Heaven is a '57 metallic gray",
+		"part":"BSC-G",
+		"lv":"3.25"
+	},{
+		"id":90,
+		"title":"Heaven is a '57 metallic gray",
+		"part":"ADV-G",
+		"lv":"4.45"
+	},{
+		"id":91,
+		"title":"Heaven is a '57 metallic gray",
+		"part":"EXT-G",
+		"lv":"6.60"
+	},{
+		"id":92,
+		"title":"Heaven is a '57 metallic gray",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":93,
+		"title":"Heaven is a '57 metallic gray",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":94,
+		"title":"Heaven is a '57 metallic gray",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":95,
+		"title":"Heaven is a '57 metallic gray",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":96,
+		"title":"Heaven is a '57 metallic gray",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":97,
+		"title":"I think about you",
+		"part":"BSC-D",
+		"lv":"2.25"
+	},{
+		"id":98,
+		"title":"I think about you",
+		"part":"ADV-D",
+		"lv":"3.95"
+	},{
+		"id":99,
+		"title":"I think about you",
+		"part":"EXT-D",
+		"lv":"4.70"
+	},{
+		"id":100,
+		"title":"I think about you",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":101,
+		"title":"I think about you",
+		"part":"BSC-G",
+		"lv":"2.35"
+	},{
+		"id":102,
+		"title":"I think about you",
+		"part":"ADV-G",
+		"lv":"3.00"
+	},{
+		"id":103,
+		"title":"I think about you",
+		"part":"EXT-G",
+		"lv":"4.25"
+	},{
+		"id":104,
+		"title":"I think about you",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":105,
+		"title":"I think about you",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":106,
+		"title":"I think about you",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":107,
+		"title":"I think about you",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":108,
+		"title":"I think about you",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":109,
+		"title":"JET WORLD",
+		"part":"BSC-D",
+		"lv":"4.00"
+	},{
+		"id":110,
+		"title":"JET WORLD",
+		"part":"ADV-D",
+		"lv":"5.15"
+	},{
+		"id":111,
+		"title":"JET WORLD",
+		"part":"EXT-D",
+		"lv":"5.85"
+	},{
+		"id":112,
+		"title":"JET WORLD",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":113,
+		"title":"JET WORLD",
+		"part":"BSC-G",
+		"lv":"2.20"
+	},{
+		"id":114,
+		"title":"JET WORLD",
+		"part":"ADV-G",
+		"lv":"4.15"
+	},{
+		"id":115,
+		"title":"JET WORLD",
+		"part":"EXT-G",
+		"lv":"6.80"
+	},{
+		"id":116,
+		"title":"JET WORLD",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":117,
+		"title":"JET WORLD",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":118,
+		"title":"JET WORLD",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":119,
+		"title":"JET WORLD",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":120,
+		"title":"JET WORLD",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":121,
+		"title":"MAGIC MUSIC MAGIC",
+		"part":"BSC-D",
+		"lv":"-"
+	},{
+		"id":122,
+		"title":"MAGIC MUSIC MAGIC",
+		"part":"ADV-D",
+		"lv":"-"
+	},{
+		"id":123,
+		"title":"MAGIC MUSIC MAGIC",
+		"part":"EXT-D",
+		"lv":"-"
+	},{
+		"id":124,
+		"title":"MAGIC MUSIC MAGIC",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":125,
+		"title":"MAGIC MUSIC MAGIC",
+		"part":"BSC-G",
+		"lv":"3.60"
+	},{
+		"id":126,
+		"title":"MAGIC MUSIC MAGIC",
+		"part":"ADV-G",
+		"lv":"5.10"
+	},{
+		"id":127,
+		"title":"MAGIC MUSIC MAGIC",
+		"part":"EXT-G",
+		"lv":"7.05"
+	},{
+		"id":128,
+		"title":"MAGIC MUSIC MAGIC",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":129,
+		"title":"MAGIC MUSIC MAGIC",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":130,
+		"title":"MAGIC MUSIC MAGIC",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":131,
+		"title":"MAGIC MUSIC MAGIC",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":132,
+		"title":"MAGIC MUSIC MAGIC",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":133,
+		"title":"PRIMAL SOUL(DM:2nd)",
+		"part":"BSC-D",
+		"lv":"3.15"
+	},{
+		"id":134,
+		"title":"PRIMAL SOUL(DM:2nd)",
+		"part":"ADV-D",
+		"lv":"5.70"
+	},{
+		"id":135,
+		"title":"PRIMAL SOUL(DM:2nd)",
+		"part":"EXT-D",
+		"lv":"7.20"
+	},{
+		"id":136,
+		"title":"PRIMAL SOUL(DM:2nd)",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":137,
+		"title":"PRIMAL SOUL(DM:2nd)",
+		"part":"BSC-G",
+		"lv":"3.25"
+	},{
+		"id":138,
+		"title":"PRIMAL SOUL(DM:2nd)",
+		"part":"ADV-G",
+		"lv":"4.65"
+	},{
+		"id":139,
+		"title":"PRIMAL SOUL(DM:2nd)",
+		"part":"EXT-G",
+		"lv":"6.80"
+	},{
+		"id":140,
+		"title":"PRIMAL SOUL(DM:2nd)",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":141,
+		"title":"PRIMAL SOUL(DM:2nd)",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":142,
+		"title":"PRIMAL SOUL(DM:2nd)",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":143,
+		"title":"PRIMAL SOUL(DM:2nd)",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":144,
+		"title":"PRIMAL SOUL(DM:2nd)",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":145,
+		"title":"Ska Ska No.1",
+		"part":"BSC-D",
+		"lv":"2.35"
+	},{
+		"id":146,
+		"title":"Ska Ska No.1",
+		"part":"ADV-D",
+		"lv":"4.05"
+	},{
+		"id":147,
+		"title":"Ska Ska No.1",
+		"part":"EXT-D",
+		"lv":"4.80"
+	},{
+		"id":148,
+		"title":"Ska Ska No.1",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":149,
+		"title":"Ska Ska No.1",
+		"part":"BSC-G",
+		"lv":"2.70"
+	},{
+		"id":150,
+		"title":"Ska Ska No.1",
+		"part":"ADV-G",
+		"lv":"4.00"
+	},{
+		"id":151,
+		"title":"Ska Ska No.1",
+		"part":"EXT-G",
+		"lv":"4.55"
+	},{
+		"id":152,
+		"title":"Ska Ska No.1",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":153,
+		"title":"Ska Ska No.1",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":154,
+		"title":"Ska Ska No.1",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":155,
+		"title":"Ska Ska No.1",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":156,
+		"title":"Ska Ska No.1",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":157,
+		"title":"CLASSIC PARTY",
+		"part":"BSC-D",
+		"lv":"2.90"
+	},{
+		"id":158,
+		"title":"CLASSIC PARTY",
+		"part":"ADV-D",
+		"lv":"5.35"
+	},{
+		"id":159,
+		"title":"CLASSIC PARTY",
+		"part":"EXT-D",
+		"lv":"5.95"
+	},{
+		"id":160,
+		"title":"CLASSIC PARTY",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":161,
+		"title":"CLASSIC PARTY",
+		"part":"BSC-G",
+		"lv":"3.75"
+	},{
+		"id":162,
+		"title":"CLASSIC PARTY",
+		"part":"ADV-G",
+		"lv":"6.25"
+	},{
+		"id":163,
+		"title":"CLASSIC PARTY",
+		"part":"EXT-G",
+		"lv":"6.85"
+	},{
+		"id":164,
+		"title":"CLASSIC PARTY",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":165,
+		"title":"CLASSIC PARTY",
+		"part":"BSC-B",
+		"lv":"3.45"
+	},{
+		"id":166,
+		"title":"CLASSIC PARTY",
+		"part":"ADV-B",
+		"lv":"4.35"
+	},{
+		"id":167,
+		"title":"CLASSIC PARTY",
+		"part":"EXT-B",
+		"lv":"5.65"
+	},{
+		"id":168,
+		"title":"CLASSIC PARTY",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":169,
+		"title":"COSMIC COWGIRL",
+		"part":"BSC-D",
+		"lv":"4.15"
+	},{
+		"id":170,
+		"title":"COSMIC COWGIRL",
+		"part":"ADV-D",
+		"lv":"4.90"
+	},{
+		"id":171,
+		"title":"COSMIC COWGIRL",
+		"part":"EXT-D",
+		"lv":"6.05"
+	},{
+		"id":172,
+		"title":"COSMIC COWGIRL",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":173,
+		"title":"COSMIC COWGIRL",
+		"part":"BSC-G",
+		"lv":"3.70"
+	},{
+		"id":174,
+		"title":"COSMIC COWGIRL",
+		"part":"ADV-G",
+		"lv":"4.95"
+	},{
+		"id":175,
+		"title":"COSMIC COWGIRL",
+		"part":"EXT-G",
+		"lv":"6.10"
+	},{
+		"id":176,
+		"title":"COSMIC COWGIRL",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":177,
+		"title":"COSMIC COWGIRL",
+		"part":"BSC-B",
+		"lv":"3.35"
+	},{
+		"id":178,
+		"title":"COSMIC COWGIRL",
+		"part":"ADV-B",
+		"lv":"4.55"
+	},{
+		"id":179,
+		"title":"COSMIC COWGIRL",
+		"part":"EXT-B",
+		"lv":"5.15"
+	},{
+		"id":180,
+		"title":"COSMIC COWGIRL",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":181,
+		"title":"MIDNIGHT SPECIAL",
+		"part":"BSC-D",
+		"lv":"3.10"
+	},{
+		"id":182,
+		"title":"MIDNIGHT SPECIAL",
+		"part":"ADV-D",
+		"lv":"5.40"
+	},{
+		"id":183,
+		"title":"MIDNIGHT SPECIAL",
+		"part":"EXT-D",
+		"lv":"6.75"
+	},{
+		"id":184,
+		"title":"MIDNIGHT SPECIAL",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":185,
+		"title":"MIDNIGHT SPECIAL",
+		"part":"BSC-G",
+		"lv":"3.50"
+	},{
+		"id":186,
+		"title":"MIDNIGHT SPECIAL",
+		"part":"ADV-G",
+		"lv":"5.40"
+	},{
+		"id":187,
+		"title":"MIDNIGHT SPECIAL",
+		"part":"EXT-G",
+		"lv":"6.75"
+	},{
+		"id":188,
+		"title":"MIDNIGHT SPECIAL",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":189,
+		"title":"MIDNIGHT SPECIAL",
+		"part":"BSC-B",
+		"lv":"3.30"
+	},{
+		"id":190,
+		"title":"MIDNIGHT SPECIAL",
+		"part":"ADV-B",
+		"lv":"5.20"
+	},{
+		"id":191,
+		"title":"MIDNIGHT SPECIAL",
+		"part":"EXT-B",
+		"lv":"6.70"
+	},{
+		"id":192,
+		"title":"MIDNIGHT SPECIAL",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":193,
+		"title":"P.P.R.",
+		"part":"BSC-D",
+		"lv":"3.65"
+	},{
+		"id":194,
+		"title":"P.P.R.",
+		"part":"ADV-D",
+		"lv":"4.80"
+	},{
+		"id":195,
+		"title":"P.P.R.",
+		"part":"EXT-D",
+		"lv":"5.75"
+	},{
+		"id":196,
+		"title":"P.P.R.",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":197,
+		"title":"P.P.R.",
+		"part":"BSC-G",
+		"lv":"3.10"
+	},{
+		"id":198,
+		"title":"P.P.R.",
+		"part":"ADV-G",
+		"lv":"4.10"
+	},{
+		"id":199,
+		"title":"P.P.R.",
+		"part":"EXT-G",
+		"lv":"5.70"
+	},{
+		"id":200,
+		"title":"P.P.R.",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":201,
+		"title":"P.P.R.",
+		"part":"BSC-B",
+		"lv":"3.60"
+	},{
+		"id":202,
+		"title":"P.P.R.",
+		"part":"ADV-B",
+		"lv":"4.80"
+	},{
+		"id":203,
+		"title":"P.P.R.",
+		"part":"EXT-B",
+		"lv":"5.75"
+	},{
+		"id":204,
+		"title":"P.P.R.",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":205,
+		"title":"SAY WHAT YOU MEAN",
+		"part":"BSC-D",
+		"lv":"4.25"
+	},{
+		"id":206,
+		"title":"SAY WHAT YOU MEAN",
+		"part":"ADV-D",
+		"lv":"6.00"
+	},{
+		"id":207,
+		"title":"SAY WHAT YOU MEAN",
+		"part":"EXT-D",
+		"lv":"6.85"
+	},{
+		"id":208,
+		"title":"SAY WHAT YOU MEAN",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":209,
+		"title":"SAY WHAT YOU MEAN",
+		"part":"BSC-G",
+		"lv":"3.75"
+	},{
+		"id":210,
+		"title":"SAY WHAT YOU MEAN",
+		"part":"ADV-G",
+		"lv":"6.05"
+	},{
+		"id":211,
+		"title":"SAY WHAT YOU MEAN",
+		"part":"EXT-G",
+		"lv":"7.15"
+	},{
+		"id":212,
+		"title":"SAY WHAT YOU MEAN",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":213,
+		"title":"SAY WHAT YOU MEAN",
+		"part":"BSC-B",
+		"lv":"3.75"
+	},{
+		"id":214,
+		"title":"SAY WHAT YOU MEAN",
+		"part":"ADV-B",
+		"lv":"5.15"
+	},{
+		"id":215,
+		"title":"SAY WHAT YOU MEAN",
+		"part":"EXT-B",
+		"lv":"6.20"
+	},{
+		"id":216,
+		"title":"SAY WHAT YOU MEAN",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":217,
+		"title":"STOP SPINNING ME IN CIRCLES",
+		"part":"BSC-D",
+		"lv":"3.25"
+	},{
+		"id":218,
+		"title":"STOP SPINNING ME IN CIRCLES",
+		"part":"ADV-D",
+		"lv":"4.50"
+	},{
+		"id":219,
+		"title":"STOP SPINNING ME IN CIRCLES",
+		"part":"EXT-D",
+		"lv":"5.85"
+	},{
+		"id":220,
+		"title":"STOP SPINNING ME IN CIRCLES",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":221,
+		"title":"STOP SPINNING ME IN CIRCLES",
+		"part":"BSC-G",
+		"lv":"3.10"
+	},{
+		"id":222,
+		"title":"STOP SPINNING ME IN CIRCLES",
+		"part":"ADV-G",
+		"lv":"4.85"
+	},{
+		"id":223,
+		"title":"STOP SPINNING ME IN CIRCLES",
+		"part":"EXT-G",
+		"lv":"6.70"
+	},{
+		"id":224,
+		"title":"STOP SPINNING ME IN CIRCLES",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":225,
+		"title":"STOP SPINNING ME IN CIRCLES",
+		"part":"BSC-B",
+		"lv":"3.05"
+	},{
+		"id":226,
+		"title":"STOP SPINNING ME IN CIRCLES",
+		"part":"ADV-B",
+		"lv":"4.25"
+	},{
+		"id":227,
+		"title":"STOP SPINNING ME IN CIRCLES",
+		"part":"EXT-B",
+		"lv":"5.50"
+	},{
+		"id":228,
+		"title":"STOP SPINNING ME IN CIRCLES",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":229,
+		"title":"CAPTAIN'S VOYAGE",
+		"part":"BSC-D",
+		"lv":"3.50"
+	},{
+		"id":230,
+		"title":"CAPTAIN'S VOYAGE",
+		"part":"ADV-D",
+		"lv":"5.40"
+	},{
+		"id":231,
+		"title":"CAPTAIN'S VOYAGE",
+		"part":"EXT-D",
+		"lv":"7.50"
+	},{
+		"id":232,
+		"title":"CAPTAIN'S VOYAGE",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":233,
+		"title":"CAPTAIN'S VOYAGE",
+		"part":"BSC-G",
+		"lv":"2.80"
+	},{
+		"id":234,
+		"title":"CAPTAIN'S VOYAGE",
+		"part":"ADV-G",
+		"lv":"5.00"
+	},{
+		"id":235,
+		"title":"CAPTAIN'S VOYAGE",
+		"part":"EXT-G",
+		"lv":"6.40"
+	},{
+		"id":236,
+		"title":"CAPTAIN'S VOYAGE",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":237,
+		"title":"CAPTAIN'S VOYAGE",
+		"part":"BSC-B",
+		"lv":"2.65"
+	},{
+		"id":238,
+		"title":"CAPTAIN'S VOYAGE",
+		"part":"ADV-B",
+		"lv":"4.50"
+	},{
+		"id":239,
+		"title":"CAPTAIN'S VOYAGE",
+		"part":"EXT-B",
+		"lv":"5.90"
+	},{
+		"id":240,
+		"title":"CAPTAIN'S VOYAGE",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":241,
+		"title":"CARNIVAL DAY",
+		"part":"BSC-D",
+		"lv":"4.10"
+	},{
+		"id":242,
+		"title":"CARNIVAL DAY",
+		"part":"ADV-D",
+		"lv":"6.15"
+	},{
+		"id":243,
+		"title":"CARNIVAL DAY",
+		"part":"EXT-D",
+		"lv":"7.40"
+	},{
+		"id":244,
+		"title":"CARNIVAL DAY",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":245,
+		"title":"CARNIVAL DAY",
+		"part":"BSC-G",
+		"lv":"3.45"
+	},{
+		"id":246,
+		"title":"CARNIVAL DAY",
+		"part":"ADV-G",
+		"lv":"4.80"
+	},{
+		"id":247,
+		"title":"CARNIVAL DAY",
+		"part":"EXT-G",
+		"lv":"6.75"
+	},{
+		"id":248,
+		"title":"CARNIVAL DAY",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":249,
+		"title":"CARNIVAL DAY",
+		"part":"BSC-B",
+		"lv":"3.25"
+	},{
+		"id":250,
+		"title":"CARNIVAL DAY",
+		"part":"ADV-B",
+		"lv":"5.00"
+	},{
+		"id":251,
+		"title":"CARNIVAL DAY",
+		"part":"EXT-B",
+		"lv":"6.50"
+	},{
+		"id":252,
+		"title":"CARNIVAL DAY",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":253,
+		"title":"CLASSIC PARTY 2",
+		"part":"BSC-D",
+		"lv":"2.85"
+	},{
+		"id":254,
+		"title":"CLASSIC PARTY 2",
+		"part":"ADV-D",
+		"lv":"5.20"
+	},{
+		"id":255,
+		"title":"CLASSIC PARTY 2",
+		"part":"EXT-D",
+		"lv":"5.90"
+	},{
+		"id":256,
+		"title":"CLASSIC PARTY 2",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":257,
+		"title":"CLASSIC PARTY 2",
+		"part":"BSC-G",
+		"lv":"4.00"
+	},{
+		"id":258,
+		"title":"CLASSIC PARTY 2",
+		"part":"ADV-G",
+		"lv":"5.10"
+	},{
+		"id":259,
+		"title":"CLASSIC PARTY 2",
+		"part":"EXT-G",
+		"lv":"7.70"
+	},{
+		"id":260,
+		"title":"CLASSIC PARTY 2",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":261,
+		"title":"CLASSIC PARTY 2",
+		"part":"BSC-B",
+		"lv":"3.85"
+	},{
+		"id":262,
+		"title":"CLASSIC PARTY 2",
+		"part":"ADV-B",
+		"lv":"4.70"
+	},{
+		"id":263,
+		"title":"CLASSIC PARTY 2",
+		"part":"EXT-B",
+		"lv":"6.70"
+	},{
+		"id":264,
+		"title":"CLASSIC PARTY 2",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":265,
+		"title":"DAY DREAM",
+		"part":"BSC-D",
+		"lv":"5.05"
+	},{
+		"id":266,
+		"title":"DAY DREAM",
+		"part":"ADV-D",
+		"lv":"6.15"
+	},{
+		"id":267,
+		"title":"DAY DREAM",
+		"part":"EXT-D",
+		"lv":"8.45"
+	},{
+		"id":268,
+		"title":"DAY DREAM",
+		"part":"MAS-D",
+		"lv":"9.65"
+	},{
+		"id":269,
+		"title":"DAY DREAM",
+		"part":"BSC-G",
+		"lv":"5.05"
+	},{
+		"id":270,
+		"title":"DAY DREAM",
+		"part":"ADV-G",
+		"lv":"6.10"
+	},{
+		"id":271,
+		"title":"DAY DREAM",
+		"part":"EXT-G",
+		"lv":"8.10"
+	},{
+		"id":272,
+		"title":"DAY DREAM",
+		"part":"MAS-G",
+		"lv":"9.80"
+	},{
+		"id":273,
+		"title":"DAY DREAM",
+		"part":"BSC-B",
+		"lv":"4.90"
+	},{
+		"id":274,
+		"title":"DAY DREAM",
+		"part":"ADV-B",
+		"lv":"6.05"
+	},{
+		"id":275,
+		"title":"DAY DREAM",
+		"part":"EXT-B",
+		"lv":"8.20"
+	},{
+		"id":276,
+		"title":"DAY DREAM",
+		"part":"MAS-B",
+		"lv":"9.40"
+	},{
+		"id":277,
+		"title":"GIANT SLUG",
+		"part":"BSC-D",
+		"lv":"3.00"
+	},{
+		"id":278,
+		"title":"GIANT SLUG",
+		"part":"ADV-D",
+		"lv":"4.80"
+	},{
+		"id":279,
+		"title":"GIANT SLUG",
+		"part":"EXT-D",
+		"lv":"6.10"
+	},{
+		"id":280,
+		"title":"GIANT SLUG",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":281,
+		"title":"GIANT SLUG",
+		"part":"BSC-G",
+		"lv":"3.00"
+	},{
+		"id":282,
+		"title":"GIANT SLUG",
+		"part":"ADV-G",
+		"lv":"5.20"
+	},{
+		"id":283,
+		"title":"GIANT SLUG",
+		"part":"EXT-G",
+		"lv":"7.00"
+	},{
+		"id":284,
+		"title":"GIANT SLUG",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":285,
+		"title":"GIANT SLUG",
+		"part":"BSC-B",
+		"lv":"2.90"
+	},{
+		"id":286,
+		"title":"GIANT SLUG",
+		"part":"ADV-B",
+		"lv":"4.90"
+	},{
+		"id":287,
+		"title":"GIANT SLUG",
+		"part":"EXT-B",
+		"lv":"6.40"
+	},{
+		"id":288,
+		"title":"GIANT SLUG",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":289,
+		"title":"I'M GONNA GET YOU!",
+		"part":"BSC-D",
+		"lv":"2.50"
+	},{
+		"id":290,
+		"title":"I'M GONNA GET YOU!",
+		"part":"ADV-D",
+		"lv":"4.80"
+	},{
+		"id":291,
+		"title":"I'M GONNA GET YOU!",
+		"part":"EXT-D",
+		"lv":"6.20"
+	},{
+		"id":292,
+		"title":"I'M GONNA GET YOU!",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":293,
+		"title":"I'M GONNA GET YOU!",
+		"part":"BSC-G",
+		"lv":"3.10"
+	},{
+		"id":294,
+		"title":"I'M GONNA GET YOU!",
+		"part":"ADV-G",
+		"lv":"5.40"
+	},{
+		"id":295,
+		"title":"I'M GONNA GET YOU!",
+		"part":"EXT-G",
+		"lv":"6.70"
+	},{
+		"id":296,
+		"title":"I'M GONNA GET YOU!",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":297,
+		"title":"I'M GONNA GET YOU!",
+		"part":"BSC-B",
+		"lv":"3.15"
+	},{
+		"id":298,
+		"title":"I'M GONNA GET YOU!",
+		"part":"ADV-B",
+		"lv":"5.20"
+	},{
+		"id":299,
+		"title":"I'M GONNA GET YOU!",
+		"part":"EXT-B",
+		"lv":"6.20"
+	},{
+		"id":300,
+		"title":"I'M GONNA GET YOU!",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":301,
+		"title":"RIGHT ON TIME",
+		"part":"BSC-D",
+		"lv":"3.25"
+	},{
+		"id":302,
+		"title":"RIGHT ON TIME",
+		"part":"ADV-D",
+		"lv":"4.55"
+	},{
+		"id":303,
+		"title":"RIGHT ON TIME",
+		"part":"EXT-D",
+		"lv":"6.20"
+	},{
+		"id":304,
+		"title":"RIGHT ON TIME",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":305,
+		"title":"RIGHT ON TIME",
+		"part":"BSC-G",
+		"lv":"4.60"
+	},{
+		"id":306,
+		"title":"RIGHT ON TIME",
+		"part":"ADV-G",
+		"lv":"5.40"
+	},{
+		"id":307,
+		"title":"RIGHT ON TIME",
+		"part":"EXT-G",
+		"lv":"7.15"
+	},{
+		"id":308,
+		"title":"RIGHT ON TIME",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":309,
+		"title":"RIGHT ON TIME",
+		"part":"BSC-B",
+		"lv":"3.55"
+	},{
+		"id":310,
+		"title":"RIGHT ON TIME",
+		"part":"ADV-B",
+		"lv":"4.85"
+	},{
+		"id":311,
+		"title":"RIGHT ON TIME",
+		"part":"EXT-B",
+		"lv":"5.65"
+	},{
+		"id":312,
+		"title":"RIGHT ON TIME",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":313,
+		"title":"愛のしるし",
+		"part":"BSC-D",
+		"lv":"1.70"
+	},{
+		"id":314,
+		"title":"愛のしるし",
+		"part":"ADV-D",
+		"lv":"2.30"
+	},{
+		"id":315,
+		"title":"愛のしるし",
+		"part":"EXT-D",
+		"lv":"3.75"
+	},{
+		"id":316,
+		"title":"愛のしるし",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":317,
+		"title":"愛のしるし",
+		"part":"BSC-G",
+		"lv":"1.05"
+	},{
+		"id":318,
+		"title":"愛のしるし",
+		"part":"ADV-G",
+		"lv":"3.00"
+	},{
+		"id":319,
+		"title":"愛のしるし",
+		"part":"EXT-G",
+		"lv":"4.30"
+	},{
+		"id":320,
+		"title":"愛のしるし",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":321,
+		"title":"愛のしるし",
+		"part":"BSC-B",
+		"lv":"2.20"
+	},{
+		"id":322,
+		"title":"愛のしるし",
+		"part":"ADV-B",
+		"lv":"3.65"
+	},{
+		"id":323,
+		"title":"愛のしるし",
+		"part":"EXT-B",
+		"lv":"4.25"
+	},{
+		"id":324,
+		"title":"愛のしるし",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":325,
+		"title":"CASSANDRA",
+		"part":"BSC-D",
+		"lv":"3.10"
+	},{
+		"id":326,
+		"title":"CASSANDRA",
+		"part":"ADV-D",
+		"lv":"4.90"
+	},{
+		"id":327,
+		"title":"CASSANDRA",
+		"part":"EXT-D",
+		"lv":"6.00"
+	},{
+		"id":328,
+		"title":"CASSANDRA",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":329,
+		"title":"CASSANDRA",
+		"part":"BSC-G",
+		"lv":"3.90"
+	},{
+		"id":330,
+		"title":"CASSANDRA",
+		"part":"ADV-G",
+		"lv":"4.80"
+	},{
+		"id":331,
+		"title":"CASSANDRA",
+		"part":"EXT-G",
+		"lv":"6.05"
+	},{
+		"id":332,
+		"title":"CASSANDRA",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":333,
+		"title":"CASSANDRA",
+		"part":"BSC-B",
+		"lv":"3.10"
+	},{
+		"id":334,
+		"title":"CASSANDRA",
+		"part":"ADV-B",
+		"lv":"4.35"
+	},{
+		"id":335,
+		"title":"CASSANDRA",
+		"part":"EXT-B",
+		"lv":"5.35"
+	},{
+		"id":336,
+		"title":"CASSANDRA",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":337,
+		"title":"CLASSIC PARTY 3",
+		"part":"BSC-D",
+		"lv":"4.15"
+	},{
+		"id":338,
+		"title":"CLASSIC PARTY 3",
+		"part":"ADV-D",
+		"lv":"5.10"
+	},{
+		"id":339,
+		"title":"CLASSIC PARTY 3",
+		"part":"EXT-D",
+		"lv":"5.75"
+	},{
+		"id":340,
+		"title":"CLASSIC PARTY 3",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":341,
+		"title":"CLASSIC PARTY 3",
+		"part":"BSC-G",
+		"lv":"4.50"
+	},{
+		"id":342,
+		"title":"CLASSIC PARTY 3",
+		"part":"ADV-G",
+		"lv":"7.00"
+	},{
+		"id":343,
+		"title":"CLASSIC PARTY 3",
+		"part":"EXT-G",
+		"lv":"8.40"
+	},{
+		"id":344,
+		"title":"CLASSIC PARTY 3",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":345,
+		"title":"CLASSIC PARTY 3",
+		"part":"BSC-B",
+		"lv":"4.05"
+	},{
+		"id":346,
+		"title":"CLASSIC PARTY 3",
+		"part":"ADV-B",
+		"lv":"5.40"
+	},{
+		"id":347,
+		"title":"CLASSIC PARTY 3",
+		"part":"EXT-B",
+		"lv":"5.95"
+	},{
+		"id":348,
+		"title":"CLASSIC PARTY 3",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":349,
+		"title":"FIRE IN THE DARK",
+		"part":"BSC-D",
+		"lv":"3.85"
+	},{
+		"id":350,
+		"title":"FIRE IN THE DARK",
+		"part":"ADV-D",
+		"lv":"5.40"
+	},{
+		"id":351,
+		"title":"FIRE IN THE DARK",
+		"part":"EXT-D",
+		"lv":"7.65"
+	},{
+		"id":352,
+		"title":"FIRE IN THE DARK",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":353,
+		"title":"FIRE IN THE DARK",
+		"part":"BSC-G",
+		"lv":"4.50"
+	},{
+		"id":354,
+		"title":"FIRE IN THE DARK",
+		"part":"ADV-G",
+		"lv":"5.90"
+	},{
+		"id":355,
+		"title":"FIRE IN THE DARK",
+		"part":"EXT-G",
+		"lv":"7.10"
+	},{
+		"id":356,
+		"title":"FIRE IN THE DARK",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":357,
+		"title":"FIRE IN THE DARK",
+		"part":"BSC-B",
+		"lv":"4.30"
+	},{
+		"id":358,
+		"title":"FIRE IN THE DARK",
+		"part":"ADV-B",
+		"lv":"5.65"
+	},{
+		"id":359,
+		"title":"FIRE IN THE DARK",
+		"part":"EXT-B",
+		"lv":"6.70"
+	},{
+		"id":360,
+		"title":"FIRE IN THE DARK",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":361,
+		"title":"The Least 100sec",
+		"part":"BSC-D",
+		"lv":"4.65"
+	},{
+		"id":362,
+		"title":"The Least 100sec",
+		"part":"ADV-D",
+		"lv":"6.50"
+	},{
+		"id":363,
+		"title":"The Least 100sec",
+		"part":"EXT-D",
+		"lv":"8.95"
+	},{
+		"id":364,
+		"title":"The Least 100sec",
+		"part":"MAS-D",
+		"lv":"9.95"
+	},{
+		"id":365,
+		"title":"The Least 100sec",
+		"part":"BSC-G",
+		"lv":"5.95"
+	},{
+		"id":366,
+		"title":"The Least 100sec",
+		"part":"ADV-G",
+		"lv":"7.25"
+	},{
+		"id":367,
+		"title":"The Least 100sec",
+		"part":"EXT-G",
+		"lv":"8.45"
+	},{
+		"id":368,
+		"title":"The Least 100sec",
+		"part":"MAS-G",
+		"lv":"9.50"
+	},{
+		"id":369,
+		"title":"The Least 100sec",
+		"part":"BSC-B",
+		"lv":"5.20"
+	},{
+		"id":370,
+		"title":"The Least 100sec",
+		"part":"ADV-B",
+		"lv":"6.95"
+	},{
+		"id":371,
+		"title":"The Least 100sec",
+		"part":"EXT-B",
+		"lv":"7.50"
+	},{
+		"id":372,
+		"title":"The Least 100sec",
+		"part":"MAS-B",
+		"lv":"8.10"
+	},{
+		"id":373,
+		"title":"THREE WORMS",
+		"part":"BSC-D",
+		"lv":"3.70"
+	},{
+		"id":374,
+		"title":"THREE WORMS",
+		"part":"ADV-D",
+		"lv":"5.75"
+	},{
+		"id":375,
+		"title":"THREE WORMS",
+		"part":"EXT-D",
+		"lv":"7.90"
+	},{
+		"id":376,
+		"title":"THREE WORMS",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":377,
+		"title":"THREE WORMS",
+		"part":"BSC-G",
+		"lv":"3.60"
+	},{
+		"id":378,
+		"title":"THREE WORMS",
+		"part":"ADV-G",
+		"lv":"6.00"
+	},{
+		"id":379,
+		"title":"THREE WORMS",
+		"part":"EXT-G",
+		"lv":"7.00"
+	},{
+		"id":380,
+		"title":"THREE WORMS",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":381,
+		"title":"THREE WORMS",
+		"part":"BSC-B",
+		"lv":"3.90"
+	},{
+		"id":382,
+		"title":"THREE WORMS",
+		"part":"ADV-B",
+		"lv":"6.10"
+	},{
+		"id":383,
+		"title":"THREE WORMS",
+		"part":"EXT-B",
+		"lv":"7.20"
+	},{
+		"id":384,
+		"title":"THREE WORMS",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":385,
+		"title":"TIGER, TOO",
+		"part":"BSC-D",
+		"lv":"3.75"
+	},{
+		"id":386,
+		"title":"TIGER, TOO",
+		"part":"ADV-D",
+		"lv":"5.75"
+	},{
+		"id":387,
+		"title":"TIGER, TOO",
+		"part":"EXT-D",
+		"lv":"6.95"
+	},{
+		"id":388,
+		"title":"TIGER, TOO",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":389,
+		"title":"TIGER, TOO",
+		"part":"BSC-G",
+		"lv":"4.35"
+	},{
+		"id":390,
+		"title":"TIGER, TOO",
+		"part":"ADV-G",
+		"lv":"5.80"
+	},{
+		"id":391,
+		"title":"TIGER, TOO",
+		"part":"EXT-G",
+		"lv":"7.20"
+	},{
+		"id":392,
+		"title":"TIGER, TOO",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":393,
+		"title":"TIGER, TOO",
+		"part":"BSC-B",
+		"lv":"3.85"
+	},{
+		"id":394,
+		"title":"TIGER, TOO",
+		"part":"ADV-B",
+		"lv":"5.75"
+	},{
+		"id":395,
+		"title":"TIGER, TOO",
+		"part":"EXT-B",
+		"lv":"7.10"
+	},{
+		"id":396,
+		"title":"TIGER, TOO",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":397,
+		"title":"VOIDDD",
+		"part":"BSC-D",
+		"lv":"2.50"
+	},{
+		"id":398,
+		"title":"VOIDDD",
+		"part":"ADV-D",
+		"lv":"5.45"
+	},{
+		"id":399,
+		"title":"VOIDDD",
+		"part":"EXT-D",
+		"lv":"7.80"
+	},{
+		"id":400,
+		"title":"VOIDDD",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":401,
+		"title":"VOIDDD",
+		"part":"BSC-G",
+		"lv":"3.60"
+	},{
+		"id":402,
+		"title":"VOIDDD",
+		"part":"ADV-G",
+		"lv":"5.45"
+	},{
+		"id":403,
+		"title":"VOIDDD",
+		"part":"EXT-G",
+		"lv":"8.30"
+	},{
+		"id":404,
+		"title":"VOIDDD",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":405,
+		"title":"VOIDDD",
+		"part":"BSC-B",
+		"lv":"3.20"
+	},{
+		"id":406,
+		"title":"VOIDDD",
+		"part":"ADV-B",
+		"lv":"4.75"
+	},{
+		"id":407,
+		"title":"VOIDDD",
+		"part":"EXT-B",
+		"lv":"7.90"
+	},{
+		"id":408,
+		"title":"VOIDDD",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":409,
+		"title":"BOBBY SUE AND SKINNY JIM",
+		"part":"BSC-D",
+		"lv":"2.85"
+	},{
+		"id":410,
+		"title":"BOBBY SUE AND SKINNY JIM",
+		"part":"ADV-D",
+		"lv":"5.45"
+	},{
+		"id":411,
+		"title":"BOBBY SUE AND SKINNY JIM",
+		"part":"EXT-D",
+		"lv":"6.75"
+	},{
+		"id":412,
+		"title":"BOBBY SUE AND SKINNY JIM",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":413,
+		"title":"BOBBY SUE AND SKINNY JIM",
+		"part":"BSC-G",
+		"lv":"3.55"
+	},{
+		"id":414,
+		"title":"BOBBY SUE AND SKINNY JIM",
+		"part":"ADV-G",
+		"lv":"4.80"
+	},{
+		"id":415,
+		"title":"BOBBY SUE AND SKINNY JIM",
+		"part":"EXT-G",
+		"lv":"6.80"
+	},{
+		"id":416,
+		"title":"BOBBY SUE AND SKINNY JIM",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":417,
+		"title":"BOBBY SUE AND SKINNY JIM",
+		"part":"BSC-B",
+		"lv":"3.40"
+	},{
+		"id":418,
+		"title":"BOBBY SUE AND SKINNY JIM",
+		"part":"ADV-B",
+		"lv":"4.85"
+	},{
+		"id":419,
+		"title":"BOBBY SUE AND SKINNY JIM",
+		"part":"EXT-B",
+		"lv":"6.75"
+	},{
+		"id":420,
+		"title":"BOBBY SUE AND SKINNY JIM",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":421,
+		"title":"Brazilian Anthem",
+		"part":"BSC-D",
+		"lv":"4.80"
+	},{
+		"id":422,
+		"title":"Brazilian Anthem",
+		"part":"ADV-D",
+		"lv":"6.00"
+	},{
+		"id":423,
+		"title":"Brazilian Anthem",
+		"part":"EXT-D",
+		"lv":"7.15"
+	},{
+		"id":424,
+		"title":"Brazilian Anthem",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":425,
+		"title":"Brazilian Anthem",
+		"part":"BSC-G",
+		"lv":"3.85"
+	},{
+		"id":426,
+		"title":"Brazilian Anthem",
+		"part":"ADV-G",
+		"lv":"4.60"
+	},{
+		"id":427,
+		"title":"Brazilian Anthem",
+		"part":"EXT-G",
+		"lv":"6.95"
+	},{
+		"id":428,
+		"title":"Brazilian Anthem",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":429,
+		"title":"Brazilian Anthem",
+		"part":"BSC-B",
+		"lv":"3.90"
+	},{
+		"id":430,
+		"title":"Brazilian Anthem",
+		"part":"ADV-B",
+		"lv":"4.50"
+	},{
+		"id":431,
+		"title":"Brazilian Anthem",
+		"part":"EXT-B",
+		"lv":"5.60"
+	},{
+		"id":432,
+		"title":"Brazilian Anthem",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":433,
+		"title":"E-MAIL ME!",
+		"part":"BSC-D",
+		"lv":"3.00"
+	},{
+		"id":434,
+		"title":"E-MAIL ME!",
+		"part":"ADV-D",
+		"lv":"5.10"
+	},{
+		"id":435,
+		"title":"E-MAIL ME!",
+		"part":"EXT-D",
+		"lv":"6.50"
+	},{
+		"id":436,
+		"title":"E-MAIL ME!",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":437,
+		"title":"E-MAIL ME!",
+		"part":"BSC-G",
+		"lv":"2.80"
+	},{
+		"id":438,
+		"title":"E-MAIL ME!",
+		"part":"ADV-G",
+		"lv":"5.10"
+	},{
+		"id":439,
+		"title":"E-MAIL ME!",
+		"part":"EXT-G",
+		"lv":"6.35"
+	},{
+		"id":440,
+		"title":"E-MAIL ME!",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":441,
+		"title":"E-MAIL ME!",
+		"part":"BSC-B",
+		"lv":"2.70"
+	},{
+		"id":442,
+		"title":"E-MAIL ME!",
+		"part":"ADV-B",
+		"lv":"5.20"
+	},{
+		"id":443,
+		"title":"E-MAIL ME!",
+		"part":"EXT-B",
+		"lv":"6.10"
+	},{
+		"id":444,
+		"title":"E-MAIL ME!",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":445,
+		"title":"FIREBALL",
+		"part":"BSC-D",
+		"lv":"3.75"
+	},{
+		"id":446,
+		"title":"FIREBALL",
+		"part":"ADV-D",
+		"lv":"6.10"
+	},{
+		"id":447,
+		"title":"FIREBALL",
+		"part":"EXT-D",
+		"lv":"7.00"
+	},{
+		"id":448,
+		"title":"FIREBALL",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":449,
+		"title":"FIREBALL",
+		"part":"BSC-G",
+		"lv":"3.70"
+	},{
+		"id":450,
+		"title":"FIREBALL",
+		"part":"ADV-G",
+		"lv":"5.55"
+	},{
+		"id":451,
+		"title":"FIREBALL",
+		"part":"EXT-G",
+		"lv":"6.85"
+	},{
+		"id":452,
+		"title":"FIREBALL",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":453,
+		"title":"FIREBALL",
+		"part":"BSC-B",
+		"lv":"3.10"
+	},{
+		"id":454,
+		"title":"FIREBALL",
+		"part":"ADV-B",
+		"lv":"4.50"
+	},{
+		"id":455,
+		"title":"FIREBALL",
+		"part":"EXT-B",
+		"lv":"5.55"
+	},{
+		"id":456,
+		"title":"FIREBALL",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":457,
+		"title":"Herring roe",
+		"part":"BSC-D",
+		"lv":"3.05"
+	},{
+		"id":458,
+		"title":"Herring roe",
+		"part":"ADV-D",
+		"lv":"5.40"
+	},{
+		"id":459,
+		"title":"Herring roe",
+		"part":"EXT-D",
+		"lv":"8.55"
+	},{
+		"id":460,
+		"title":"Herring roe",
+		"part":"MAS-D",
+		"lv":"9.60"
+	},{
+		"id":461,
+		"title":"Herring roe",
+		"part":"BSC-G",
+		"lv":"2.95"
+	},{
+		"id":462,
+		"title":"Herring roe",
+		"part":"ADV-G",
+		"lv":"5.20"
+	},{
+		"id":463,
+		"title":"Herring roe",
+		"part":"EXT-G",
+		"lv":"7.25"
+	},{
+		"id":464,
+		"title":"Herring roe",
+		"part":"MAS-G",
+		"lv":"9.30"
+	},{
+		"id":465,
+		"title":"Herring roe",
+		"part":"BSC-B",
+		"lv":"3.25"
+	},{
+		"id":466,
+		"title":"Herring roe",
+		"part":"ADV-B",
+		"lv":"4.85"
+	},{
+		"id":467,
+		"title":"Herring roe",
+		"part":"EXT-B",
+		"lv":"7.05"
+	},{
+		"id":468,
+		"title":"Herring roe",
+		"part":"MAS-B",
+		"lv":"7.60"
+	},{
+		"id":469,
+		"title":"hypnotheque",
+		"part":"BSC-D",
+		"lv":"3.25"
+	},{
+		"id":470,
+		"title":"hypnotheque",
+		"part":"ADV-D",
+		"lv":"4.85"
+	},{
+		"id":471,
+		"title":"hypnotheque",
+		"part":"EXT-D",
+		"lv":"6.65"
+	},{
+		"id":472,
+		"title":"hypnotheque",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":473,
+		"title":"hypnotheque",
+		"part":"BSC-G",
+		"lv":"4.95"
+	},{
+		"id":474,
+		"title":"hypnotheque",
+		"part":"ADV-G",
+		"lv":"6.50"
+	},{
+		"id":475,
+		"title":"hypnotheque",
+		"part":"EXT-G",
+		"lv":"7.45"
+	},{
+		"id":476,
+		"title":"hypnotheque",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":477,
+		"title":"hypnotheque",
+		"part":"BSC-B",
+		"lv":"3.75"
+	},{
+		"id":478,
+		"title":"hypnotheque",
+		"part":"ADV-B",
+		"lv":"5.35"
+	},{
+		"id":479,
+		"title":"hypnotheque",
+		"part":"EXT-B",
+		"lv":"6.35"
+	},{
+		"id":480,
+		"title":"hypnotheque",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":481,
+		"title":"MIDNIGHT SUN",
+		"part":"BSC-D",
+		"lv":"3.45"
+	},{
+		"id":482,
+		"title":"MIDNIGHT SUN",
+		"part":"ADV-D",
+		"lv":"4.90"
+	},{
+		"id":483,
+		"title":"MIDNIGHT SUN",
+		"part":"EXT-D",
+		"lv":"7.85"
+	},{
+		"id":484,
+		"title":"MIDNIGHT SUN",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":485,
+		"title":"MIDNIGHT SUN",
+		"part":"BSC-G",
+		"lv":"3.25"
+	},{
+		"id":486,
+		"title":"MIDNIGHT SUN",
+		"part":"ADV-G",
+		"lv":"4.95"
+	},{
+		"id":487,
+		"title":"MIDNIGHT SUN",
+		"part":"EXT-G",
+		"lv":"7.20"
+	},{
+		"id":488,
+		"title":"MIDNIGHT SUN",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":489,
+		"title":"MIDNIGHT SUN",
+		"part":"BSC-B",
+		"lv":"3.60"
+	},{
+		"id":490,
+		"title":"MIDNIGHT SUN",
+		"part":"ADV-B",
+		"lv":"4.80"
+	},{
+		"id":491,
+		"title":"MIDNIGHT SUN",
+		"part":"EXT-B",
+		"lv":"6.75"
+	},{
+		"id":492,
+		"title":"MIDNIGHT SUN",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":493,
+		"title":"MISS YOU",
+		"part":"BSC-D",
+		"lv":"3.30"
+	},{
+		"id":494,
+		"title":"MISS YOU",
+		"part":"ADV-D",
+		"lv":"6.00"
+	},{
+		"id":495,
+		"title":"MISS YOU",
+		"part":"EXT-D",
+		"lv":"7.40"
+	},{
+		"id":496,
+		"title":"MISS YOU",
+		"part":"MAS-D",
+		"lv":"8.30"
+	},{
+		"id":497,
+		"title":"MISS YOU",
+		"part":"BSC-G",
+		"lv":"3.50"
+	},{
+		"id":498,
+		"title":"MISS YOU",
+		"part":"ADV-G",
+		"lv":"5.40"
+	},{
+		"id":499,
+		"title":"MISS YOU",
+		"part":"EXT-G",
+		"lv":"7.55"
+	},{
+		"id":500,
+		"title":"MISS YOU",
+		"part":"MAS-G",
+		"lv":"8.70"
+	},{
+		"id":501,
+		"title":"MISS YOU",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":502,
+		"title":"MISS YOU",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":503,
+		"title":"MISS YOU",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":504,
+		"title":"MISS YOU",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":505,
+		"title":"plastic imitations",
+		"part":"BSC-D",
+		"lv":"3.10"
+	},{
+		"id":506,
+		"title":"plastic imitations",
+		"part":"ADV-D",
+		"lv":"4.45"
+	},{
+		"id":507,
+		"title":"plastic imitations",
+		"part":"EXT-D",
+		"lv":"6.15"
+	},{
+		"id":508,
+		"title":"plastic imitations",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":509,
+		"title":"plastic imitations",
+		"part":"BSC-G",
+		"lv":"3.15"
+	},{
+		"id":510,
+		"title":"plastic imitations",
+		"part":"ADV-G",
+		"lv":"5.25"
+	},{
+		"id":511,
+		"title":"plastic imitations",
+		"part":"EXT-G",
+		"lv":"7.05"
+	},{
+		"id":512,
+		"title":"plastic imitations",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":513,
+		"title":"plastic imitations",
+		"part":"BSC-B",
+		"lv":"2.55"
+	},{
+		"id":514,
+		"title":"plastic imitations",
+		"part":"ADV-B",
+		"lv":"4.95"
+	},{
+		"id":515,
+		"title":"plastic imitations",
+		"part":"EXT-B",
+		"lv":"6.65"
+	},{
+		"id":516,
+		"title":"plastic imitations",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":517,
+		"title":"SOME HARD REACTIONS",
+		"part":"BSC-D",
+		"lv":"3.40"
+	},{
+		"id":518,
+		"title":"SOME HARD REACTIONS",
+		"part":"ADV-D",
+		"lv":"5.70"
+	},{
+		"id":519,
+		"title":"SOME HARD REACTIONS",
+		"part":"EXT-D",
+		"lv":"6.70"
+	},{
+		"id":520,
+		"title":"SOME HARD REACTIONS",
+		"part":"MAS-D",
+		"lv":"8.00"
+	},{
+		"id":521,
+		"title":"SOME HARD REACTIONS",
+		"part":"BSC-G",
+		"lv":"3.45"
+	},{
+		"id":522,
+		"title":"SOME HARD REACTIONS",
+		"part":"ADV-G",
+		"lv":"5.20"
+	},{
+		"id":523,
+		"title":"SOME HARD REACTIONS",
+		"part":"EXT-G",
+		"lv":"6.75"
+	},{
+		"id":524,
+		"title":"SOME HARD REACTIONS",
+		"part":"MAS-G",
+		"lv":"8.10"
+	},{
+		"id":525,
+		"title":"SOME HARD REACTIONS",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":526,
+		"title":"SOME HARD REACTIONS",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":527,
+		"title":"SOME HARD REACTIONS",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":528,
+		"title":"SOME HARD REACTIONS",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":529,
+		"title":"STOP THIS TRAIN",
+		"part":"BSC-D",
+		"lv":"3.10"
+	},{
+		"id":530,
+		"title":"STOP THIS TRAIN",
+		"part":"ADV-D",
+		"lv":"5.15"
+	},{
+		"id":531,
+		"title":"STOP THIS TRAIN",
+		"part":"EXT-D",
+		"lv":"6.20"
+	},{
+		"id":532,
+		"title":"STOP THIS TRAIN",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":533,
+		"title":"STOP THIS TRAIN",
+		"part":"BSC-G",
+		"lv":"3.35"
+	},{
+		"id":534,
+		"title":"STOP THIS TRAIN",
+		"part":"ADV-G",
+		"lv":"5.10"
+	},{
+		"id":535,
+		"title":"STOP THIS TRAIN",
+		"part":"EXT-G",
+		"lv":"6.85"
+	},{
+		"id":536,
+		"title":"STOP THIS TRAIN",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":537,
+		"title":"STOP THIS TRAIN",
+		"part":"BSC-B",
+		"lv":"3.45"
+	},{
+		"id":538,
+		"title":"STOP THIS TRAIN",
+		"part":"ADV-B",
+		"lv":"5.25"
+	},{
+		"id":539,
+		"title":"STOP THIS TRAIN",
+		"part":"EXT-B",
+		"lv":"6.30"
+	},{
+		"id":540,
+		"title":"STOP THIS TRAIN",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":541,
+		"title":"Yellow Panic Time",
+		"part":"BSC-D",
+		"lv":"4.05"
+	},{
+		"id":542,
+		"title":"Yellow Panic Time",
+		"part":"ADV-D",
+		"lv":"5.15"
+	},{
+		"id":543,
+		"title":"Yellow Panic Time",
+		"part":"EXT-D",
+		"lv":"6.30"
+	},{
+		"id":544,
+		"title":"Yellow Panic Time",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":545,
+		"title":"Yellow Panic Time",
+		"part":"BSC-G",
+		"lv":"3.30"
+	},{
+		"id":546,
+		"title":"Yellow Panic Time",
+		"part":"ADV-G",
+		"lv":"5.55"
+	},{
+		"id":547,
+		"title":"Yellow Panic Time",
+		"part":"EXT-G",
+		"lv":"7.10"
+	},{
+		"id":548,
+		"title":"Yellow Panic Time",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":549,
+		"title":"Yellow Panic Time",
+		"part":"BSC-B",
+		"lv":"3.15"
+	},{
+		"id":550,
+		"title":"Yellow Panic Time",
+		"part":"ADV-B",
+		"lv":"4.70"
+	},{
+		"id":551,
+		"title":"Yellow Panic Time",
+		"part":"EXT-B",
+		"lv":"5.75"
+	},{
+		"id":552,
+		"title":"Yellow Panic Time",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":553,
+		"title":"子供の落書き帳",
+		"part":"BSC-D",
+		"lv":"6.25"
+	},{
+		"id":554,
+		"title":"子供の落書き帳",
+		"part":"ADV-D",
+		"lv":"7.50"
+	},{
+		"id":555,
+		"title":"子供の落書き帳",
+		"part":"EXT-D",
+		"lv":"8.65"
+	},{
+		"id":556,
+		"title":"子供の落書き帳",
+		"part":"MAS-D",
+		"lv":"9.45"
+	},{
+		"id":557,
+		"title":"子供の落書き帳",
+		"part":"BSC-G",
+		"lv":"4.40"
+	},{
+		"id":558,
+		"title":"子供の落書き帳",
+		"part":"ADV-G",
+		"lv":"5.55"
+	},{
+		"id":559,
+		"title":"子供の落書き帳",
+		"part":"EXT-G",
+		"lv":"7.70"
+	},{
+		"id":560,
+		"title":"子供の落書き帳",
+		"part":"MAS-G",
+		"lv":"9.55"
+	},{
+		"id":561,
+		"title":"子供の落書き帳",
+		"part":"BSC-B",
+		"lv":"4.50"
+	},{
+		"id":562,
+		"title":"子供の落書き帳",
+		"part":"ADV-B",
+		"lv":"5.20"
+	},{
+		"id":563,
+		"title":"子供の落書き帳",
+		"part":"EXT-B",
+		"lv":"7.55"
+	},{
+		"id":564,
+		"title":"子供の落書き帳",
+		"part":"MAS-B",
+		"lv":"8.35"
+	},{
+		"id":565,
+		"title":"正論",
+		"part":"BSC-D",
+		"lv":"4.55"
+	},{
+		"id":566,
+		"title":"正論",
+		"part":"ADV-D",
+		"lv":"5.55"
+	},{
+		"id":567,
+		"title":"正論",
+		"part":"EXT-D",
+		"lv":"6.80"
+	},{
+		"id":568,
+		"title":"正論",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":569,
+		"title":"正論",
+		"part":"BSC-G",
+		"lv":"4.30"
+	},{
+		"id":570,
+		"title":"正論",
+		"part":"ADV-G",
+		"lv":"5.20"
+	},{
+		"id":571,
+		"title":"正論",
+		"part":"EXT-G",
+		"lv":"7.50"
+	},{
+		"id":572,
+		"title":"正論",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":573,
+		"title":"正論",
+		"part":"BSC-B",
+		"lv":"3.40"
+	},{
+		"id":574,
+		"title":"正論",
+		"part":"ADV-B",
+		"lv":"5.15"
+	},{
+		"id":575,
+		"title":"正論",
+		"part":"EXT-B",
+		"lv":"5.70"
+	},{
+		"id":576,
+		"title":"正論",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":577,
+		"title":"Concertino in Blue",
+		"part":"BSC-D",
+		"lv":"5.95"
+	},{
+		"id":578,
+		"title":"Concertino in Blue",
+		"part":"ADV-D",
+		"lv":"7.05"
+	},{
+		"id":579,
+		"title":"Concertino in Blue",
+		"part":"EXT-D",
+		"lv":"8.00"
+	},{
+		"id":580,
+		"title":"Concertino in Blue",
+		"part":"MAS-D",
+		"lv":"8.90"
+	},{
+		"id":581,
+		"title":"Concertino in Blue",
+		"part":"BSC-G",
+		"lv":"5.25"
+	},{
+		"id":582,
+		"title":"Concertino in Blue",
+		"part":"ADV-G",
+		"lv":"7.40"
+	},{
+		"id":583,
+		"title":"Concertino in Blue",
+		"part":"EXT-G",
+		"lv":"9.40"
+	},{
+		"id":584,
+		"title":"Concertino in Blue",
+		"part":"MAS-G",
+		"lv":"9.80"
+	},{
+		"id":585,
+		"title":"Concertino in Blue",
+		"part":"BSC-B",
+		"lv":"4.50"
+	},{
+		"id":586,
+		"title":"Concertino in Blue",
+		"part":"ADV-B",
+		"lv":"6.00"
+	},{
+		"id":587,
+		"title":"Concertino in Blue",
+		"part":"EXT-B",
+		"lv":"8.10"
+	},{
+		"id":588,
+		"title":"Concertino in Blue",
+		"part":"MAS-B",
+		"lv":"8.70"
+	},{
+		"id":589,
+		"title":"DEPARTURE",
+		"part":"BSC-D",
+		"lv":"3.20"
+	},{
+		"id":590,
+		"title":"DEPARTURE",
+		"part":"ADV-D",
+		"lv":"4.80"
+	},{
+		"id":591,
+		"title":"DEPARTURE",
+		"part":"EXT-D",
+		"lv":"6.50"
+	},{
+		"id":592,
+		"title":"DEPARTURE",
+		"part":"MAS-D",
+		"lv":"8.30"
+	},{
+		"id":593,
+		"title":"DEPARTURE",
+		"part":"BSC-G",
+		"lv":"3.50"
+	},{
+		"id":594,
+		"title":"DEPARTURE",
+		"part":"ADV-G",
+		"lv":"5.50"
+	},{
+		"id":595,
+		"title":"DEPARTURE",
+		"part":"EXT-G",
+		"lv":"7.40"
+	},{
+		"id":596,
+		"title":"DEPARTURE",
+		"part":"MAS-G",
+		"lv":"8.10"
+	},{
+		"id":597,
+		"title":"DEPARTURE",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":598,
+		"title":"DEPARTURE",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":599,
+		"title":"DEPARTURE",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":600,
+		"title":"DEPARTURE",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":601,
+		"title":"Destiny lovers",
+		"part":"BSC-D",
+		"lv":"3.95"
+	},{
+		"id":602,
+		"title":"Destiny lovers",
+		"part":"ADV-D",
+		"lv":"6.10"
+	},{
+		"id":603,
+		"title":"Destiny lovers",
+		"part":"EXT-D",
+		"lv":"7.25"
+	},{
+		"id":604,
+		"title":"Destiny lovers",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":605,
+		"title":"Destiny lovers",
+		"part":"BSC-G",
+		"lv":"4.00"
+	},{
+		"id":606,
+		"title":"Destiny lovers",
+		"part":"ADV-G",
+		"lv":"5.75"
+	},{
+		"id":607,
+		"title":"Destiny lovers",
+		"part":"EXT-G",
+		"lv":"7.30"
+	},{
+		"id":608,
+		"title":"Destiny lovers",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":609,
+		"title":"Destiny lovers",
+		"part":"BSC-B",
+		"lv":"4.55"
+	},{
+		"id":610,
+		"title":"Destiny lovers",
+		"part":"ADV-B",
+		"lv":"5.75"
+	},{
+		"id":611,
+		"title":"Destiny lovers",
+		"part":"EXT-B",
+		"lv":"6.75"
+	},{
+		"id":612,
+		"title":"Destiny lovers",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":613,
+		"title":"GETAWAY",
+		"part":"BSC-D",
+		"lv":"2.70"
+	},{
+		"id":614,
+		"title":"GETAWAY",
+		"part":"ADV-D",
+		"lv":"4.60"
+	},{
+		"id":615,
+		"title":"GETAWAY",
+		"part":"EXT-D",
+		"lv":"6.90"
+	},{
+		"id":616,
+		"title":"GETAWAY",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":617,
+		"title":"GETAWAY",
+		"part":"BSC-G",
+		"lv":"3.30"
+	},{
+		"id":618,
+		"title":"GETAWAY",
+		"part":"ADV-G",
+		"lv":"5.40"
+	},{
+		"id":619,
+		"title":"GETAWAY",
+		"part":"EXT-G",
+		"lv":"7.40"
+	},{
+		"id":620,
+		"title":"GETAWAY",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":621,
+		"title":"GETAWAY",
+		"part":"BSC-B",
+		"lv":"3.40"
+	},{
+		"id":622,
+		"title":"GETAWAY",
+		"part":"ADV-B",
+		"lv":"5.35"
+	},{
+		"id":623,
+		"title":"GETAWAY",
+		"part":"EXT-B",
+		"lv":"7.30"
+	},{
+		"id":624,
+		"title":"GETAWAY",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":625,
+		"title":"innocent world",
+		"part":"BSC-D",
+		"lv":"1.10"
+	},{
+		"id":626,
+		"title":"innocent world",
+		"part":"ADV-D",
+		"lv":"3.25"
+	},{
+		"id":627,
+		"title":"innocent world",
+		"part":"EXT-D",
+		"lv":"4.00"
+	},{
+		"id":628,
+		"title":"innocent world",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":629,
+		"title":"innocent world",
+		"part":"BSC-G",
+		"lv":"1.00"
+	},{
+		"id":630,
+		"title":"innocent world",
+		"part":"ADV-G",
+		"lv":"4.00"
+	},{
+		"id":631,
+		"title":"innocent world",
+		"part":"EXT-G",
+		"lv":"5.20"
+	},{
+		"id":632,
+		"title":"innocent world",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":633,
+		"title":"innocent world",
+		"part":"BSC-B",
+		"lv":"3.00"
+	},{
+		"id":634,
+		"title":"innocent world",
+		"part":"ADV-B",
+		"lv":"3.90"
+	},{
+		"id":635,
+		"title":"innocent world",
+		"part":"EXT-B",
+		"lv":"4.65"
+	},{
+		"id":636,
+		"title":"innocent world",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":637,
+		"title":"jet coaster☆girl",
+		"part":"BSC-D",
+		"lv":"3.15"
+	},{
+		"id":638,
+		"title":"jet coaster☆girl",
+		"part":"ADV-D",
+		"lv":"5.00"
+	},{
+		"id":639,
+		"title":"jet coaster☆girl",
+		"part":"EXT-D",
+		"lv":"5.95"
+	},{
+		"id":640,
+		"title":"jet coaster☆girl",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":641,
+		"title":"jet coaster☆girl",
+		"part":"BSC-G",
+		"lv":"4.70"
+	},{
+		"id":642,
+		"title":"jet coaster☆girl",
+		"part":"ADV-G",
+		"lv":"6.80"
+	},{
+		"id":643,
+		"title":"jet coaster☆girl",
+		"part":"EXT-G",
+		"lv":"7.55"
+	},{
+		"id":644,
+		"title":"jet coaster☆girl",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":645,
+		"title":"jet coaster☆girl",
+		"part":"BSC-B",
+		"lv":"3.70"
+	},{
+		"id":646,
+		"title":"jet coaster☆girl",
+		"part":"ADV-B",
+		"lv":"4.35"
+	},{
+		"id":647,
+		"title":"jet coaster☆girl",
+		"part":"EXT-B",
+		"lv":"6.10"
+	},{
+		"id":648,
+		"title":"jet coaster☆girl",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":649,
+		"title":"MODEL DD2",
+		"part":"BSC-D",
+		"lv":"5.40"
+	},{
+		"id":650,
+		"title":"MODEL DD2",
+		"part":"ADV-D",
+		"lv":"6.90"
+	},{
+		"id":651,
+		"title":"MODEL DD2",
+		"part":"EXT-D",
+		"lv":"7.60"
+	},{
+		"id":652,
+		"title":"MODEL DD2",
+		"part":"MAS-D",
+		"lv":"8.80"
+	},{
+		"id":653,
+		"title":"MODEL DD2",
+		"part":"BSC-G",
+		"lv":"4.75"
+	},{
+		"id":654,
+		"title":"MODEL DD2",
+		"part":"ADV-G",
+		"lv":"6.00"
+	},{
+		"id":655,
+		"title":"MODEL DD2",
+		"part":"EXT-G",
+		"lv":"7.75"
+	},{
+		"id":656,
+		"title":"MODEL DD2",
+		"part":"MAS-G",
+		"lv":"8.35"
+	},{
+		"id":657,
+		"title":"MODEL DD2",
+		"part":"BSC-B",
+		"lv":"4.25"
+	},{
+		"id":658,
+		"title":"MODEL DD2",
+		"part":"ADV-B",
+		"lv":"4.95"
+	},{
+		"id":659,
+		"title":"MODEL DD2",
+		"part":"EXT-B",
+		"lv":"6.55"
+	},{
+		"id":660,
+		"title":"MODEL DD2",
+		"part":"MAS-B",
+		"lv":"7.35"
+	},{
+		"id":661,
+		"title":"Moonlight Walkin'",
+		"part":"BSC-D",
+		"lv":"3.20"
+	},{
+		"id":662,
+		"title":"Moonlight Walkin'",
+		"part":"ADV-D",
+		"lv":"5.00"
+	},{
+		"id":663,
+		"title":"Moonlight Walkin'",
+		"part":"EXT-D",
+		"lv":"6.75"
+	},{
+		"id":664,
+		"title":"Moonlight Walkin'",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":665,
+		"title":"Moonlight Walkin'",
+		"part":"BSC-G",
+		"lv":"2.90"
+	},{
+		"id":666,
+		"title":"Moonlight Walkin'",
+		"part":"ADV-G",
+		"lv":"5.50"
+	},{
+		"id":667,
+		"title":"Moonlight Walkin'",
+		"part":"EXT-G",
+		"lv":"6.60"
+	},{
+		"id":668,
+		"title":"Moonlight Walkin'",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":669,
+		"title":"Moonlight Walkin'",
+		"part":"BSC-B",
+		"lv":"2.70"
+	},{
+		"id":670,
+		"title":"Moonlight Walkin'",
+		"part":"ADV-B",
+		"lv":"5.10"
+	},{
+		"id":671,
+		"title":"Moonlight Walkin'",
+		"part":"EXT-B",
+		"lv":"6.30"
+	},{
+		"id":672,
+		"title":"Moonlight Walkin'",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":673,
+		"title":"O JIYA",
+		"part":"BSC-D",
+		"lv":"3.30"
+	},{
+		"id":674,
+		"title":"O JIYA",
+		"part":"ADV-D",
+		"lv":"5.00"
+	},{
+		"id":675,
+		"title":"O JIYA",
+		"part":"EXT-D",
+		"lv":"8.15"
+	},{
+		"id":676,
+		"title":"O JIYA",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":677,
+		"title":"O JIYA",
+		"part":"BSC-G",
+		"lv":"3.35"
+	},{
+		"id":678,
+		"title":"O JIYA",
+		"part":"ADV-G",
+		"lv":"4.95"
+	},{
+		"id":679,
+		"title":"O JIYA",
+		"part":"EXT-G",
+		"lv":"7.55"
+	},{
+		"id":680,
+		"title":"O JIYA",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":681,
+		"title":"O JIYA",
+		"part":"BSC-B",
+		"lv":"3.40"
+	},{
+		"id":682,
+		"title":"O JIYA",
+		"part":"ADV-B",
+		"lv":"4.90"
+	},{
+		"id":683,
+		"title":"O JIYA",
+		"part":"EXT-B",
+		"lv":"7.15"
+	},{
+		"id":684,
+		"title":"O JIYA",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":685,
+		"title":"One Phrase Blues",
+		"part":"BSC-D",
+		"lv":"4.30"
+	},{
+		"id":686,
+		"title":"One Phrase Blues",
+		"part":"ADV-D",
+		"lv":"6.00"
+	},{
+		"id":687,
+		"title":"One Phrase Blues",
+		"part":"EXT-D",
+		"lv":"8.10"
+	},{
+		"id":688,
+		"title":"One Phrase Blues",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":689,
+		"title":"One Phrase Blues",
+		"part":"BSC-G",
+		"lv":"4.70"
+	},{
+		"id":690,
+		"title":"One Phrase Blues",
+		"part":"ADV-G",
+		"lv":"5.85"
+	},{
+		"id":691,
+		"title":"One Phrase Blues",
+		"part":"EXT-G",
+		"lv":"8.00"
+	},{
+		"id":692,
+		"title":"One Phrase Blues",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":693,
+		"title":"One Phrase Blues",
+		"part":"BSC-B",
+		"lv":"3.60"
+	},{
+		"id":694,
+		"title":"One Phrase Blues",
+		"part":"ADV-B",
+		"lv":"4.95"
+	},{
+		"id":695,
+		"title":"One Phrase Blues",
+		"part":"EXT-B",
+		"lv":"7.10"
+	},{
+		"id":696,
+		"title":"One Phrase Blues",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":697,
+		"title":"ROCKIN' PARADISE",
+		"part":"BSC-D",
+		"lv":"3.75"
+	},{
+		"id":698,
+		"title":"ROCKIN' PARADISE",
+		"part":"ADV-D",
+		"lv":"5.30"
+	},{
+		"id":699,
+		"title":"ROCKIN' PARADISE",
+		"part":"EXT-D",
+		"lv":"8.05"
+	},{
+		"id":700,
+		"title":"ROCKIN' PARADISE",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":701,
+		"title":"ROCKIN' PARADISE",
+		"part":"BSC-G",
+		"lv":"3.60"
+	},{
+		"id":702,
+		"title":"ROCKIN' PARADISE",
+		"part":"ADV-G",
+		"lv":"5.10"
+	},{
+		"id":703,
+		"title":"ROCKIN' PARADISE",
+		"part":"EXT-G",
+		"lv":"6.95"
+	},{
+		"id":704,
+		"title":"ROCKIN' PARADISE",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":705,
+		"title":"ROCKIN' PARADISE",
+		"part":"BSC-B",
+		"lv":"3.45"
+	},{
+		"id":706,
+		"title":"ROCKIN' PARADISE",
+		"part":"ADV-B",
+		"lv":"5.05"
+	},{
+		"id":707,
+		"title":"ROCKIN' PARADISE",
+		"part":"EXT-B",
+		"lv":"6.60"
+	},{
+		"id":708,
+		"title":"ROCKIN' PARADISE",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":709,
+		"title":"under control",
+		"part":"BSC-D",
+		"lv":"4.75"
+	},{
+		"id":710,
+		"title":"under control",
+		"part":"ADV-D",
+		"lv":"5.85"
+	},{
+		"id":711,
+		"title":"under control",
+		"part":"EXT-D",
+		"lv":"6.80"
+	},{
+		"id":712,
+		"title":"under control",
+		"part":"MAS-D",
+		"lv":"9.10"
+	},{
+		"id":713,
+		"title":"under control",
+		"part":"BSC-G",
+		"lv":"4.45"
+	},{
+		"id":714,
+		"title":"under control",
+		"part":"ADV-G",
+		"lv":"5.75"
+	},{
+		"id":715,
+		"title":"under control",
+		"part":"EXT-G",
+		"lv":"7.60"
+	},{
+		"id":716,
+		"title":"under control",
+		"part":"MAS-G",
+		"lv":"8.50"
+	},{
+		"id":717,
+		"title":"under control",
+		"part":"BSC-B",
+		"lv":"4.70"
+	},{
+		"id":718,
+		"title":"under control",
+		"part":"ADV-B",
+		"lv":"6.40"
+	},{
+		"id":719,
+		"title":"under control",
+		"part":"EXT-B",
+		"lv":"7.55"
+	},{
+		"id":720,
+		"title":"under control",
+		"part":"MAS-B",
+		"lv":"8.45"
+	},{
+		"id":721,
+		"title":"WILD RIDE",
+		"part":"BSC-D",
+		"lv":"3.45"
+	},{
+		"id":722,
+		"title":"WILD RIDE",
+		"part":"ADV-D",
+		"lv":"5.90"
+	},{
+		"id":723,
+		"title":"WILD RIDE",
+		"part":"EXT-D",
+		"lv":"7.20"
+	},{
+		"id":724,
+		"title":"WILD RIDE",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":725,
+		"title":"WILD RIDE",
+		"part":"BSC-G",
+		"lv":"3.40"
+	},{
+		"id":726,
+		"title":"WILD RIDE",
+		"part":"ADV-G",
+		"lv":"4.85"
+	},{
+		"id":727,
+		"title":"WILD RIDE",
+		"part":"EXT-G",
+		"lv":"7.35"
+	},{
+		"id":728,
+		"title":"WILD RIDE",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":729,
+		"title":"WILD RIDE",
+		"part":"BSC-B",
+		"lv":"3.45"
+	},{
+		"id":730,
+		"title":"WILD RIDE",
+		"part":"ADV-B",
+		"lv":"4.45"
+	},{
+		"id":731,
+		"title":"WILD RIDE",
+		"part":"EXT-B",
+		"lv":"6.90"
+	},{
+		"id":732,
+		"title":"WILD RIDE",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":733,
+		"title":"蛹",
+		"part":"BSC-D",
+		"lv":"4.75"
+	},{
+		"id":734,
+		"title":"蛹",
+		"part":"ADV-D",
+		"lv":"6.90"
+	},{
+		"id":735,
+		"title":"蛹",
+		"part":"EXT-D",
+		"lv":"7.95"
+	},{
+		"id":736,
+		"title":"蛹",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":737,
+		"title":"蛹",
+		"part":"BSC-G",
+		"lv":"4.25"
+	},{
+		"id":738,
+		"title":"蛹",
+		"part":"ADV-G",
+		"lv":"5.45"
+	},{
+		"id":739,
+		"title":"蛹",
+		"part":"EXT-G",
+		"lv":"7.65"
+	},{
+		"id":740,
+		"title":"蛹",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":741,
+		"title":"蛹",
+		"part":"BSC-B",
+		"lv":"4.10"
+	},{
+		"id":742,
+		"title":"蛹",
+		"part":"ADV-B",
+		"lv":"4.95"
+	},{
+		"id":743,
+		"title":"蛹",
+		"part":"EXT-B",
+		"lv":"7.50"
+	},{
+		"id":744,
+		"title":"蛹",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":745,
+		"title":"スイマーズ",
+		"part":"BSC-D",
+		"lv":"3.00"
+	},{
+		"id":746,
+		"title":"スイマーズ",
+		"part":"ADV-D",
+		"lv":"4.70"
+	},{
+		"id":747,
+		"title":"スイマーズ",
+		"part":"EXT-D",
+		"lv":"6.80"
+	},{
+		"id":748,
+		"title":"スイマーズ",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":749,
+		"title":"スイマーズ",
+		"part":"BSC-G",
+		"lv":"2.90"
+	},{
+		"id":750,
+		"title":"スイマーズ",
+		"part":"ADV-G",
+		"lv":"4.70"
+	},{
+		"id":751,
+		"title":"スイマーズ",
+		"part":"EXT-G",
+		"lv":"6.50"
+	},{
+		"id":752,
+		"title":"スイマーズ",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":753,
+		"title":"スイマーズ",
+		"part":"BSC-B",
+		"lv":"2.40"
+	},{
+		"id":754,
+		"title":"スイマーズ",
+		"part":"ADV-B",
+		"lv":"3.50"
+	},{
+		"id":755,
+		"title":"スイマーズ",
+		"part":"EXT-B",
+		"lv":"4.60"
+	},{
+		"id":756,
+		"title":"スイマーズ",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":757,
+		"title":"begin",
+		"part":"BSC-D",
+		"lv":"2.45"
+	},{
+		"id":758,
+		"title":"begin",
+		"part":"ADV-D",
+		"lv":"4.60"
+	},{
+		"id":759,
+		"title":"begin",
+		"part":"EXT-D",
+		"lv":"6.95"
+	},{
+		"id":760,
+		"title":"begin",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":761,
+		"title":"begin",
+		"part":"BSC-G",
+		"lv":"3.55"
+	},{
+		"id":762,
+		"title":"begin",
+		"part":"ADV-G",
+		"lv":"4.65"
+	},{
+		"id":763,
+		"title":"begin",
+		"part":"EXT-G",
+		"lv":"6.30"
+	},{
+		"id":764,
+		"title":"begin",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":765,
+		"title":"begin",
+		"part":"BSC-B",
+		"lv":"2.85"
+	},{
+		"id":766,
+		"title":"begin",
+		"part":"ADV-B",
+		"lv":"5.20"
+	},{
+		"id":767,
+		"title":"begin",
+		"part":"EXT-B",
+		"lv":"6.50"
+	},{
+		"id":768,
+		"title":"begin",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":769,
+		"title":"BRE∀K DOWN! (GF&DM STYLE)",
+		"part":"BSC-D",
+		"lv":"2.35"
+	},{
+		"id":770,
+		"title":"BRE∀K DOWN! (GF&DM STYLE)",
+		"part":"ADV-D",
+		"lv":"5.35"
+	},{
+		"id":771,
+		"title":"BRE∀K DOWN! (GF&DM STYLE)",
+		"part":"EXT-D",
+		"lv":"6.30"
+	},{
+		"id":772,
+		"title":"BRE∀K DOWN! (GF&DM STYLE)",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":773,
+		"title":"BRE∀K DOWN! (GF&DM STYLE)",
+		"part":"BSC-G",
+		"lv":"3.70"
+	},{
+		"id":774,
+		"title":"BRE∀K DOWN! (GF&DM STYLE)",
+		"part":"ADV-G",
+		"lv":"5.20"
+	},{
+		"id":775,
+		"title":"BRE∀K DOWN! (GF&DM STYLE)",
+		"part":"EXT-G",
+		"lv":"6.05"
+	},{
+		"id":776,
+		"title":"BRE∀K DOWN! (GF&DM STYLE)",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":777,
+		"title":"BRE∀K DOWN! (GF&DM STYLE)",
+		"part":"BSC-B",
+		"lv":"3.60"
+	},{
+		"id":778,
+		"title":"BRE∀K DOWN! (GF&DM STYLE)",
+		"part":"ADV-B",
+		"lv":"4.55"
+	},{
+		"id":779,
+		"title":"BRE∀K DOWN! (GF&DM STYLE)",
+		"part":"EXT-B",
+		"lv":"5.30"
+	},{
+		"id":780,
+		"title":"BRE∀K DOWN! (GF&DM STYLE)",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":781,
+		"title":"cachaca",
+		"part":"BSC-D",
+		"lv":"4.15"
+	},{
+		"id":782,
+		"title":"cachaca",
+		"part":"ADV-D",
+		"lv":"5.15"
+	},{
+		"id":783,
+		"title":"cachaca",
+		"part":"EXT-D",
+		"lv":"6.20"
+	},{
+		"id":784,
+		"title":"cachaca",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":785,
+		"title":"cachaca",
+		"part":"BSC-G",
+		"lv":"3.60"
+	},{
+		"id":786,
+		"title":"cachaca",
+		"part":"ADV-G",
+		"lv":"4.50"
+	},{
+		"id":787,
+		"title":"cachaca",
+		"part":"EXT-G",
+		"lv":"6.10"
+	},{
+		"id":788,
+		"title":"cachaca",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":789,
+		"title":"cachaca",
+		"part":"BSC-B",
+		"lv":"3.60"
+	},{
+		"id":790,
+		"title":"cachaca",
+		"part":"ADV-B",
+		"lv":"4.15"
+	},{
+		"id":791,
+		"title":"cachaca",
+		"part":"EXT-B",
+		"lv":"5.00"
+	},{
+		"id":792,
+		"title":"cachaca",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":793,
+		"title":"CHOCOLATE PHILOSOPHY",
+		"part":"BSC-D",
+		"lv":"3.70"
+	},{
+		"id":794,
+		"title":"CHOCOLATE PHILOSOPHY",
+		"part":"ADV-D",
+		"lv":"4.95"
+	},{
+		"id":795,
+		"title":"CHOCOLATE PHILOSOPHY",
+		"part":"EXT-D",
+		"lv":"6.60"
+	},{
+		"id":796,
+		"title":"CHOCOLATE PHILOSOPHY",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":797,
+		"title":"CHOCOLATE PHILOSOPHY",
+		"part":"BSC-G",
+		"lv":"3.50"
+	},{
+		"id":798,
+		"title":"CHOCOLATE PHILOSOPHY",
+		"part":"ADV-G",
+		"lv":"5.30"
+	},{
+		"id":799,
+		"title":"CHOCOLATE PHILOSOPHY",
+		"part":"EXT-G",
+		"lv":"6.85"
+	},{
+		"id":800,
+		"title":"CHOCOLATE PHILOSOPHY",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":801,
+		"title":"CHOCOLATE PHILOSOPHY",
+		"part":"BSC-B",
+		"lv":"3.35"
+	},{
+		"id":802,
+		"title":"CHOCOLATE PHILOSOPHY",
+		"part":"ADV-B",
+		"lv":"4.70"
+	},{
+		"id":803,
+		"title":"CHOCOLATE PHILOSOPHY",
+		"part":"EXT-B",
+		"lv":"5.65"
+	},{
+		"id":804,
+		"title":"CHOCOLATE PHILOSOPHY",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":805,
+		"title":"HEAVEN INSIDE",
+		"part":"BSC-D",
+		"lv":"3.40"
+	},{
+		"id":806,
+		"title":"HEAVEN INSIDE",
+		"part":"ADV-D",
+		"lv":"5.30"
+	},{
+		"id":807,
+		"title":"HEAVEN INSIDE",
+		"part":"EXT-D",
+		"lv":"6.60"
+	},{
+		"id":808,
+		"title":"HEAVEN INSIDE",
+		"part":"MAS-D",
+		"lv":"7.70"
+	},{
+		"id":809,
+		"title":"HEAVEN INSIDE",
+		"part":"BSC-G",
+		"lv":"3.30"
+	},{
+		"id":810,
+		"title":"HEAVEN INSIDE",
+		"part":"ADV-G",
+		"lv":"5.30"
+	},{
+		"id":811,
+		"title":"HEAVEN INSIDE",
+		"part":"EXT-G",
+		"lv":"6.60"
+	},{
+		"id":812,
+		"title":"HEAVEN INSIDE",
+		"part":"MAS-G",
+		"lv":"7.90"
+	},{
+		"id":813,
+		"title":"HEAVEN INSIDE",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":814,
+		"title":"HEAVEN INSIDE",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":815,
+		"title":"HEAVEN INSIDE",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":816,
+		"title":"HEAVEN INSIDE",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":817,
+		"title":"Homesick Pt.2&3",
+		"part":"BSC-D",
+		"lv":"2.70"
+	},{
+		"id":818,
+		"title":"Homesick Pt.2&3",
+		"part":"ADV-D",
+		"lv":"5.60"
+	},{
+		"id":819,
+		"title":"Homesick Pt.2&3",
+		"part":"EXT-D",
+		"lv":"7.05"
+	},{
+		"id":820,
+		"title":"Homesick Pt.2&3",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":821,
+		"title":"Homesick Pt.2&3",
+		"part":"BSC-G",
+		"lv":"2.45"
+	},{
+		"id":822,
+		"title":"Homesick Pt.2&3",
+		"part":"ADV-G",
+		"lv":"4.25"
+	},{
+		"id":823,
+		"title":"Homesick Pt.2&3",
+		"part":"EXT-G",
+		"lv":"5.45"
+	},{
+		"id":824,
+		"title":"Homesick Pt.2&3",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":825,
+		"title":"Homesick Pt.2&3",
+		"part":"BSC-B",
+		"lv":"2.25"
+	},{
+		"id":826,
+		"title":"Homesick Pt.2&3",
+		"part":"ADV-B",
+		"lv":"4.55"
+	},{
+		"id":827,
+		"title":"Homesick Pt.2&3",
+		"part":"EXT-B",
+		"lv":"5.55"
+	},{
+		"id":828,
+		"title":"Homesick Pt.2&3",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":829,
+		"title":"Infinite",
+		"part":"BSC-D",
+		"lv":"4.60"
+	},{
+		"id":830,
+		"title":"Infinite",
+		"part":"ADV-D",
+		"lv":"5.30"
+	},{
+		"id":831,
+		"title":"Infinite",
+		"part":"EXT-D",
+		"lv":"6.70"
+	},{
+		"id":832,
+		"title":"Infinite",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":833,
+		"title":"Infinite",
+		"part":"BSC-G",
+		"lv":"3.55"
+	},{
+		"id":834,
+		"title":"Infinite",
+		"part":"ADV-G",
+		"lv":"4.25"
+	},{
+		"id":835,
+		"title":"Infinite",
+		"part":"EXT-G",
+		"lv":"5.25"
+	},{
+		"id":836,
+		"title":"Infinite",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":837,
+		"title":"Infinite",
+		"part":"BSC-B",
+		"lv":"2.65"
+	},{
+		"id":838,
+		"title":"Infinite",
+		"part":"ADV-B",
+		"lv":"3.75"
+	},{
+		"id":839,
+		"title":"Infinite",
+		"part":"EXT-B",
+		"lv":"4.70"
+	},{
+		"id":840,
+		"title":"Infinite",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":841,
+		"title":"KISS ME GOODBYE!",
+		"part":"BSC-D",
+		"lv":"3.75"
+	},{
+		"id":842,
+		"title":"KISS ME GOODBYE!",
+		"part":"ADV-D",
+		"lv":"5.50"
+	},{
+		"id":843,
+		"title":"KISS ME GOODBYE!",
+		"part":"EXT-D",
+		"lv":"7.85"
+	},{
+		"id":844,
+		"title":"KISS ME GOODBYE!",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":845,
+		"title":"KISS ME GOODBYE!",
+		"part":"BSC-G",
+		"lv":"3.00"
+	},{
+		"id":846,
+		"title":"KISS ME GOODBYE!",
+		"part":"ADV-G",
+		"lv":"4.10"
+	},{
+		"id":847,
+		"title":"KISS ME GOODBYE!",
+		"part":"EXT-G",
+		"lv":"4.85"
+	},{
+		"id":848,
+		"title":"KISS ME GOODBYE!",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":849,
+		"title":"KISS ME GOODBYE!",
+		"part":"BSC-B",
+		"lv":"3.35"
+	},{
+		"id":850,
+		"title":"KISS ME GOODBYE!",
+		"part":"ADV-B",
+		"lv":"4.15"
+	},{
+		"id":851,
+		"title":"KISS ME GOODBYE!",
+		"part":"EXT-B",
+		"lv":"5.15"
+	},{
+		"id":852,
+		"title":"KISS ME GOODBYE!",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":853,
+		"title":"MODEL DD3",
+		"part":"BSC-D",
+		"lv":"5.05"
+	},{
+		"id":854,
+		"title":"MODEL DD3",
+		"part":"ADV-D",
+		"lv":"7.70"
+	},{
+		"id":855,
+		"title":"MODEL DD3",
+		"part":"EXT-D",
+		"lv":"8.45"
+	},{
+		"id":856,
+		"title":"MODEL DD3",
+		"part":"MAS-D",
+		"lv":"9.40"
+	},{
+		"id":857,
+		"title":"MODEL DD3",
+		"part":"BSC-G",
+		"lv":"3.75"
+	},{
+		"id":858,
+		"title":"MODEL DD3",
+		"part":"ADV-G",
+		"lv":"5.05"
+	},{
+		"id":859,
+		"title":"MODEL DD3",
+		"part":"EXT-G",
+		"lv":"7.55"
+	},{
+		"id":860,
+		"title":"MODEL DD3",
+		"part":"MAS-G",
+		"lv":"8.30"
+	},{
+		"id":861,
+		"title":"MODEL DD3",
+		"part":"BSC-B",
+		"lv":"3.50"
+	},{
+		"id":862,
+		"title":"MODEL DD3",
+		"part":"ADV-B",
+		"lv":"4.95"
+	},{
+		"id":863,
+		"title":"MODEL DD3",
+		"part":"EXT-B",
+		"lv":"7.70"
+	},{
+		"id":864,
+		"title":"MODEL DD3",
+		"part":"MAS-B",
+		"lv":"8.95"
+	},{
+		"id":877,
+		"title":"Sweet Illusion",
+		"part":"BSC-D",
+		"lv":"2.40"
+	},{
+		"id":878,
+		"title":"Sweet Illusion",
+		"part":"ADV-D",
+		"lv":"4.40"
+	},{
+		"id":879,
+		"title":"Sweet Illusion",
+		"part":"EXT-D",
+		"lv":"6.30"
+	},{
+		"id":880,
+		"title":"Sweet Illusion",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":881,
+		"title":"Sweet Illusion",
+		"part":"BSC-G",
+		"lv":"3.60"
+	},{
+		"id":882,
+		"title":"Sweet Illusion",
+		"part":"ADV-G",
+		"lv":"5.20"
+	},{
+		"id":883,
+		"title":"Sweet Illusion",
+		"part":"EXT-G",
+		"lv":"7.20"
+	},{
+		"id":884,
+		"title":"Sweet Illusion",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":885,
+		"title":"Sweet Illusion",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":886,
+		"title":"Sweet Illusion",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":887,
+		"title":"Sweet Illusion",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":888,
+		"title":"Sweet Illusion",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":889,
+		"title":"THE OCEAN AND YOU",
+		"part":"BSC-D",
+		"lv":"2.80"
+	},{
+		"id":890,
+		"title":"THE OCEAN AND YOU",
+		"part":"ADV-D",
+		"lv":"4.00"
+	},{
+		"id":891,
+		"title":"THE OCEAN AND YOU",
+		"part":"EXT-D",
+		"lv":"5.05"
+	},{
+		"id":892,
+		"title":"THE OCEAN AND YOU",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":893,
+		"title":"THE OCEAN AND YOU",
+		"part":"BSC-G",
+		"lv":"3.60"
+	},{
+		"id":894,
+		"title":"THE OCEAN AND YOU",
+		"part":"ADV-G",
+		"lv":"4.30"
+	},{
+		"id":895,
+		"title":"THE OCEAN AND YOU",
+		"part":"EXT-G",
+		"lv":"5.40"
+	},{
+		"id":896,
+		"title":"THE OCEAN AND YOU",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":897,
+		"title":"THE OCEAN AND YOU",
+		"part":"BSC-B",
+		"lv":"3.45"
+	},{
+		"id":898,
+		"title":"THE OCEAN AND YOU",
+		"part":"ADV-B",
+		"lv":"4.75"
+	},{
+		"id":899,
+		"title":"THE OCEAN AND YOU",
+		"part":"EXT-B",
+		"lv":"7.55"
+	},{
+		"id":900,
+		"title":"THE OCEAN AND YOU",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":901,
+		"title":"To the IST",
+		"part":"BSC-D",
+		"lv":"3.15"
+	},{
+		"id":902,
+		"title":"To the IST",
+		"part":"ADV-D",
+		"lv":"4.70"
+	},{
+		"id":903,
+		"title":"To the IST",
+		"part":"EXT-D",
+		"lv":"5.45"
+	},{
+		"id":904,
+		"title":"To the IST",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":905,
+		"title":"To the IST",
+		"part":"BSC-G",
+		"lv":"2.60"
+	},{
+		"id":906,
+		"title":"To the IST",
+		"part":"ADV-G",
+		"lv":"3.90"
+	},{
+		"id":907,
+		"title":"To the IST",
+		"part":"EXT-G",
+		"lv":"5.45"
+	},{
+		"id":908,
+		"title":"To the IST",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":909,
+		"title":"To the IST",
+		"part":"BSC-B",
+		"lv":"1.90"
+	},{
+		"id":910,
+		"title":"To the IST",
+		"part":"ADV-B",
+		"lv":"3.45"
+	},{
+		"id":911,
+		"title":"To the IST",
+		"part":"EXT-B",
+		"lv":"4.45"
+	},{
+		"id":912,
+		"title":"To the IST",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":913,
+		"title":"too late two",
+		"part":"BSC-D",
+		"lv":"3.25"
+	},{
+		"id":914,
+		"title":"too late two",
+		"part":"ADV-D",
+		"lv":"5.15"
+	},{
+		"id":915,
+		"title":"too late two",
+		"part":"EXT-D",
+		"lv":"6.65"
+	},{
+		"id":916,
+		"title":"too late two",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":917,
+		"title":"too late two",
+		"part":"BSC-G",
+		"lv":"3.25"
+	},{
+		"id":918,
+		"title":"too late two",
+		"part":"ADV-G",
+		"lv":"5.45"
+	},{
+		"id":919,
+		"title":"too late two",
+		"part":"EXT-G",
+		"lv":"6.70"
+	},{
+		"id":920,
+		"title":"too late two",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":921,
+		"title":"too late two",
+		"part":"BSC-B",
+		"lv":"3.85"
+	},{
+		"id":922,
+		"title":"too late two",
+		"part":"ADV-B",
+		"lv":"4.90"
+	},{
+		"id":923,
+		"title":"too late two",
+		"part":"EXT-B",
+		"lv":"6.20"
+	},{
+		"id":924,
+		"title":"too late two",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":925,
+		"title":"スタアの恋人",
+		"part":"BSC-D",
+		"lv":"2.90"
+	},{
+		"id":926,
+		"title":"スタアの恋人",
+		"part":"ADV-D",
+		"lv":"5.10"
+	},{
+		"id":927,
+		"title":"スタアの恋人",
+		"part":"EXT-D",
+		"lv":"6.65"
+	},{
+		"id":928,
+		"title":"スタアの恋人",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":929,
+		"title":"スタアの恋人",
+		"part":"BSC-G",
+		"lv":"3.25"
+	},{
+		"id":930,
+		"title":"スタアの恋人",
+		"part":"ADV-G",
+		"lv":"5.45"
+	},{
+		"id":931,
+		"title":"スタアの恋人",
+		"part":"EXT-G",
+		"lv":"7.15"
+	},{
+		"id":932,
+		"title":"スタアの恋人",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":933,
+		"title":"スタアの恋人",
+		"part":"BSC-B",
+		"lv":"3.30"
+	},{
+		"id":934,
+		"title":"スタアの恋人",
+		"part":"ADV-B",
+		"lv":"5.30"
+	},{
+		"id":935,
+		"title":"スタアの恋人",
+		"part":"EXT-B",
+		"lv":"6.80"
+	},{
+		"id":936,
+		"title":"スタアの恋人",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":937,
+		"title":"そっと。",
+		"part":"BSC-D",
+		"lv":"3.55"
+	},{
+		"id":938,
+		"title":"そっと。",
+		"part":"ADV-D",
+		"lv":"4.80"
+	},{
+		"id":939,
+		"title":"そっと。",
+		"part":"EXT-D",
+		"lv":"6.85"
+	},{
+		"id":940,
+		"title":"そっと。",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":941,
+		"title":"そっと。",
+		"part":"BSC-G",
+		"lv":"3.70"
+	},{
+		"id":942,
+		"title":"そっと。",
+		"part":"ADV-G",
+		"lv":"4.75"
+	},{
+		"id":943,
+		"title":"そっと。",
+		"part":"EXT-G",
+		"lv":"8.05"
+	},{
+		"id":944,
+		"title":"そっと。",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":945,
+		"title":"そっと。",
+		"part":"BSC-B",
+		"lv":"3.75"
+	},{
+		"id":946,
+		"title":"そっと。",
+		"part":"ADV-B",
+		"lv":"4.85"
+	},{
+		"id":947,
+		"title":"そっと。",
+		"part":"EXT-B",
+		"lv":"6.95"
+	},{
+		"id":948,
+		"title":"そっと。",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":949,
+		"title":"たまゆら",
+		"part":"BSC-D",
+		"lv":"4.65"
+	},{
+		"id":950,
+		"title":"たまゆら",
+		"part":"ADV-D",
+		"lv":"6.10"
+	},{
+		"id":951,
+		"title":"たまゆら",
+		"part":"EXT-D",
+		"lv":"8.20"
+	},{
+		"id":952,
+		"title":"たまゆら",
+		"part":"MAS-D",
+		"lv":"8.50"
+	},{
+		"id":953,
+		"title":"たまゆら",
+		"part":"BSC-G",
+		"lv":"5.00"
+	},{
+		"id":954,
+		"title":"たまゆら",
+		"part":"ADV-G",
+		"lv":"6.40"
+	},{
+		"id":955,
+		"title":"たまゆら",
+		"part":"EXT-G",
+		"lv":"7.50"
+	},{
+		"id":956,
+		"title":"たまゆら",
+		"part":"MAS-G",
+		"lv":"8.60"
+	},{
+		"id":957,
+		"title":"たまゆら",
+		"part":"BSC-B",
+		"lv":"4.60"
+	},{
+		"id":958,
+		"title":"たまゆら",
+		"part":"ADV-B",
+		"lv":"5.30"
+	},{
+		"id":959,
+		"title":"たまゆら",
+		"part":"EXT-B",
+		"lv":"6.95"
+	},{
+		"id":960,
+		"title":"たまゆら",
+		"part":"MAS-B",
+		"lv":"8.20"
+	},{
+		"id":961,
+		"title":"ツミナガラ... と彼女は謂ふ",
+		"part":"BSC-D",
+		"lv":"5.25"
+	},{
+		"id":962,
+		"title":"ツミナガラ... と彼女は謂ふ",
+		"part":"ADV-D",
+		"lv":"6.35"
+	},{
+		"id":963,
+		"title":"ツミナガラ... と彼女は謂ふ",
+		"part":"EXT-D",
+		"lv":"7.35"
+	},{
+		"id":964,
+		"title":"ツミナガラ... と彼女は謂ふ",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":965,
+		"title":"ツミナガラ... と彼女は謂ふ",
+		"part":"BSC-G",
+		"lv":"5.50"
+	},{
+		"id":966,
+		"title":"ツミナガラ... と彼女は謂ふ",
+		"part":"ADV-G",
+		"lv":"6.60"
+	},{
+		"id":967,
+		"title":"ツミナガラ... と彼女は謂ふ",
+		"part":"EXT-G",
+		"lv":"7.45"
+	},{
+		"id":968,
+		"title":"ツミナガラ... と彼女は謂ふ",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":969,
+		"title":"ツミナガラ... と彼女は謂ふ",
+		"part":"BSC-B",
+		"lv":"4.60"
+	},{
+		"id":970,
+		"title":"ツミナガラ... と彼女は謂ふ",
+		"part":"ADV-B",
+		"lv":"5.65"
+	},{
+		"id":971,
+		"title":"ツミナガラ... と彼女は謂ふ",
+		"part":"EXT-B",
+		"lv":"6.30"
+	},{
+		"id":972,
+		"title":"ツミナガラ... と彼女は謂ふ",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":973,
+		"title":"人にやさしく",
+		"part":"BSC-D",
+		"lv":"1.50"
+	},{
+		"id":974,
+		"title":"人にやさしく",
+		"part":"ADV-D",
+		"lv":"4.00"
+	},{
+		"id":975,
+		"title":"人にやさしく",
+		"part":"EXT-D",
+		"lv":"6.05"
+	},{
+		"id":976,
+		"title":"人にやさしく",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":977,
+		"title":"人にやさしく",
+		"part":"BSC-G",
+		"lv":"1.50"
+	},{
+		"id":978,
+		"title":"人にやさしく",
+		"part":"ADV-G",
+		"lv":"2.95"
+	},{
+		"id":979,
+		"title":"人にやさしく",
+		"part":"EXT-G",
+		"lv":"5.00"
+	},{
+		"id":980,
+		"title":"人にやさしく",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":981,
+		"title":"人にやさしく",
+		"part":"BSC-B",
+		"lv":"2.30"
+	},{
+		"id":982,
+		"title":"人にやさしく",
+		"part":"ADV-B",
+		"lv":"2.95"
+	},{
+		"id":983,
+		"title":"人にやさしく",
+		"part":"EXT-B",
+		"lv":"4.50"
+	},{
+		"id":984,
+		"title":"人にやさしく",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":985,
+		"title":"三毛猫ロック",
+		"part":"BSC-D",
+		"lv":"4.45"
+	},{
+		"id":986,
+		"title":"三毛猫ロック",
+		"part":"ADV-D",
+		"lv":"6.35"
+	},{
+		"id":987,
+		"title":"三毛猫ロック",
+		"part":"EXT-D",
+		"lv":"6.80"
+	},{
+		"id":988,
+		"title":"三毛猫ロック",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":989,
+		"title":"三毛猫ロック",
+		"part":"BSC-G",
+		"lv":"4.05"
+	},{
+		"id":990,
+		"title":"三毛猫ロック",
+		"part":"ADV-G",
+		"lv":"5.30"
+	},{
+		"id":991,
+		"title":"三毛猫ロック",
+		"part":"EXT-G",
+		"lv":"6.70"
+	},{
+		"id":992,
+		"title":"三毛猫ロック",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":993,
+		"title":"三毛猫ロック",
+		"part":"BSC-B",
+		"lv":"4.80"
+	},{
+		"id":994,
+		"title":"三毛猫ロック",
+		"part":"ADV-B",
+		"lv":"5.30"
+	},{
+		"id":995,
+		"title":"三毛猫ロック",
+		"part":"EXT-B",
+		"lv":"6.20"
+	},{
+		"id":996,
+		"title":"三毛猫ロック",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":997,
+		"title":"美丽的家乡",
+		"part":"BSC-D",
+		"lv":"3.05"
+	},{
+		"id":998,
+		"title":"美丽的家乡",
+		"part":"ADV-D",
+		"lv":"5.35"
+	},{
+		"id":999,
+		"title":"美丽的家乡",
+		"part":"EXT-D",
+		"lv":"6.40"
+	},{
+		"id":1000,
+		"title":"美丽的家乡",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1001,
+		"title":"美丽的家乡",
+		"part":"BSC-G",
+		"lv":"2.45"
+	},{
+		"id":1002,
+		"title":"美丽的家乡",
+		"part":"ADV-G",
+		"lv":"4.35"
+	},{
+		"id":1003,
+		"title":"美丽的家乡",
+		"part":"EXT-G",
+		"lv":"6.15"
+	},{
+		"id":1004,
+		"title":"美丽的家乡",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1005,
+		"title":"美丽的家乡",
+		"part":"BSC-B",
+		"lv":"2.40"
+	},{
+		"id":1006,
+		"title":"美丽的家乡",
+		"part":"ADV-B",
+		"lv":"4.45"
+	},{
+		"id":1007,
+		"title":"美丽的家乡",
+		"part":"EXT-B",
+		"lv":"5.40"
+	},{
+		"id":1008,
+		"title":"美丽的家乡",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1009,
+		"title":"ロマンス",
+		"part":"BSC-D",
+		"lv":"1.30"
+	},{
+		"id":1010,
+		"title":"ロマンス",
+		"part":"ADV-D",
+		"lv":"4.80"
+	},{
+		"id":1011,
+		"title":"ロマンス",
+		"part":"EXT-D",
+		"lv":"5.70"
+	},{
+		"id":1012,
+		"title":"ロマンス",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1013,
+		"title":"ロマンス",
+		"part":"BSC-G",
+		"lv":"1.50"
+	},{
+		"id":1014,
+		"title":"ロマンス",
+		"part":"ADV-G",
+		"lv":"4.55"
+	},{
+		"id":1015,
+		"title":"ロマンス",
+		"part":"EXT-G",
+		"lv":"6.75"
+	},{
+		"id":1016,
+		"title":"ロマンス",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1017,
+		"title":"ロマンス",
+		"part":"BSC-B",
+		"lv":"2.50"
+	},{
+		"id":1018,
+		"title":"ロマンス",
+		"part":"ADV-B",
+		"lv":"4.10"
+	},{
+		"id":1019,
+		"title":"ロマンス",
+		"part":"EXT-B",
+		"lv":"5.85"
+	},{
+		"id":1020,
+		"title":"ロマンス",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1021,
+		"title":"777",
+		"part":"BSC-D",
+		"lv":"3.65"
+	},{
+		"id":1022,
+		"title":"777",
+		"part":"ADV-D",
+		"lv":"5.45"
+	},{
+		"id":1023,
+		"title":"777",
+		"part":"EXT-D",
+		"lv":"7.35"
+	},{
+		"id":1024,
+		"title":"777",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1025,
+		"title":"777",
+		"part":"BSC-G",
+		"lv":"3.50"
+	},{
+		"id":1026,
+		"title":"777",
+		"part":"ADV-G",
+		"lv":"5.10"
+	},{
+		"id":1027,
+		"title":"777",
+		"part":"EXT-G",
+		"lv":"7.60"
+	},{
+		"id":1028,
+		"title":"777",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1029,
+		"title":"777",
+		"part":"BSC-B",
+		"lv":"3.15"
+	},{
+		"id":1030,
+		"title":"777",
+		"part":"ADV-B",
+		"lv":"5.10"
+	},{
+		"id":1031,
+		"title":"777",
+		"part":"EXT-B",
+		"lv":"7.00"
+	},{
+		"id":1032,
+		"title":"777",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1033,
+		"title":"Black horizon",
+		"part":"BSC-D",
+		"lv":"4.50"
+	},{
+		"id":1034,
+		"title":"Black horizon",
+		"part":"ADV-D",
+		"lv":"6.05"
+	},{
+		"id":1035,
+		"title":"Black horizon",
+		"part":"EXT-D",
+		"lv":"7.15"
+	},{
+		"id":1036,
+		"title":"Black horizon",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1037,
+		"title":"Black horizon",
+		"part":"BSC-G",
+		"lv":"4.85"
+	},{
+		"id":1038,
+		"title":"Black horizon",
+		"part":"ADV-G",
+		"lv":"6.85"
+	},{
+		"id":1039,
+		"title":"Black horizon",
+		"part":"EXT-G",
+		"lv":"8.50"
+	},{
+		"id":1040,
+		"title":"Black horizon",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1041,
+		"title":"Black horizon",
+		"part":"BSC-B",
+		"lv":"4.50"
+	},{
+		"id":1042,
+		"title":"Black horizon",
+		"part":"ADV-B",
+		"lv":"6.75"
+	},{
+		"id":1043,
+		"title":"Black horizon",
+		"part":"EXT-B",
+		"lv":"8.25"
+	},{
+		"id":1044,
+		"title":"Black horizon",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1045,
+		"title":"DIAMONDS",
+		"part":"BSC-D",
+		"lv":"1.40"
+	},{
+		"id":1046,
+		"title":"DIAMONDS",
+		"part":"ADV-D",
+		"lv":"4.25"
+	},{
+		"id":1047,
+		"title":"DIAMONDS",
+		"part":"EXT-D",
+		"lv":"5.05"
+	},{
+		"id":1048,
+		"title":"DIAMONDS",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1049,
+		"title":"DIAMONDS",
+		"part":"BSC-G",
+		"lv":"1.30"
+	},{
+		"id":1050,
+		"title":"DIAMONDS",
+		"part":"ADV-G",
+		"lv":"3.15"
+	},{
+		"id":1051,
+		"title":"DIAMONDS",
+		"part":"EXT-G",
+		"lv":"5.30"
+	},{
+		"id":1052,
+		"title":"DIAMONDS",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1053,
+		"title":"DIAMONDS",
+		"part":"BSC-B",
+		"lv":"2.55"
+	},{
+		"id":1054,
+		"title":"DIAMONDS",
+		"part":"ADV-B",
+		"lv":"3.25"
+	},{
+		"id":1055,
+		"title":"DIAMONDS",
+		"part":"EXT-B",
+		"lv":"5.10"
+	},{
+		"id":1056,
+		"title":"DIAMONDS",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1057,
+		"title":"I'm a loser",
+		"part":"BSC-D",
+		"lv":"2.90"
+	},{
+		"id":1058,
+		"title":"I'm a loser",
+		"part":"ADV-D",
+		"lv":"4.65"
+	},{
+		"id":1059,
+		"title":"I'm a loser",
+		"part":"EXT-D",
+		"lv":"6.70"
+	},{
+		"id":1060,
+		"title":"I'm a loser",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1061,
+		"title":"I'm a loser",
+		"part":"BSC-G",
+		"lv":"3.20"
+	},{
+		"id":1062,
+		"title":"I'm a loser",
+		"part":"ADV-G",
+		"lv":"4.20"
+	},{
+		"id":1063,
+		"title":"I'm a loser",
+		"part":"EXT-G",
+		"lv":"7.25"
+	},{
+		"id":1064,
+		"title":"I'm a loser",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1065,
+		"title":"I'm a loser",
+		"part":"BSC-B",
+		"lv":"3.55"
+	},{
+		"id":1066,
+		"title":"I'm a loser",
+		"part":"ADV-B",
+		"lv":"4.35"
+	},{
+		"id":1067,
+		"title":"I'm a loser",
+		"part":"EXT-B",
+		"lv":"6.20"
+	},{
+		"id":1068,
+		"title":"I'm a loser",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1069,
+		"title":"MAD BLAST",
+		"part":"BSC-D",
+		"lv":"5.10"
+	},{
+		"id":1070,
+		"title":"MAD BLAST",
+		"part":"ADV-D",
+		"lv":"6.40"
+	},{
+		"id":1071,
+		"title":"MAD BLAST",
+		"part":"EXT-D",
+		"lv":"7.50"
+	},{
+		"id":1072,
+		"title":"MAD BLAST",
+		"part":"MAS-D",
+		"lv":"8.25"
+	},{
+		"id":1073,
+		"title":"MAD BLAST",
+		"part":"BSC-G",
+		"lv":"4.95"
+	},{
+		"id":1074,
+		"title":"MAD BLAST",
+		"part":"ADV-G",
+		"lv":"7.00"
+	},{
+		"id":1075,
+		"title":"MAD BLAST",
+		"part":"EXT-G",
+		"lv":"7.40"
+	},{
+		"id":1076,
+		"title":"MAD BLAST",
+		"part":"MAS-G",
+		"lv":"9.25"
+	},{
+		"id":1077,
+		"title":"MAD BLAST",
+		"part":"BSC-B",
+		"lv":"4.90"
+	},{
+		"id":1078,
+		"title":"MAD BLAST",
+		"part":"ADV-B",
+		"lv":"6.75"
+	},{
+		"id":1079,
+		"title":"MAD BLAST",
+		"part":"EXT-B",
+		"lv":"7.65"
+	},{
+		"id":1080,
+		"title":"MAD BLAST",
+		"part":"MAS-B",
+		"lv":"8.40"
+	},{
+		"id":1081,
+		"title":"MODEL DD4",
+		"part":"BSC-D",
+		"lv":"4.95"
+	},{
+		"id":1082,
+		"title":"MODEL DD4",
+		"part":"ADV-D",
+		"lv":"5.85"
+	},{
+		"id":1083,
+		"title":"MODEL DD4",
+		"part":"EXT-D",
+		"lv":"8.20"
+	},{
+		"id":1084,
+		"title":"MODEL DD4",
+		"part":"MAS-D",
+		"lv":"9.30"
+	},{
+		"id":1085,
+		"title":"MODEL DD4",
+		"part":"BSC-G",
+		"lv":"6.00"
+	},{
+		"id":1086,
+		"title":"MODEL DD4",
+		"part":"ADV-G",
+		"lv":"6.90"
+	},{
+		"id":1087,
+		"title":"MODEL DD4",
+		"part":"EXT-G",
+		"lv":"8.55"
+	},{
+		"id":1088,
+		"title":"MODEL DD4",
+		"part":"MAS-G",
+		"lv":"9.65"
+	},{
+		"id":1089,
+		"title":"MODEL DD4",
+		"part":"BSC-B",
+		"lv":"5.85"
+	},{
+		"id":1090,
+		"title":"MODEL DD4",
+		"part":"ADV-B",
+		"lv":"7.05"
+	},{
+		"id":1091,
+		"title":"MODEL DD4",
+		"part":"EXT-B",
+		"lv":"8.15"
+	},{
+		"id":1092,
+		"title":"MODEL DD4",
+		"part":"MAS-B",
+		"lv":"9.30"
+	},{
+		"id":1093,
+		"title":"TIERRA BUENA",
+		"part":"BSC-D",
+		"lv":"3.25"
+	},{
+		"id":1094,
+		"title":"TIERRA BUENA",
+		"part":"ADV-D",
+		"lv":"5.80"
+	},{
+		"id":1095,
+		"title":"TIERRA BUENA",
+		"part":"EXT-D",
+		"lv":"7.35"
+	},{
+		"id":1096,
+		"title":"TIERRA BUENA",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1097,
+		"title":"TIERRA BUENA",
+		"part":"BSC-G",
+		"lv":"2.85"
+	},{
+		"id":1098,
+		"title":"TIERRA BUENA",
+		"part":"ADV-G",
+		"lv":"5.70"
+	},{
+		"id":1099,
+		"title":"TIERRA BUENA",
+		"part":"EXT-G",
+		"lv":"7.75"
+	},{
+		"id":1100,
+		"title":"TIERRA BUENA",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1101,
+		"title":"TIERRA BUENA",
+		"part":"BSC-B",
+		"lv":"2.60"
+	},{
+		"id":1102,
+		"title":"TIERRA BUENA",
+		"part":"ADV-B",
+		"lv":"5.45"
+	},{
+		"id":1103,
+		"title":"TIERRA BUENA",
+		"part":"EXT-B",
+		"lv":"6.20"
+	},{
+		"id":1104,
+		"title":"TIERRA BUENA",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1105,
+		"title":"Twinkle Star",
+		"part":"BSC-D",
+		"lv":"2.80"
+	},{
+		"id":1106,
+		"title":"Twinkle Star",
+		"part":"ADV-D",
+		"lv":"5.00"
+	},{
+		"id":1107,
+		"title":"Twinkle Star",
+		"part":"EXT-D",
+		"lv":"7.70"
+	},{
+		"id":1108,
+		"title":"Twinkle Star",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1109,
+		"title":"Twinkle Star",
+		"part":"BSC-G",
+		"lv":"3.60"
+	},{
+		"id":1110,
+		"title":"Twinkle Star",
+		"part":"ADV-G",
+		"lv":"5.00"
+	},{
+		"id":1111,
+		"title":"Twinkle Star",
+		"part":"EXT-G",
+		"lv":"7.50"
+	},{
+		"id":1112,
+		"title":"Twinkle Star",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1113,
+		"title":"Twinkle Star",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":1114,
+		"title":"Twinkle Star",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":1115,
+		"title":"Twinkle Star",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":1116,
+		"title":"Twinkle Star",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1117,
+		"title":"Utopia",
+		"part":"BSC-D",
+		"lv":"3.35"
+	},{
+		"id":1118,
+		"title":"Utopia",
+		"part":"ADV-D",
+		"lv":"5.10"
+	},{
+		"id":1119,
+		"title":"Utopia",
+		"part":"EXT-D",
+		"lv":"7.40"
+	},{
+		"id":1120,
+		"title":"Utopia",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1121,
+		"title":"Utopia",
+		"part":"BSC-G",
+		"lv":"2.70"
+	},{
+		"id":1122,
+		"title":"Utopia",
+		"part":"ADV-G",
+		"lv":"4.60"
+	},{
+		"id":1123,
+		"title":"Utopia",
+		"part":"EXT-G",
+		"lv":"5.70"
+	},{
+		"id":1124,
+		"title":"Utopia",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1125,
+		"title":"Utopia",
+		"part":"BSC-B",
+		"lv":"2.80"
+	},{
+		"id":1126,
+		"title":"Utopia",
+		"part":"ADV-B",
+		"lv":"4.55"
+	},{
+		"id":1127,
+		"title":"Utopia",
+		"part":"EXT-B",
+		"lv":"5.70"
+	},{
+		"id":1128,
+		"title":"Utopia",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1129,
+		"title":"月光蝶",
+		"part":"BSC-D",
+		"lv":"3.65"
+	},{
+		"id":1130,
+		"title":"月光蝶",
+		"part":"ADV-D",
+		"lv":"5.65"
+	},{
+		"id":1131,
+		"title":"月光蝶",
+		"part":"EXT-D",
+		"lv":"6.60"
+	},{
+		"id":1132,
+		"title":"月光蝶",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1133,
+		"title":"月光蝶",
+		"part":"BSC-G",
+		"lv":"5.05"
+	},{
+		"id":1134,
+		"title":"月光蝶",
+		"part":"ADV-G",
+		"lv":"7.00"
+	},{
+		"id":1135,
+		"title":"月光蝶",
+		"part":"EXT-G",
+		"lv":"7.35"
+	},{
+		"id":1136,
+		"title":"月光蝶",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1137,
+		"title":"月光蝶",
+		"part":"BSC-B",
+		"lv":"3.45"
+	},{
+		"id":1138,
+		"title":"月光蝶",
+		"part":"ADV-B",
+		"lv":"6.15"
+	},{
+		"id":1139,
+		"title":"月光蝶",
+		"part":"EXT-B",
+		"lv":"7.80"
+	},{
+		"id":1140,
+		"title":"月光蝶",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1141,
+		"title":"大見解",
+		"part":"BSC-D",
+		"lv":"3.30"
+	},{
+		"id":1142,
+		"title":"大見解",
+		"part":"ADV-D",
+		"lv":"5.20"
+	},{
+		"id":1143,
+		"title":"大見解",
+		"part":"EXT-D",
+		"lv":"6.25"
+	},{
+		"id":1144,
+		"title":"大見解",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1145,
+		"title":"大見解",
+		"part":"BSC-G",
+		"lv":"3.25"
+	},{
+		"id":1146,
+		"title":"大見解",
+		"part":"ADV-G",
+		"lv":"4.85"
+	},{
+		"id":1147,
+		"title":"大見解",
+		"part":"EXT-G",
+		"lv":"5.75"
+	},{
+		"id":1148,
+		"title":"大見解",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1149,
+		"title":"大見解",
+		"part":"BSC-B",
+		"lv":"3.10"
+	},{
+		"id":1150,
+		"title":"大見解",
+		"part":"ADV-B",
+		"lv":"4.60"
+	},{
+		"id":1151,
+		"title":"大見解",
+		"part":"EXT-B",
+		"lv":"5.55"
+	},{
+		"id":1152,
+		"title":"大見解",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1153,
+		"title":"チカラ",
+		"part":"BSC-D",
+		"lv":"3.60"
+	},{
+		"id":1154,
+		"title":"チカラ",
+		"part":"ADV-D",
+		"lv":"5.70"
+	},{
+		"id":1155,
+		"title":"チカラ",
+		"part":"EXT-D",
+		"lv":"6.80"
+	},{
+		"id":1156,
+		"title":"チカラ",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1157,
+		"title":"チカラ",
+		"part":"BSC-G",
+		"lv":"3.55"
+	},{
+		"id":1158,
+		"title":"チカラ",
+		"part":"ADV-G",
+		"lv":"4.80"
+	},{
+		"id":1159,
+		"title":"チカラ",
+		"part":"EXT-G",
+		"lv":"7.00"
+	},{
+		"id":1160,
+		"title":"チカラ",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1161,
+		"title":"チカラ",
+		"part":"BSC-B",
+		"lv":"2.90"
+	},{
+		"id":1162,
+		"title":"チカラ",
+		"part":"ADV-B",
+		"lv":"4.60"
+	},{
+		"id":1163,
+		"title":"チカラ",
+		"part":"EXT-B",
+		"lv":"5.40"
+	},{
+		"id":1164,
+		"title":"チカラ",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1165,
+		"title":"涙のregret",
+		"part":"BSC-D",
+		"lv":"3.45"
+	},{
+		"id":1166,
+		"title":"涙のregret",
+		"part":"ADV-D",
+		"lv":"5.55"
+	},{
+		"id":1167,
+		"title":"涙のregret",
+		"part":"EXT-D",
+		"lv":"7.75"
+	},{
+		"id":1168,
+		"title":"涙のregret",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1169,
+		"title":"涙のregret",
+		"part":"BSC-G",
+		"lv":"3.60"
+	},{
+		"id":1170,
+		"title":"涙のregret",
+		"part":"ADV-G",
+		"lv":"4.95"
+	},{
+		"id":1171,
+		"title":"涙のregret",
+		"part":"EXT-G",
+		"lv":"6.75"
+	},{
+		"id":1172,
+		"title":"涙のregret",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1173,
+		"title":"涙のregret",
+		"part":"BSC-B",
+		"lv":"3.70"
+	},{
+		"id":1174,
+		"title":"涙のregret",
+		"part":"ADV-B",
+		"lv":"4.90"
+	},{
+		"id":1175,
+		"title":"涙のregret",
+		"part":"EXT-B",
+		"lv":"6.50"
+	},{
+		"id":1176,
+		"title":"涙のregret",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1177,
+		"title":"花の唄",
+		"part":"BSC-D",
+		"lv":"3.45"
+	},{
+		"id":1178,
+		"title":"花の唄",
+		"part":"ADV-D",
+		"lv":"5.15"
+	},{
+		"id":1179,
+		"title":"花の唄",
+		"part":"EXT-D",
+		"lv":"6.10"
+	},{
+		"id":1180,
+		"title":"花の唄",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1181,
+		"title":"花の唄",
+		"part":"BSC-G",
+		"lv":"3.85"
+	},{
+		"id":1182,
+		"title":"花の唄",
+		"part":"ADV-G",
+		"lv":"4.50"
+	},{
+		"id":1183,
+		"title":"花の唄",
+		"part":"EXT-G",
+		"lv":"6.15"
+	},{
+		"id":1184,
+		"title":"花の唄",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1185,
+		"title":"花の唄",
+		"part":"BSC-B",
+		"lv":"2.65"
+	},{
+		"id":1186,
+		"title":"花の唄",
+		"part":"ADV-B",
+		"lv":"4.25"
+	},{
+		"id":1187,
+		"title":"花の唄",
+		"part":"EXT-B",
+		"lv":"6.20"
+	},{
+		"id":1188,
+		"title":"花の唄",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1189,
+		"title":"万華鏡",
+		"part":"BSC-D",
+		"lv":"3.90"
+	},{
+		"id":1190,
+		"title":"万華鏡",
+		"part":"ADV-D",
+		"lv":"5.40"
+	},{
+		"id":1191,
+		"title":"万華鏡",
+		"part":"EXT-D",
+		"lv":"6.75"
+	},{
+		"id":1192,
+		"title":"万華鏡",
+		"part":"MAS-D",
+		"lv":"7.60"
+	},{
+		"id":1193,
+		"title":"万華鏡",
+		"part":"BSC-G",
+		"lv":"2.80"
+	},{
+		"id":1194,
+		"title":"万華鏡",
+		"part":"ADV-G",
+		"lv":"4.70"
+	},{
+		"id":1195,
+		"title":"万華鏡",
+		"part":"EXT-G",
+		"lv":"5.85"
+	},{
+		"id":1196,
+		"title":"万華鏡",
+		"part":"MAS-G",
+		"lv":"8.15"
+	},{
+		"id":1197,
+		"title":"万華鏡",
+		"part":"BSC-B",
+		"lv":"2.70"
+	},{
+		"id":1198,
+		"title":"万華鏡",
+		"part":"ADV-B",
+		"lv":"4.25"
+	},{
+		"id":1199,
+		"title":"万華鏡",
+		"part":"EXT-B",
+		"lv":"5.35"
+	},{
+		"id":1200,
+		"title":"万華鏡",
+		"part":"MAS-B",
+		"lv":"6.40"
+	},{
+		"id":1201,
+		"title":"林檎と蜂蜜",
+		"part":"BSC-D",
+		"lv":"3.40"
+	},{
+		"id":1202,
+		"title":"林檎と蜂蜜",
+		"part":"ADV-D",
+		"lv":"5.30"
+	},{
+		"id":1203,
+		"title":"林檎と蜂蜜",
+		"part":"EXT-D",
+		"lv":"6.80"
+	},{
+		"id":1204,
+		"title":"林檎と蜂蜜",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1205,
+		"title":"林檎と蜂蜜",
+		"part":"BSC-G",
+		"lv":"3.05"
+	},{
+		"id":1206,
+		"title":"林檎と蜂蜜",
+		"part":"ADV-G",
+		"lv":"4.45"
+	},{
+		"id":1207,
+		"title":"林檎と蜂蜜",
+		"part":"EXT-G",
+		"lv":"5.50"
+	},{
+		"id":1208,
+		"title":"林檎と蜂蜜",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1209,
+		"title":"林檎と蜂蜜",
+		"part":"BSC-B",
+		"lv":"3.10"
+	},{
+		"id":1210,
+		"title":"林檎と蜂蜜",
+		"part":"ADV-B",
+		"lv":"3.85"
+	},{
+		"id":1211,
+		"title":"林檎と蜂蜜",
+		"part":"EXT-B",
+		"lv":"5.15"
+	},{
+		"id":1212,
+		"title":"林檎と蜂蜜",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1213,
+		"title":"Agnus Dei",
+		"part":"BSC-D",
+		"lv":"4.90"
+	},{
+		"id":1214,
+		"title":"Agnus Dei",
+		"part":"ADV-D",
+		"lv":"5.90"
+	},{
+		"id":1215,
+		"title":"Agnus Dei",
+		"part":"EXT-D",
+		"lv":"7.45"
+	},{
+		"id":1216,
+		"title":"Agnus Dei",
+		"part":"MAS-D",
+		"lv":"8.85"
+	},{
+		"id":1217,
+		"title":"Agnus Dei",
+		"part":"BSC-G",
+		"lv":"3.55"
+	},{
+		"id":1218,
+		"title":"Agnus Dei",
+		"part":"ADV-G",
+		"lv":"4.95"
+	},{
+		"id":1219,
+		"title":"Agnus Dei",
+		"part":"EXT-G",
+		"lv":"7.10"
+	},{
+		"id":1220,
+		"title":"Agnus Dei",
+		"part":"MAS-G",
+		"lv":"7.95"
+	},{
+		"id":1221,
+		"title":"Agnus Dei",
+		"part":"BSC-B",
+		"lv":"3.95"
+	},{
+		"id":1222,
+		"title":"Agnus Dei",
+		"part":"ADV-B",
+		"lv":"5.05"
+	},{
+		"id":1223,
+		"title":"Agnus Dei",
+		"part":"EXT-B",
+		"lv":"5.85"
+	},{
+		"id":1224,
+		"title":"Agnus Dei",
+		"part":"MAS-B",
+		"lv":"7.30"
+	},{
+		"id":1225,
+		"title":"cockpit",
+		"part":"BSC-D",
+		"lv":"4.25"
+	},{
+		"id":1226,
+		"title":"cockpit",
+		"part":"ADV-D",
+		"lv":"6.35"
+	},{
+		"id":1227,
+		"title":"cockpit",
+		"part":"EXT-D",
+		"lv":"7.75"
+	},{
+		"id":1228,
+		"title":"cockpit",
+		"part":"MAS-D",
+		"lv":"8.95"
+	},{
+		"id":1229,
+		"title":"cockpit",
+		"part":"BSC-G",
+		"lv":"3.50"
+	},{
+		"id":1230,
+		"title":"cockpit",
+		"part":"ADV-G",
+		"lv":"4.85"
+	},{
+		"id":1231,
+		"title":"cockpit",
+		"part":"EXT-G",
+		"lv":"6.80"
+	},{
+		"id":1232,
+		"title":"cockpit",
+		"part":"MAS-G",
+		"lv":"8.70"
+	},{
+		"id":1233,
+		"title":"cockpit",
+		"part":"BSC-B",
+		"lv":"3.60"
+	},{
+		"id":1234,
+		"title":"cockpit",
+		"part":"ADV-B",
+		"lv":"4.55"
+	},{
+		"id":1235,
+		"title":"cockpit",
+		"part":"EXT-B",
+		"lv":"5.90"
+	},{
+		"id":1236,
+		"title":"cockpit",
+		"part":"MAS-B",
+		"lv":"7.65"
+	},{
+		"id":1237,
+		"title":"Funky sonic World",
+		"part":"BSC-D",
+		"lv":"3.80"
+	},{
+		"id":1238,
+		"title":"Funky sonic World",
+		"part":"ADV-D",
+		"lv":"6.45"
+	},{
+		"id":1239,
+		"title":"Funky sonic World",
+		"part":"EXT-D",
+		"lv":"8.20"
+	},{
+		"id":1240,
+		"title":"Funky sonic World",
+		"part":"MAS-D",
+		"lv":"9.45"
+	},{
+		"id":1241,
+		"title":"Funky sonic World",
+		"part":"BSC-G",
+		"lv":"4.70"
+	},{
+		"id":1242,
+		"title":"Funky sonic World",
+		"part":"ADV-G",
+		"lv":"6.65"
+	},{
+		"id":1243,
+		"title":"Funky sonic World",
+		"part":"EXT-G",
+		"lv":"7.30"
+	},{
+		"id":1244,
+		"title":"Funky sonic World",
+		"part":"MAS-G",
+		"lv":"8.55"
+	},{
+		"id":1245,
+		"title":"Funky sonic World",
+		"part":"BSC-B",
+		"lv":"4.65"
+	},{
+		"id":1246,
+		"title":"Funky sonic World",
+		"part":"ADV-B",
+		"lv":"5.50"
+	},{
+		"id":1247,
+		"title":"Funky sonic World",
+		"part":"EXT-B",
+		"lv":"6.05"
+	},{
+		"id":1248,
+		"title":"Funky sonic World",
+		"part":"MAS-B",
+		"lv":"7.90"
+	},{
+		"id":1249,
+		"title":"GET IT ALL",
+		"part":"BSC-D",
+		"lv":"3.75"
+	},{
+		"id":1250,
+		"title":"GET IT ALL",
+		"part":"ADV-D",
+		"lv":"5.50"
+	},{
+		"id":1251,
+		"title":"GET IT ALL",
+		"part":"EXT-D",
+		"lv":"7.15"
+	},{
+		"id":1252,
+		"title":"GET IT ALL",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1253,
+		"title":"GET IT ALL",
+		"part":"BSC-G",
+		"lv":"3.80"
+	},{
+		"id":1254,
+		"title":"GET IT ALL",
+		"part":"ADV-G",
+		"lv":"5.20"
+	},{
+		"id":1255,
+		"title":"GET IT ALL",
+		"part":"EXT-G",
+		"lv":"7.60"
+	},{
+		"id":1256,
+		"title":"GET IT ALL",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1257,
+		"title":"GET IT ALL",
+		"part":"BSC-B",
+		"lv":"2.30"
+	},{
+		"id":1258,
+		"title":"GET IT ALL",
+		"part":"ADV-B",
+		"lv":"4.60"
+	},{
+		"id":1259,
+		"title":"GET IT ALL",
+		"part":"EXT-B",
+		"lv":"6.10"
+	},{
+		"id":1260,
+		"title":"GET IT ALL",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1261,
+		"title":"Handsome JET L-Project",
+		"part":"BSC-D",
+		"lv":"3.30"
+	},{
+		"id":1262,
+		"title":"Handsome JET L-Project",
+		"part":"ADV-D",
+		"lv":"5.50"
+	},{
+		"id":1263,
+		"title":"Handsome JET L-Project",
+		"part":"EXT-D",
+		"lv":"7.15"
+	},{
+		"id":1264,
+		"title":"Handsome JET L-Project",
+		"part":"MAS-D",
+		"lv":"8.55"
+	},{
+		"id":1265,
+		"title":"Handsome JET L-Project",
+		"part":"BSC-G",
+		"lv":"3.80"
+	},{
+		"id":1266,
+		"title":"Handsome JET L-Project",
+		"part":"ADV-G",
+		"lv":"5.50"
+	},{
+		"id":1267,
+		"title":"Handsome JET L-Project",
+		"part":"EXT-G",
+		"lv":"7.20"
+	},{
+		"id":1268,
+		"title":"Handsome JET L-Project",
+		"part":"MAS-G",
+		"lv":"8.35"
+	},{
+		"id":1269,
+		"title":"Handsome JET L-Project",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":1270,
+		"title":"Handsome JET L-Project",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":1271,
+		"title":"Handsome JET L-Project",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":1272,
+		"title":"Handsome JET L-Project",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1273,
+		"title":"joker",
+		"part":"BSC-D",
+		"lv":"3.90"
+	},{
+		"id":1274,
+		"title":"joker",
+		"part":"ADV-D",
+		"lv":"5.50"
+	},{
+		"id":1275,
+		"title":"joker",
+		"part":"EXT-D",
+		"lv":"8.30"
+	},{
+		"id":1276,
+		"title":"joker",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1277,
+		"title":"joker",
+		"part":"BSC-G",
+		"lv":"3.75"
+	},{
+		"id":1278,
+		"title":"joker",
+		"part":"ADV-G",
+		"lv":"4.85"
+	},{
+		"id":1279,
+		"title":"joker",
+		"part":"EXT-G",
+		"lv":"5.65"
+	},{
+		"id":1280,
+		"title":"joker",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1281,
+		"title":"joker",
+		"part":"BSC-B",
+		"lv":"3.30"
+	},{
+		"id":1282,
+		"title":"joker",
+		"part":"ADV-B",
+		"lv":"4.50"
+	},{
+		"id":1283,
+		"title":"joker",
+		"part":"EXT-B",
+		"lv":"5.65"
+	},{
+		"id":1284,
+		"title":"joker",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1285,
+		"title":"MODEL DD5",
+		"part":"BSC-D",
+		"lv":"5.10"
+	},{
+		"id":1286,
+		"title":"MODEL DD5",
+		"part":"ADV-D",
+		"lv":"6.40"
+	},{
+		"id":1287,
+		"title":"MODEL DD5",
+		"part":"EXT-D",
+		"lv":"8.05"
+	},{
+		"id":1288,
+		"title":"MODEL DD5",
+		"part":"MAS-D",
+		"lv":"9.30"
+	},{
+		"id":1289,
+		"title":"MODEL DD5",
+		"part":"BSC-G",
+		"lv":"5.00"
+	},{
+		"id":1290,
+		"title":"MODEL DD5",
+		"part":"ADV-G",
+		"lv":"6.05"
+	},{
+		"id":1291,
+		"title":"MODEL DD5",
+		"part":"EXT-G",
+		"lv":"7.15"
+	},{
+		"id":1292,
+		"title":"MODEL DD5",
+		"part":"MAS-G",
+		"lv":"8.25"
+	},{
+		"id":1293,
+		"title":"MODEL DD5",
+		"part":"BSC-B",
+		"lv":"5.00"
+	},{
+		"id":1294,
+		"title":"MODEL DD5",
+		"part":"ADV-B",
+		"lv":"5.90"
+	},{
+		"id":1295,
+		"title":"MODEL DD5",
+		"part":"EXT-B",
+		"lv":"7.10"
+	},{
+		"id":1296,
+		"title":"MODEL DD5",
+		"part":"MAS-B",
+		"lv":"8.20"
+	},{
+		"id":1297,
+		"title":"pot-pourri d'marmalade",
+		"part":"BSC-D",
+		"lv":"3.50"
+	},{
+		"id":1298,
+		"title":"pot-pourri d'marmalade",
+		"part":"ADV-D",
+		"lv":"5.80"
+	},{
+		"id":1299,
+		"title":"pot-pourri d'marmalade",
+		"part":"EXT-D",
+		"lv":"7.95"
+	},{
+		"id":1300,
+		"title":"pot-pourri d'marmalade",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1301,
+		"title":"pot-pourri d'marmalade",
+		"part":"BSC-G",
+		"lv":"3.10"
+	},{
+		"id":1302,
+		"title":"pot-pourri d'marmalade",
+		"part":"ADV-G",
+		"lv":"5.00"
+	},{
+		"id":1303,
+		"title":"pot-pourri d'marmalade",
+		"part":"EXT-G",
+		"lv":"7.65"
+	},{
+		"id":1304,
+		"title":"pot-pourri d'marmalade",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1305,
+		"title":"pot-pourri d'marmalade",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":1306,
+		"title":"pot-pourri d'marmalade",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":1307,
+		"title":"pot-pourri d'marmalade",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":1308,
+		"title":"pot-pourri d'marmalade",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1309,
+		"title":"SA-DA-ME",
+		"part":"BSC-D",
+		"lv":"2.70"
+	},{
+		"id":1310,
+		"title":"SA-DA-ME",
+		"part":"ADV-D",
+		"lv":"4.25"
+	},{
+		"id":1311,
+		"title":"SA-DA-ME",
+		"part":"EXT-D",
+		"lv":"6.15"
+	},{
+		"id":1312,
+		"title":"SA-DA-ME",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1313,
+		"title":"SA-DA-ME",
+		"part":"BSC-G",
+		"lv":"3.55"
+	},{
+		"id":1314,
+		"title":"SA-DA-ME",
+		"part":"ADV-G",
+		"lv":"5.15"
+	},{
+		"id":1315,
+		"title":"SA-DA-ME",
+		"part":"EXT-G",
+		"lv":"6.90"
+	},{
+		"id":1316,
+		"title":"SA-DA-ME",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1317,
+		"title":"SA-DA-ME",
+		"part":"BSC-B",
+		"lv":"3.35"
+	},{
+		"id":1318,
+		"title":"SA-DA-ME",
+		"part":"ADV-B",
+		"lv":"5.15"
+	},{
+		"id":1319,
+		"title":"SA-DA-ME",
+		"part":"EXT-B",
+		"lv":"6.50"
+	},{
+		"id":1320,
+		"title":"SA-DA-ME",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1321,
+		"title":"Timepiece phase II",
+		"part":"BSC-D",
+		"lv":"5.80"
+	},{
+		"id":1322,
+		"title":"Timepiece phase II",
+		"part":"ADV-D",
+		"lv":"7.35"
+	},{
+		"id":1323,
+		"title":"Timepiece phase II",
+		"part":"EXT-D",
+		"lv":"8.65"
+	},{
+		"id":1324,
+		"title":"Timepiece phase II",
+		"part":"MAS-D",
+		"lv":"9.20"
+	},{
+		"id":1325,
+		"title":"Timepiece phase II",
+		"part":"BSC-G",
+		"lv":"6.05"
+	},{
+		"id":1326,
+		"title":"Timepiece phase II",
+		"part":"ADV-G",
+		"lv":"6.85"
+	},{
+		"id":1327,
+		"title":"Timepiece phase II",
+		"part":"EXT-G",
+		"lv":"8.85"
+	},{
+		"id":1328,
+		"title":"Timepiece phase II",
+		"part":"MAS-G",
+		"lv":"9.45"
+	},{
+		"id":1329,
+		"title":"Timepiece phase II",
+		"part":"BSC-B",
+		"lv":"5.65"
+	},{
+		"id":1330,
+		"title":"Timepiece phase II",
+		"part":"ADV-B",
+		"lv":"6.00"
+	},{
+		"id":1331,
+		"title":"Timepiece phase II",
+		"part":"EXT-B",
+		"lv":"7.60"
+	},{
+		"id":1332,
+		"title":"Timepiece phase II",
+		"part":"MAS-B",
+		"lv":"8.60"
+	},{
+		"id":1333,
+		"title":"浮舟",
+		"part":"BSC-D",
+		"lv":"2.55"
+	},{
+		"id":1334,
+		"title":"浮舟",
+		"part":"ADV-D",
+		"lv":"4.90"
+	},{
+		"id":1335,
+		"title":"浮舟",
+		"part":"EXT-D",
+		"lv":"7.55"
+	},{
+		"id":1336,
+		"title":"浮舟",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1337,
+		"title":"浮舟",
+		"part":"BSC-G",
+		"lv":"2.85"
+	},{
+		"id":1338,
+		"title":"浮舟",
+		"part":"ADV-G",
+		"lv":"3.50"
+	},{
+		"id":1339,
+		"title":"浮舟",
+		"part":"EXT-G",
+		"lv":"4.85"
+	},{
+		"id":1340,
+		"title":"浮舟",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1341,
+		"title":"浮舟",
+		"part":"BSC-B",
+		"lv":"2.95"
+	},{
+		"id":1342,
+		"title":"浮舟",
+		"part":"ADV-B",
+		"lv":"3.65"
+	},{
+		"id":1343,
+		"title":"浮舟",
+		"part":"EXT-B",
+		"lv":"4.50"
+	},{
+		"id":1344,
+		"title":"浮舟",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1345,
+		"title":"カゴノトリ",
+		"part":"BSC-D",
+		"lv":"3.25"
+	},{
+		"id":1346,
+		"title":"カゴノトリ",
+		"part":"ADV-D",
+		"lv":"5.80"
+	},{
+		"id":1347,
+		"title":"カゴノトリ",
+		"part":"EXT-D",
+		"lv":"7.40"
+	},{
+		"id":1348,
+		"title":"カゴノトリ",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1349,
+		"title":"カゴノトリ",
+		"part":"BSC-G",
+		"lv":"3.85"
+	},{
+		"id":1350,
+		"title":"カゴノトリ",
+		"part":"ADV-G",
+		"lv":"4.95"
+	},{
+		"id":1351,
+		"title":"カゴノトリ",
+		"part":"EXT-G",
+		"lv":"7.15"
+	},{
+		"id":1352,
+		"title":"カゴノトリ",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1353,
+		"title":"カゴノトリ",
+		"part":"BSC-B",
+		"lv":"3.70"
+	},{
+		"id":1354,
+		"title":"カゴノトリ",
+		"part":"ADV-B",
+		"lv":"4.95"
+	},{
+		"id":1355,
+		"title":"カゴノトリ",
+		"part":"EXT-B",
+		"lv":"6.85"
+	},{
+		"id":1356,
+		"title":"カゴノトリ",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1357,
+		"title":"この子の七つのお祝いに",
+		"part":"BSC-D",
+		"lv":"5.10"
+	},{
+		"id":1358,
+		"title":"この子の七つのお祝いに",
+		"part":"ADV-D",
+		"lv":"6.50"
+	},{
+		"id":1359,
+		"title":"この子の七つのお祝いに",
+		"part":"EXT-D",
+		"lv":"7.85"
+	},{
+		"id":1360,
+		"title":"この子の七つのお祝いに",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1361,
+		"title":"この子の七つのお祝いに",
+		"part":"BSC-G",
+		"lv":"5.30"
+	},{
+		"id":1362,
+		"title":"この子の七つのお祝いに",
+		"part":"ADV-G",
+		"lv":"6.80"
+	},{
+		"id":1363,
+		"title":"この子の七つのお祝いに",
+		"part":"EXT-G",
+		"lv":"8.35"
+	},{
+		"id":1364,
+		"title":"この子の七つのお祝いに",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1365,
+		"title":"この子の七つのお祝いに",
+		"part":"BSC-B",
+		"lv":"4.75"
+	},{
+		"id":1366,
+		"title":"この子の七つのお祝いに",
+		"part":"ADV-B",
+		"lv":"6.75"
+	},{
+		"id":1367,
+		"title":"この子の七つのお祝いに",
+		"part":"EXT-B",
+		"lv":"7.50"
+	},{
+		"id":1368,
+		"title":"この子の七つのお祝いに",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1369,
+		"title":"しかられ日和",
+		"part":"BSC-D",
+		"lv":"2.70"
+	},{
+		"id":1370,
+		"title":"しかられ日和",
+		"part":"ADV-D",
+		"lv":"5.70"
+	},{
+		"id":1371,
+		"title":"しかられ日和",
+		"part":"EXT-D",
+		"lv":"7.30"
+	},{
+		"id":1372,
+		"title":"しかられ日和",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1373,
+		"title":"しかられ日和",
+		"part":"BSC-G",
+		"lv":"3.00"
+	},{
+		"id":1374,
+		"title":"しかられ日和",
+		"part":"ADV-G",
+		"lv":"5.30"
+	},{
+		"id":1375,
+		"title":"しかられ日和",
+		"part":"EXT-G",
+		"lv":"7.00"
+	},{
+		"id":1376,
+		"title":"しかられ日和",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1377,
+		"title":"しかられ日和",
+		"part":"BSC-B",
+		"lv":"3.20"
+	},{
+		"id":1378,
+		"title":"しかられ日和",
+		"part":"ADV-B",
+		"lv":"5.75"
+	},{
+		"id":1379,
+		"title":"しかられ日和",
+		"part":"EXT-B",
+		"lv":"6.70"
+	},{
+		"id":1380,
+		"title":"しかられ日和",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1381,
+		"title":"蒼白",
+		"part":"BSC-D",
+		"lv":"3.60"
+	},{
+		"id":1382,
+		"title":"蒼白",
+		"part":"ADV-D",
+		"lv":"5.90"
+	},{
+		"id":1383,
+		"title":"蒼白",
+		"part":"EXT-D",
+		"lv":"7.00"
+	},{
+		"id":1384,
+		"title":"蒼白",
+		"part":"MAS-D",
+		"lv":"8.00"
+	},{
+		"id":1385,
+		"title":"蒼白",
+		"part":"BSC-G",
+		"lv":"3.60"
+	},{
+		"id":1386,
+		"title":"蒼白",
+		"part":"ADV-G",
+		"lv":"5.30"
+	},{
+		"id":1387,
+		"title":"蒼白",
+		"part":"EXT-G",
+		"lv":"7.05"
+	},{
+		"id":1388,
+		"title":"蒼白",
+		"part":"MAS-G",
+		"lv":"8.30"
+	},{
+		"id":1389,
+		"title":"蒼白",
+		"part":"BSC-B",
+		"lv":"3.90"
+	},{
+		"id":1390,
+		"title":"蒼白",
+		"part":"ADV-B",
+		"lv":"5.60"
+	},{
+		"id":1391,
+		"title":"蒼白",
+		"part":"EXT-B",
+		"lv":"7.00"
+	},{
+		"id":1392,
+		"title":"蒼白",
+		"part":"MAS-B",
+		"lv":"8.20"
+	},{
+		"id":1393,
+		"title":"大切なもの",
+		"part":"BSC-D",
+		"lv":"1.60"
+	},{
+		"id":1394,
+		"title":"大切なもの",
+		"part":"ADV-D",
+		"lv":"4.35"
+	},{
+		"id":1395,
+		"title":"大切なもの",
+		"part":"EXT-D",
+		"lv":"6.40"
+	},{
+		"id":1396,
+		"title":"大切なもの",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1397,
+		"title":"大切なもの",
+		"part":"BSC-G",
+		"lv":"1.90"
+	},{
+		"id":1398,
+		"title":"大切なもの",
+		"part":"ADV-G",
+		"lv":"4.35"
+	},{
+		"id":1399,
+		"title":"大切なもの",
+		"part":"EXT-G",
+		"lv":"5.15"
+	},{
+		"id":1400,
+		"title":"大切なもの",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1401,
+		"title":"大切なもの",
+		"part":"BSC-B",
+		"lv":"3.25"
+	},{
+		"id":1402,
+		"title":"大切なもの",
+		"part":"ADV-B",
+		"lv":"4.50"
+	},{
+		"id":1403,
+		"title":"大切なもの",
+		"part":"EXT-B",
+		"lv":"4.95"
+	},{
+		"id":1404,
+		"title":"大切なもの",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1405,
+		"title":"ヒマワリ",
+		"part":"BSC-D",
+		"lv":"3.40"
+	},{
+		"id":1406,
+		"title":"ヒマワリ",
+		"part":"ADV-D",
+		"lv":"5.35"
+	},{
+		"id":1407,
+		"title":"ヒマワリ",
+		"part":"EXT-D",
+		"lv":"7.00"
+	},{
+		"id":1408,
+		"title":"ヒマワリ",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1409,
+		"title":"ヒマワリ",
+		"part":"BSC-G",
+		"lv":"3.80"
+	},{
+		"id":1410,
+		"title":"ヒマワリ",
+		"part":"ADV-G",
+		"lv":"5.75"
+	},{
+		"id":1411,
+		"title":"ヒマワリ",
+		"part":"EXT-G",
+		"lv":"7.05"
+	},{
+		"id":1412,
+		"title":"ヒマワリ",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1413,
+		"title":"ヒマワリ",
+		"part":"BSC-B",
+		"lv":"3.55"
+	},{
+		"id":1414,
+		"title":"ヒマワリ",
+		"part":"ADV-B",
+		"lv":"4.50"
+	},{
+		"id":1415,
+		"title":"ヒマワリ",
+		"part":"EXT-B",
+		"lv":"6.40"
+	},{
+		"id":1416,
+		"title":"ヒマワリ",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1417,
+		"title":"ヘリコプター",
+		"part":"BSC-D",
+		"lv":"2.70"
+	},{
+		"id":1418,
+		"title":"ヘリコプター",
+		"part":"ADV-D",
+		"lv":"4.75"
+	},{
+		"id":1419,
+		"title":"ヘリコプター",
+		"part":"EXT-D",
+		"lv":"5.90"
+	},{
+		"id":1420,
+		"title":"ヘリコプター",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1421,
+		"title":"ヘリコプター",
+		"part":"BSC-G",
+		"lv":"3.50"
+	},{
+		"id":1422,
+		"title":"ヘリコプター",
+		"part":"ADV-G",
+		"lv":"4.80"
+	},{
+		"id":1423,
+		"title":"ヘリコプター",
+		"part":"EXT-G",
+		"lv":"6.10"
+	},{
+		"id":1424,
+		"title":"ヘリコプター",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1425,
+		"title":"ヘリコプター",
+		"part":"BSC-B",
+		"lv":"3.45"
+	},{
+		"id":1426,
+		"title":"ヘリコプター",
+		"part":"ADV-B",
+		"lv":"4.80"
+	},{
+		"id":1427,
+		"title":"ヘリコプター",
+		"part":"EXT-B",
+		"lv":"6.15"
+	},{
+		"id":1428,
+		"title":"ヘリコプター",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1429,
+		"title":"Dragon Blade",
+		"part":"BSC-D",
+		"lv":"3.65"
+	},{
+		"id":1430,
+		"title":"Dragon Blade",
+		"part":"ADV-D",
+		"lv":"5.00"
+	},{
+		"id":1431,
+		"title":"Dragon Blade",
+		"part":"EXT-D",
+		"lv":"6.35"
+	},{
+		"id":1432,
+		"title":"Dragon Blade",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1433,
+		"title":"Dragon Blade",
+		"part":"BSC-G",
+		"lv":"3.90"
+	},{
+		"id":1434,
+		"title":"Dragon Blade",
+		"part":"ADV-G",
+		"lv":"5.70"
+	},{
+		"id":1435,
+		"title":"Dragon Blade",
+		"part":"EXT-G",
+		"lv":"8.35"
+	},{
+		"id":1436,
+		"title":"Dragon Blade",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1437,
+		"title":"Dragon Blade",
+		"part":"BSC-B",
+		"lv":"3.80"
+	},{
+		"id":1438,
+		"title":"Dragon Blade",
+		"part":"ADV-B",
+		"lv":"5.10"
+	},{
+		"id":1439,
+		"title":"Dragon Blade",
+		"part":"EXT-B",
+		"lv":"6.20"
+	},{
+		"id":1440,
+		"title":"Dragon Blade",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1441,
+		"title":"Dream Again...",
+		"part":"BSC-D",
+		"lv":"2.95"
+	},{
+		"id":1442,
+		"title":"Dream Again...",
+		"part":"ADV-D",
+		"lv":"4.80"
+	},{
+		"id":1443,
+		"title":"Dream Again...",
+		"part":"EXT-D",
+		"lv":"5.85"
+	},{
+		"id":1444,
+		"title":"Dream Again...",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1445,
+		"title":"Dream Again...",
+		"part":"BSC-G",
+		"lv":"4.15"
+	},{
+		"id":1446,
+		"title":"Dream Again...",
+		"part":"ADV-G",
+		"lv":"5.05"
+	},{
+		"id":1447,
+		"title":"Dream Again...",
+		"part":"EXT-G",
+		"lv":"7.10"
+	},{
+		"id":1448,
+		"title":"Dream Again...",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1449,
+		"title":"Dream Again...",
+		"part":"BSC-B",
+		"lv":"4.05"
+	},{
+		"id":1450,
+		"title":"Dream Again...",
+		"part":"ADV-B",
+		"lv":"5.30"
+	},{
+		"id":1451,
+		"title":"Dream Again...",
+		"part":"EXT-B",
+		"lv":"7.30"
+	},{
+		"id":1452,
+		"title":"Dream Again...",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1453,
+		"title":"Luvly,Merry-Go-Round",
+		"part":"BSC-D",
+		"lv":"2.70"
+	},{
+		"id":1454,
+		"title":"Luvly,Merry-Go-Round",
+		"part":"ADV-D",
+		"lv":"4.75"
+	},{
+		"id":1455,
+		"title":"Luvly,Merry-Go-Round",
+		"part":"EXT-D",
+		"lv":"6.05"
+	},{
+		"id":1456,
+		"title":"Luvly,Merry-Go-Round",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1457,
+		"title":"Luvly,Merry-Go-Round",
+		"part":"BSC-G",
+		"lv":"2.45"
+	},{
+		"id":1458,
+		"title":"Luvly,Merry-Go-Round",
+		"part":"ADV-G",
+		"lv":"3.75"
+	},{
+		"id":1459,
+		"title":"Luvly,Merry-Go-Round",
+		"part":"EXT-G",
+		"lv":"5.30"
+	},{
+		"id":1460,
+		"title":"Luvly,Merry-Go-Round",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1461,
+		"title":"Luvly,Merry-Go-Round",
+		"part":"BSC-B",
+		"lv":"2.75"
+	},{
+		"id":1462,
+		"title":"Luvly,Merry-Go-Round",
+		"part":"ADV-B",
+		"lv":"4.45"
+	},{
+		"id":1463,
+		"title":"Luvly,Merry-Go-Round",
+		"part":"EXT-B",
+		"lv":"4.90"
+	},{
+		"id":1464,
+		"title":"Luvly,Merry-Go-Round",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1465,
+		"title":"MODEL DD6",
+		"part":"BSC-D",
+		"lv":"6.00"
+	},{
+		"id":1466,
+		"title":"MODEL DD6",
+		"part":"ADV-D",
+		"lv":"7.50"
+	},{
+		"id":1467,
+		"title":"MODEL DD6",
+		"part":"EXT-D",
+		"lv":"8.90"
+	},{
+		"id":1468,
+		"title":"MODEL DD6",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1469,
+		"title":"MODEL DD6",
+		"part":"BSC-G",
+		"lv":"5.95"
+	},{
+		"id":1470,
+		"title":"MODEL DD6",
+		"part":"ADV-G",
+		"lv":"6.50"
+	},{
+		"id":1471,
+		"title":"MODEL DD6",
+		"part":"EXT-G",
+		"lv":"7.45"
+	},{
+		"id":1472,
+		"title":"MODEL DD6",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1473,
+		"title":"MODEL DD6",
+		"part":"BSC-B",
+		"lv":"4.95"
+	},{
+		"id":1474,
+		"title":"MODEL DD6",
+		"part":"ADV-B",
+		"lv":"6.65"
+	},{
+		"id":1475,
+		"title":"MODEL DD6",
+		"part":"EXT-B",
+		"lv":"7.70"
+	},{
+		"id":1476,
+		"title":"MODEL DD6",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1477,
+		"title":"MONSTER TREE",
+		"part":"BSC-D",
+		"lv":"2.75"
+	},{
+		"id":1478,
+		"title":"MONSTER TREE",
+		"part":"ADV-D",
+		"lv":"4.05"
+	},{
+		"id":1479,
+		"title":"MONSTER TREE",
+		"part":"EXT-D",
+		"lv":"6.05"
+	},{
+		"id":1480,
+		"title":"MONSTER TREE",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1481,
+		"title":"MONSTER TREE",
+		"part":"BSC-G",
+		"lv":"2.80"
+	},{
+		"id":1482,
+		"title":"MONSTER TREE",
+		"part":"ADV-G",
+		"lv":"4.35"
+	},{
+		"id":1483,
+		"title":"MONSTER TREE",
+		"part":"EXT-G",
+		"lv":"5.55"
+	},{
+		"id":1484,
+		"title":"MONSTER TREE",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1485,
+		"title":"MONSTER TREE",
+		"part":"BSC-B",
+		"lv":"2.80"
+	},{
+		"id":1486,
+		"title":"MONSTER TREE",
+		"part":"ADV-B",
+		"lv":"4.15"
+	},{
+		"id":1487,
+		"title":"MONSTER TREE",
+		"part":"EXT-B",
+		"lv":"5.30"
+	},{
+		"id":1488,
+		"title":"MONSTER TREE",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1489,
+		"title":"Orbital Velocity",
+		"part":"BSC-D",
+		"lv":"3.80"
+	},{
+		"id":1490,
+		"title":"Orbital Velocity",
+		"part":"ADV-D",
+		"lv":"5.00"
+	},{
+		"id":1491,
+		"title":"Orbital Velocity",
+		"part":"EXT-D",
+		"lv":"6.60"
+	},{
+		"id":1492,
+		"title":"Orbital Velocity",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1493,
+		"title":"Orbital Velocity",
+		"part":"BSC-G",
+		"lv":"3.80"
+	},{
+		"id":1494,
+		"title":"Orbital Velocity",
+		"part":"ADV-G",
+		"lv":"6.10"
+	},{
+		"id":1495,
+		"title":"Orbital Velocity",
+		"part":"EXT-G",
+		"lv":"7.90"
+	},{
+		"id":1496,
+		"title":"Orbital Velocity",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1497,
+		"title":"Orbital Velocity",
+		"part":"BSC-B",
+		"lv":"3.85"
+	},{
+		"id":1498,
+		"title":"Orbital Velocity",
+		"part":"ADV-B",
+		"lv":"5.40"
+	},{
+		"id":1499,
+		"title":"Orbital Velocity",
+		"part":"EXT-B",
+		"lv":"6.30"
+	},{
+		"id":1500,
+		"title":"Orbital Velocity",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1501,
+		"title":"Reaching for the Stars",
+		"part":"BSC-D",
+		"lv":"4.30"
+	},{
+		"id":1502,
+		"title":"Reaching for the Stars",
+		"part":"ADV-D",
+		"lv":"6.00"
+	},{
+		"id":1503,
+		"title":"Reaching for the Stars",
+		"part":"EXT-D",
+		"lv":"7.70"
+	},{
+		"id":1504,
+		"title":"Reaching for the Stars",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1505,
+		"title":"Reaching for the Stars",
+		"part":"BSC-G",
+		"lv":"3.10"
+	},{
+		"id":1506,
+		"title":"Reaching for the Stars",
+		"part":"ADV-G",
+		"lv":"5.40"
+	},{
+		"id":1507,
+		"title":"Reaching for the Stars",
+		"part":"EXT-G",
+		"lv":"7.00"
+	},{
+		"id":1508,
+		"title":"Reaching for the Stars",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1509,
+		"title":"Reaching for the Stars",
+		"part":"BSC-B",
+		"lv":"2.35"
+	},{
+		"id":1510,
+		"title":"Reaching for the Stars",
+		"part":"ADV-B",
+		"lv":"4.90"
+	},{
+		"id":1511,
+		"title":"Reaching for the Stars",
+		"part":"EXT-B",
+		"lv":"6.30"
+	},{
+		"id":1512,
+		"title":"Reaching for the Stars",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1513,
+		"title":"Real ～Lサイズの夢～",
+		"part":"BSC-D",
+		"lv":"2.90"
+	},{
+		"id":1514,
+		"title":"Real ～Lサイズの夢～",
+		"part":"ADV-D",
+		"lv":"5.30"
+	},{
+		"id":1515,
+		"title":"Real ～Lサイズの夢～",
+		"part":"EXT-D",
+		"lv":"6.50"
+	},{
+		"id":1516,
+		"title":"Real ～Lサイズの夢～",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1517,
+		"title":"Real ～Lサイズの夢～",
+		"part":"BSC-G",
+		"lv":"3.00"
+	},{
+		"id":1518,
+		"title":"Real ～Lサイズの夢～",
+		"part":"ADV-G",
+		"lv":"5.30"
+	},{
+		"id":1519,
+		"title":"Real ～Lサイズの夢～",
+		"part":"EXT-G",
+		"lv":"6.80"
+	},{
+		"id":1520,
+		"title":"Real ～Lサイズの夢～",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1521,
+		"title":"Real ～Lサイズの夢～",
+		"part":"BSC-B",
+		"lv":"3.00"
+	},{
+		"id":1522,
+		"title":"Real ～Lサイズの夢～",
+		"part":"ADV-B",
+		"lv":"5.20"
+	},{
+		"id":1523,
+		"title":"Real ～Lサイズの夢～",
+		"part":"EXT-B",
+		"lv":"6.95"
+	},{
+		"id":1524,
+		"title":"Real ～Lサイズの夢～",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1525,
+		"title":"ROLLING1000tOON",
+		"part":"BSC-D",
+		"lv":"1.50"
+	},{
+		"id":1526,
+		"title":"ROLLING1000tOON",
+		"part":"ADV-D",
+		"lv":"4.90"
+	},{
+		"id":1527,
+		"title":"ROLLING1000tOON",
+		"part":"EXT-D",
+		"lv":"6.75"
+	},{
+		"id":1528,
+		"title":"ROLLING1000tOON",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1529,
+		"title":"ROLLING1000tOON",
+		"part":"BSC-G",
+		"lv":"1.50"
+	},{
+		"id":1530,
+		"title":"ROLLING1000tOON",
+		"part":"ADV-G",
+		"lv":"4.10"
+	},{
+		"id":1531,
+		"title":"ROLLING1000tOON",
+		"part":"EXT-G",
+		"lv":"7.25"
+	},{
+		"id":1532,
+		"title":"ROLLING1000tOON",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1533,
+		"title":"ROLLING1000tOON",
+		"part":"BSC-B",
+		"lv":"2.20"
+	},{
+		"id":1534,
+		"title":"ROLLING1000tOON",
+		"part":"ADV-B",
+		"lv":"4.05"
+	},{
+		"id":1535,
+		"title":"ROLLING1000tOON",
+		"part":"EXT-B",
+		"lv":"6.75"
+	},{
+		"id":1536,
+		"title":"ROLLING1000tOON",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1537,
+		"title":"☆shining☆(GF&dm style)",
+		"part":"BSC-D",
+		"lv":"2.80"
+	},{
+		"id":1538,
+		"title":"☆shining☆(GF&dm style)",
+		"part":"ADV-D",
+		"lv":"4.90"
+	},{
+		"id":1539,
+		"title":"☆shining☆(GF&dm style)",
+		"part":"EXT-D",
+		"lv":"5.95"
+	},{
+		"id":1540,
+		"title":"☆shining☆(GF&dm style)",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1541,
+		"title":"☆shining☆(GF&dm style)",
+		"part":"BSC-G",
+		"lv":"3.70"
+	},{
+		"id":1542,
+		"title":"☆shining☆(GF&dm style)",
+		"part":"ADV-G",
+		"lv":"6.00"
+	},{
+		"id":1543,
+		"title":"☆shining☆(GF&dm style)",
+		"part":"EXT-G",
+		"lv":"6.60"
+	},{
+		"id":1544,
+		"title":"☆shining☆(GF&dm style)",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1545,
+		"title":"☆shining☆(GF&dm style)",
+		"part":"BSC-B",
+		"lv":"3.30"
+	},{
+		"id":1546,
+		"title":"☆shining☆(GF&dm style)",
+		"part":"ADV-B",
+		"lv":"4.40"
+	},{
+		"id":1547,
+		"title":"☆shining☆(GF&dm style)",
+		"part":"EXT-B",
+		"lv":"4.95"
+	},{
+		"id":1548,
+		"title":"☆shining☆(GF&dm style)",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1549,
+		"title":"WE ARE",
+		"part":"BSC-D",
+		"lv":"2.65"
+	},{
+		"id":1550,
+		"title":"WE ARE",
+		"part":"ADV-D",
+		"lv":"5.35"
+	},{
+		"id":1551,
+		"title":"WE ARE",
+		"part":"EXT-D",
+		"lv":"6.65"
+	},{
+		"id":1552,
+		"title":"WE ARE",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1553,
+		"title":"WE ARE",
+		"part":"BSC-G",
+		"lv":"3.55"
+	},{
+		"id":1554,
+		"title":"WE ARE",
+		"part":"ADV-G",
+		"lv":"5.00"
+	},{
+		"id":1555,
+		"title":"WE ARE",
+		"part":"EXT-G",
+		"lv":"5.65"
+	},{
+		"id":1556,
+		"title":"WE ARE",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1557,
+		"title":"WE ARE",
+		"part":"BSC-B",
+		"lv":"3.75"
+	},{
+		"id":1558,
+		"title":"WE ARE",
+		"part":"ADV-B",
+		"lv":"5.15"
+	},{
+		"id":1559,
+		"title":"WE ARE",
+		"part":"EXT-B",
+		"lv":"6.25"
+	},{
+		"id":1560,
+		"title":"WE ARE",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1561,
+		"title":"YARA TUM KAHAN?",
+		"part":"BSC-D",
+		"lv":"2.95"
+	},{
+		"id":1562,
+		"title":"YARA TUM KAHAN?",
+		"part":"ADV-D",
+		"lv":"5.65"
+	},{
+		"id":1563,
+		"title":"YARA TUM KAHAN?",
+		"part":"EXT-D",
+		"lv":"7.60"
+	},{
+		"id":1564,
+		"title":"YARA TUM KAHAN?",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1565,
+		"title":"YARA TUM KAHAN?",
+		"part":"BSC-G",
+		"lv":"3.80"
+	},{
+		"id":1566,
+		"title":"YARA TUM KAHAN?",
+		"part":"ADV-G",
+		"lv":"4.40"
+	},{
+		"id":1567,
+		"title":"YARA TUM KAHAN?",
+		"part":"EXT-G",
+		"lv":"6.10"
+	},{
+		"id":1568,
+		"title":"YARA TUM KAHAN?",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1569,
+		"title":"YARA TUM KAHAN?",
+		"part":"BSC-B",
+		"lv":"3.80"
+	},{
+		"id":1570,
+		"title":"YARA TUM KAHAN?",
+		"part":"ADV-B",
+		"lv":"5.65"
+	},{
+		"id":1571,
+		"title":"YARA TUM KAHAN?",
+		"part":"EXT-B",
+		"lv":"8.00"
+	},{
+		"id":1572,
+		"title":"YARA TUM KAHAN?",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1573,
+		"title":"赤い鈴",
+		"part":"BSC-D",
+		"lv":"3.10"
+	},{
+		"id":1574,
+		"title":"赤い鈴",
+		"part":"ADV-D",
+		"lv":"5.70"
+	},{
+		"id":1575,
+		"title":"赤い鈴",
+		"part":"EXT-D",
+		"lv":"6.80"
+	},{
+		"id":1576,
+		"title":"赤い鈴",
+		"part":"MAS-D",
+		"lv":"8.40"
+	},{
+		"id":1577,
+		"title":"赤い鈴",
+		"part":"BSC-G",
+		"lv":"3.90"
+	},{
+		"id":1578,
+		"title":"赤い鈴",
+		"part":"ADV-G",
+		"lv":"5.65"
+	},{
+		"id":1579,
+		"title":"赤い鈴",
+		"part":"EXT-G",
+		"lv":"8.20"
+	},{
+		"id":1580,
+		"title":"赤い鈴",
+		"part":"MAS-G",
+		"lv":"9.55"
+	},{
+		"id":1581,
+		"title":"赤い鈴",
+		"part":"BSC-B",
+		"lv":"-"
+	},{
+		"id":1582,
+		"title":"赤い鈴",
+		"part":"ADV-B",
+		"lv":"-"
+	},{
+		"id":1583,
+		"title":"赤い鈴",
+		"part":"EXT-B",
+		"lv":"-"
+	},{
+		"id":1584,
+		"title":"赤い鈴",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1585,
+		"title":"鬼姫",
+		"part":"BSC-D",
+		"lv":"4.95"
+	},{
+		"id":1586,
+		"title":"鬼姫",
+		"part":"ADV-D",
+		"lv":"5.90"
+	},{
+		"id":1587,
+		"title":"鬼姫",
+		"part":"EXT-D",
+		"lv":"7.90"
+	},{
+		"id":1588,
+		"title":"鬼姫",
+		"part":"MAS-D",
+		"lv":"9.45"
+	},{
+		"id":1589,
+		"title":"鬼姫",
+		"part":"BSC-G",
+		"lv":"6.10"
+	},{
+		"id":1590,
+		"title":"鬼姫",
+		"part":"ADV-G",
+		"lv":"7.20"
+	},{
+		"id":1591,
+		"title":"鬼姫",
+		"part":"EXT-G",
+		"lv":"8.10"
+	},{
+		"id":1592,
+		"title":"鬼姫",
+		"part":"MAS-G",
+		"lv":"9.20"
+	},{
+		"id":1593,
+		"title":"鬼姫",
+		"part":"BSC-B",
+		"lv":"5.30"
+	},{
+		"id":1594,
+		"title":"鬼姫",
+		"part":"ADV-B",
+		"lv":"6.20"
+	},{
+		"id":1595,
+		"title":"鬼姫",
+		"part":"EXT-B",
+		"lv":"7.15"
+	},{
+		"id":1596,
+		"title":"鬼姫",
+		"part":"MAS-B",
+		"lv":"8.45"
+	},{
+		"id":1597,
+		"title":"こたつとみかん",
+		"part":"BSC-D",
+		"lv":"3.20"
+	},{
+		"id":1598,
+		"title":"こたつとみかん",
+		"part":"ADV-D",
+		"lv":"4.40"
+	},{
+		"id":1599,
+		"title":"こたつとみかん",
+		"part":"EXT-D",
+		"lv":"6.20"
+	},{
+		"id":1600,
+		"title":"こたつとみかん",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1601,
+		"title":"こたつとみかん",
+		"part":"BSC-G",
+		"lv":"2.75"
+	},{
+		"id":1602,
+		"title":"こたつとみかん",
+		"part":"ADV-G",
+		"lv":"4.40"
+	},{
+		"id":1603,
+		"title":"こたつとみかん",
+		"part":"EXT-G",
+		"lv":"6.15"
+	},{
+		"id":1604,
+		"title":"こたつとみかん",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1605,
+		"title":"こたつとみかん",
+		"part":"BSC-B",
+		"lv":"3.15"
+	},{
+		"id":1606,
+		"title":"こたつとみかん",
+		"part":"ADV-B",
+		"lv":"4.20"
+	},{
+		"id":1607,
+		"title":"こたつとみかん",
+		"part":"EXT-B",
+		"lv":"5.95"
+	},{
+		"id":1608,
+		"title":"こたつとみかん",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1609,
+		"title":"青春狂騒曲",
+		"part":"BSC-D",
+		"lv":"3.00"
+	},{
+		"id":1610,
+		"title":"青春狂騒曲",
+		"part":"ADV-D",
+		"lv":"4.35"
+	},{
+		"id":1611,
+		"title":"青春狂騒曲",
+		"part":"EXT-D",
+		"lv":"6.60"
+	},{
+		"id":1612,
+		"title":"青春狂騒曲",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1613,
+		"title":"青春狂騒曲",
+		"part":"BSC-G",
+		"lv":"2.70"
+	},{
+		"id":1614,
+		"title":"青春狂騒曲",
+		"part":"ADV-G",
+		"lv":"3.95"
+	},{
+		"id":1615,
+		"title":"青春狂騒曲",
+		"part":"EXT-G",
+		"lv":"5.30"
+	},{
+		"id":1616,
+		"title":"青春狂騒曲",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1617,
+		"title":"青春狂騒曲",
+		"part":"BSC-B",
+		"lv":"3.15"
+	},{
+		"id":1618,
+		"title":"青春狂騒曲",
+		"part":"ADV-B",
+		"lv":"4.55"
+	},{
+		"id":1619,
+		"title":"青春狂騒曲",
+		"part":"EXT-B",
+		"lv":"5.75"
+	},{
+		"id":1620,
+		"title":"青春狂騒曲",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1621,
+		"title":"二人はラブラブ(仮)",
+		"part":"BSC-D",
+		"lv":"3.40"
+	},{
+		"id":1622,
+		"title":"二人はラブラブ(仮)",
+		"part":"ADV-D",
+		"lv":"5.70"
+	},{
+		"id":1623,
+		"title":"二人はラブラブ(仮)",
+		"part":"EXT-D",
+		"lv":"7.00"
+	},{
+		"id":1624,
+		"title":"二人はラブラブ(仮)",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1625,
+		"title":"二人はラブラブ(仮)",
+		"part":"BSC-G",
+		"lv":"3.25"
+	},{
+		"id":1626,
+		"title":"二人はラブラブ(仮)",
+		"part":"ADV-G",
+		"lv":"5.45"
+	},{
+		"id":1627,
+		"title":"二人はラブラブ(仮)",
+		"part":"EXT-G",
+		"lv":"7.10"
+	},{
+		"id":1628,
+		"title":"二人はラブラブ(仮)",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1629,
+		"title":"二人はラブラブ(仮)",
+		"part":"BSC-B",
+		"lv":"3.10"
+	},{
+		"id":1630,
+		"title":"二人はラブラブ(仮)",
+		"part":"ADV-B",
+		"lv":"5.50"
+	},{
+		"id":1631,
+		"title":"二人はラブラブ(仮)",
+		"part":"EXT-B",
+		"lv":"6.85"
+	},{
+		"id":1632,
+		"title":"二人はラブラブ(仮)",
+		"part":"MAS-B",
+		"lv":"-"
+	},{
+		"id":1633,
+		"title":"明鏡止水",
+		"part":"BSC-D",
+		"lv":"3.65"
+	},{
+		"id":1634,
+		"title":"明鏡止水",
+		"part":"ADV-D",
+		"lv":"6.60"
+	},{
+		"id":1635,
+		"title":"明鏡止水",
+		"part":"EXT-D",
+		"lv":"8.15"
+	},{
+		"id":1636,
+		"title":"明鏡止水",
+		"part":"MAS-D",
+		"lv":"-"
+	},{
+		"id":1637,
+		"title":"明鏡止水",
+		"part":"BSC-G",
+		"lv":"3.25"
+	},{
+		"id":1638,
+		"title":"明鏡止水",
+		"part":"ADV-G",
+		"lv":"5.40"
+	},{
+		"id":1639,
+		"title":"明鏡止水",
+		"part":"EXT-G",
+		"lv":"7.80"
+	},{
+		"id":1640,
+		"title":"明鏡止水",
+		"part":"MAS-G",
+		"lv":"-"
+	},{
+		"id":1641,
+		"title":"明鏡止水",
+		"part":"BSC-B",
+		"lv":"3.80"
+	},{
+		"id":1642,
+		"title":"明鏡止水",
+		"part":"ADV-B",
+		"lv":"5.40"
+	},{
+		"id":1643,
+		"title":"明鏡止水",
+		"part":"EXT-B",
+		"lv":"6.80"
+	},{
+		"id":1644,
+		"title":"明鏡止水",
+		"part":"MAS-B",
+		"lv":"-"
+	}
+]
