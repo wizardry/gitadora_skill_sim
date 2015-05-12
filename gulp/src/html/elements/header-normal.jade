@@ -1,7 +1,8 @@
 header
 	.headerWrap
 		.logoWrap
-			h1 GITADORA スキルシミュレーター α
+			a(href="/")
+				h1 GITADORA スキルシミュレーター α
 			p このページはGITADORAのスキルを管理するスキルシミュレーターです。
 		- if(Auth::get_screen_name()){
 			.loginInfo 

@@ -17,8 +17,15 @@
       </dd>
     </dl>
     <div class="buttonWrap">
-      <label for="registSubmit" class="submitBase primary">仮登録<?php echo Form::submit('submit_btn', '仮登録',array('id'=>'registSubmit')); ?>
-      </label>
+      <ul>
+        <li>
+          <label for="registSubmit" class="submitBase primary">仮登録<?php echo Form::submit('submit_btn', '仮登録',array('id'=>'registSubmit')); ?>
+          </label>
+        </li>
+        <li>
+          <p><a href="/" class="submitBase inverse">戻る</a></p>
+        </li>
+      </ul>
     </div><?php echo Form::close(); ?>
   </div>
 </div>

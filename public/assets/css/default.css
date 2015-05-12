@@ -54,10 +54,10 @@ table {
   border-spacing: 0;
 }
 
-.sectionBlock, .headerWrap {
+.buttonWrap, .buttonWrap ul, .sectionBlock, .headerWrap {
   *zoom: 1;
 }
-.sectionBlock:after, .headerWrap:after {
+.buttonWrap:after, .buttonWrap ul:after, .sectionBlock:after, .headerWrap:after {
   content: " ";
   display: block;
   height: 0;
@@ -68,10 +68,10 @@ table {
   line-height: 0;
 }
 
-.sectionBlock, .headerWrap {
+.buttonWrap, .buttonWrap ul, .sectionBlock, .headerWrap {
   *zoom: 1;
 }
-.sectionBlock:after, .headerWrap:after {
+.buttonWrap:after, .buttonWrap ul:after, .sectionBlock:after, .headerWrap:after {
   content: " ";
   display: block;
   height: 0;
@@ -115,6 +115,13 @@ table {
 .submitBase.primary:hover {
   background: #0070e7;
 }
+.submitBase.inverse {
+  background: #545454;
+  color: #fff;
+}
+.submitBase.inverse:hover {
+  background: #7a7a7a;
+}
 
 .linkButtonBase {
   transition: all, 0.5s, ease-in, 0s;
@@ -148,10 +155,31 @@ table {
   background: #6c6c6c;
 }
 
-.sectionBlock, .headerWrap {
+.buttonWrap {
+  margin-top: 30px;
+  margin-bottom: 45px;
+  position: relative;
+}
+.buttonWrap ul {
+  position: relative;
+  left: 50%;
+  float: left;
+}
+.buttonWrap ul li {
+  position: relative;
+  float: left;
+  left: -50%;
+  margin: 16px;
+}
+.buttonWrap ul li .submitBase {
+  min-width: 150px;
+  width: 150px;
+}
+
+.buttonWrap, .buttonWrap ul, .sectionBlock, .headerWrap {
   *zoom: 1;
 }
-.sectionBlock:after, .headerWrap:after {
+.buttonWrap:after, .buttonWrap ul:after, .sectionBlock:after, .headerWrap:after {
   content: " ";
   display: block;
   height: 0;
@@ -163,10 +191,10 @@ table {
 }
 
 /*table*/
-.sectionBlock, .headerWrap {
+.buttonWrap, .buttonWrap ul, .sectionBlock, .headerWrap {
   *zoom: 1;
 }
-.sectionBlock:after, .headerWrap:after {
+.buttonWrap:after, .buttonWrap ul:after, .sectionBlock:after, .headerWrap:after {
   content: " ";
   display: block;
   height: 0;
@@ -205,10 +233,10 @@ body {
   position: relative;
 }
 
-.sectionBlock, .headerWrap {
+.buttonWrap, .buttonWrap ul, .sectionBlock, .headerWrap {
   *zoom: 1;
 }
-.sectionBlock:after, .headerWrap:after {
+.buttonWrap:after, .buttonWrap ul:after, .sectionBlock:after, .headerWrap:after {
   content: " ";
   display: block;
   height: 0;

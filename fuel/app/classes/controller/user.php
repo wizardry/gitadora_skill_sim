@@ -27,6 +27,8 @@ class Controller_User extends Controller
 		$view = CustomLayouts::layoutsset($layoutdata,null);
 
 		$view->content = View::forge('user/index');
+		$view->drumForm = View::forge('elements/userform','drummania');
+		$view->GuitarForm = View::forge('elements/userform','guitar');
 		return $view;
 	}
 }

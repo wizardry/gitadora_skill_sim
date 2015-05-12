@@ -47,7 +47,13 @@
 	&.disable{}
 	&.warning{}
 	&.attention{}
-	&.inverse{}
+	&.inverse{
+		background:#545454;
+		color:#fff;
+		&:hover{
+			background:lighten(#545454,15%);
+		}
+	}
 	&.info{}
 	&.default{}
 }
@@ -111,3 +117,25 @@
 .actionButtonArea{}
 .linkButtonARea{}
 .buttonGroup{}
+.buttonWrap{
+	@extend %clearfix;
+	margin-top: 30px;
+	margin-bottom: 45px;
+	position: relative;
+	ul{
+		position: relative;
+		left:50%;
+		float: left;
+		@extend %clearfix;
+		li{
+			position: relative;
+			float:left;
+			left:-50%;
+			margin: 16px;
+			.submitBase{
+				min-width: 150px;
+				width: 150px;
+			}
+		}
+	}
+}

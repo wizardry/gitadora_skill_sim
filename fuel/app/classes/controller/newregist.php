@@ -21,6 +21,19 @@ class Controller_Newregist extends Controller
 	 */
 	public function action_index()
 	{
+		if(Input::post()){
+			$temp = Model_Newregist::find('last');
+			$querytest = $temp->id;
+
+			$displayname=Input::post('username');
+			$username = $querytest+1;
+			$password=Input::post('password');
+			$email=Input::post('email');
+
+			$auth = Auth::instance();
+			$auth->create_user($username,$password,$email,1,array('displayName'=>$displayname,));
+
+		}
 		$layoutdata = array();
 		$layoutdata['title'] = '新規登録';
 		

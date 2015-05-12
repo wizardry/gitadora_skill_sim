@@ -9,7 +9,7 @@ DBを１つしかもてないのでテーブル量産でバージョンアップ対応出来るようにする。
 
 users_xx(userのログイン情報)
 	id PRIMARY_KEY
-	username VARCHAR 50
+	username int //idと同じ値を入れる
 	password VARCHAR 255
 	group INT(使わないけどデフォルトである)
 	email VARCHAR255
