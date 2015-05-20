@@ -1,5 +1,7 @@
 //globals
-var PAGEDATA = {}
+var PAGEDATA = {
+	root:'/fuel/public/assets/js/'
+}
 $(function(){
 	var CommonView = Backbone.View.extend({
 		el:'body',

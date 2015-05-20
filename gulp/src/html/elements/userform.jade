@@ -1,0 +1,16 @@
+- $node = '<div class="userform '.$data[0].'">';
+- echo $node;
+	dl.formFrame
+		dt 新曲
+		dd
+			- echo Form::select($data[0].'hotSelect','',[],['class'=>'hotSelect','multiple'=>'multiple']);
+		dd.sup ctrl + 選択で複数選択できます。
+	dl.formFrame
+		dt 旧曲
+		dd
+			- echo Form::select($data[0].'oldSelect','',[],['class'=>'oldSelect','multiple'=>'multiple']);
+		dd.sup ctrl + 選択で複数選択できます。
+	.buttonWrap
+		span.submitBase.primary.js-controlAdd 追加する
+
+- echo "</div>";

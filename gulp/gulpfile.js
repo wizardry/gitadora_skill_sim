@@ -78,7 +78,7 @@ g.task('copy',function(){
 
 g.task('watch',['sass','jade','copy'],function(){
 	g.watch(srcPath+'/**/*.jade',['jade']);
-	g.watch(srcPath+'/**/*.jade',['jadeNormal']);
+	// g.watch(srcPath+'/**/*.jade',['jadeNormal']);
 	g.watch(srcPath+'/**/scss/*.scss',['sass']);
 	g.watch(srcPath+'/**/js/**/*.js',['copy']);
 })

@@ -22,6 +22,7 @@ html(lang="ja")
 
 		link(rel="canonical" href="")
 		- echo Asset::css('default.css');
+
 		- echo Asset::js('lib/underscore-min.js');
 		- echo Asset::js('lib/underscore-min.map');
 		- echo Asset::js('lib/jquery.min.js');
@@ -29,6 +30,8 @@ html(lang="ja")
 		- echo Asset::js('lib/jquery.cookie.js');
 		- echo Asset::js('lib/backbone.js');
 		- echo Asset::js('view/common.js');
+		- echo Asset::render('add_css');
+		- echo Asset::render('add_js');
 		//- script(src="/js/lib/underscore-min.js")
 		//- script(src="/js/lib/underscore-min.map")
 		//- script(src="/js/lib/jquery.min.js")

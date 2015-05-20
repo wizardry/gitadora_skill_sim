@@ -16,7 +16,7 @@
     <meta property="og:site_name" content="">
     <meta property="fb:app_id" content="">
     <meta property="og:description" content="">
-    <link rel="canonical" href=""><?php echo Asset::css('default.css'); ?><?php echo Asset::js('lib/underscore-min.js'); ?><?php echo Asset::js('lib/underscore-min.map'); ?><?php echo Asset::js('lib/jquery.min.js'); ?><?php echo Asset::js('lib/jquery.min.map'); ?><?php echo Asset::js('lib/jquery.cookie.js'); ?><?php echo Asset::js('lib/backbone.js'); ?><?php echo Asset::js('view/common.js'); ?>
+    <link rel="canonical" href=""><?php echo Asset::css('default.css'); ?><?php echo Asset::js('lib/underscore-min.js'); ?><?php echo Asset::js('lib/underscore-min.map'); ?><?php echo Asset::js('lib/jquery.min.js'); ?><?php echo Asset::js('lib/jquery.min.map'); ?><?php echo Asset::js('lib/jquery.cookie.js'); ?><?php echo Asset::js('lib/backbone.js'); ?><?php echo Asset::js('view/common.js'); ?><?php echo Asset::render('add_css'); ?><?php echo Asset::render('add_js'); ?>
   </head>
   <body>
     <div class="headerOuter"><?php echo $header; ?>

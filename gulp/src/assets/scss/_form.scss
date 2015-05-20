@@ -29,6 +29,10 @@ input[type=time],input[type=datetime]{}
 //　もしくは[multiple]にて別途指定する。
 select{
 	padding:3px 6px;
+	&.hotSelect,&.oldSelect{
+		height: 8em;
+		min-width:450px;
+	}
 }
 
 //

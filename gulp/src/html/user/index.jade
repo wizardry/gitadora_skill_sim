@@ -1,14 +1,125 @@
+- Config::load('iprefecture');
+- $prefCode = Config::get('prefData');
+- $pref = array();
+- $i = 0;
+- foreach($prefCode as $area){
+- 	$pref[$i] = $area;
+- 	$i++;
+- }
 .contentWrap.userPage
 	.sectionBlock
 		h2.sectionHeadline
-			- echo $username;
+			//- - echo $username;
 			|さんの編集画面
 		ul.tabMenu
 			li.toMyEdit プロフィール情報の編集
 			li.toDrum DRUMMANIA情報の編集
 			li.toGuitar GUITARFREAKS情報の編集
 		.tabContents
-			.tabContent
-				
-			.tabContent
-			.tabContent
+			.tabContent.profileContent
+				- echo Form::open(array('name'=>'profiles'));
+				- echo Form::hidden('formType','profiles');
+				dl.formFrame
+					dt 表示名
+					dd 
+						- echo Form::input('displayName',Input::post('displayName'),array('required'=>'required','type'=>'text',));
+				dl.formFrame
+					dt 都道府県
+					dd 
+						- echo Form::select('pref',Input::post('pref'),$pref);
+				dl.formFrame
+					dt ホーム
+					dd 
+						- echo Form::input('home',Input::post('home'),array('type'=>'text',));
+				dl.formFrame
+					dt URL
+					dd 
+						- echo Form::input('url',Input::post('url'),array('type'=>'text',));
+				dl.formFrame
+					dt コメント
+					dd 
+						- echo Form::textarea('comment',Input::post('comment'),array('class'=>'comment'));
+				.buttonWrap
+					label.submitBase.primary(for="userEditSubmit") 編集
+						- echo Form::submit('submit_btn', '編集',array('id'=>'userEditSubmit'));
+
+				- echo Form::close();
+			.tabContent.drumContent
+				//- - echo $header;
+				- echo Form::open(array('name'=>'drum'));
+				- echo Form::hidden('formType','drum');
+				//- formtemplate
+				- echo $drumform; 
+				.controlWrap
+					.hotControl
+						table#drumHotControlTable.controlTable.hot
+							thead
+								tr
+									th.iterator Num
+									th.title 曲名
+									th.part 難易度
+									th.part レベル
+									th.rate 達成率
+									th.skill スキル
+									th.status ランク
+									th.comment コメント
+									th.comment 削除
+							tbody
+					.oldControl
+						table#drumOldControlTable.controlTable.old
+							thead
+								tr
+									th.iterator Num
+									th.title 曲名
+									th.part 難易度
+									th.part レベル
+									th.rate 達成率
+									th.skill スキル
+									th.status ランク
+									th.comment コメント
+									th.comment 削除
+							tbody
+				.buttonWrap
+					label.submitBase.primary(for="drumEditSubmit") 編集
+						- echo Form::submit('submit_btn', '編集',array('id'=>'drumEditSubmit'));
+
+				- echo Form::close();
+			.tabContent.guitarContent
+				- echo $guitarform;
+				- echo Form::open(array('name'=>'guitar'));
+				- echo Form::hidden('formType','guitar');
+				.controlWrap
+					.hotControl
+						table#GuitarHotControlTable.controlTable.hot
+							thead
+								tr
+									th.iterator Num
+									th.title 曲名
+									th.part 難易度
+									th.part レベル
+									th.rate 達成率
+									th.skill スキル
+									th.status ランク
+									th.comment コメント
+									th.comment 削除
+							tbody
+					.oldControl
+						table#GuitarOldControlTable.controlTable.old
+							thead
+								tr
+									th.iterator Num
+									th.title 曲名
+									th.part 難易度
+									th.part レベル
+									th.rate 達成率
+									th.skill スキル
+									th.status ランク
+									th.comment コメント
+									th.comment 削除
+							tbody
+
+				.buttonWrap
+					label.submitBase.primary(for="guitarEditSubmit") 編集
+						- echo Form::submit('submit_btn', '編集',array('id'=>'guitarEditSubmit'));
+
+				- echo Form::close();

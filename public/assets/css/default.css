@@ -215,6 +215,10 @@ input[type=search], input[type=tel] {
 select {
   padding: 3px 6px;
 }
+select.hotSelect, select.oldSelect {
+  height: 8em;
+  min-width: 450px;
+}
 
 /* form layouat */
 .formFrame {
